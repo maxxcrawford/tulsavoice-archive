@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33824_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The winner for the most Tony Awards for a single production\, M
+ el Brooks's The Producers is the tale of two men who discover they can mak
+ e more money on Broadway with a flop than with a hit.\n\n110 E 2nd St\nTul
+ sa\, OK\n
+DTSTART;VALUE=DATE:20180413
+DTEND;VALUE=DATE:20180421
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:The Producers
+URL:http://tulsapac.com/
+END:VEVENT
+END:VCALENDAR

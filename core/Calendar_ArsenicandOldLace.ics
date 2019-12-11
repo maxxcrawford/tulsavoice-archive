@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14706_20@www.thetulsavoice.com
+DTSTAMP:20191211T201231Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Mortimer Brewster has a family of insane homicidal maniacs. Amo
+ ng them are his aunts\, who lure lonely old men in and poison them\, and h
+ is brother\, who\, believing he is Theodore Roosevelt\, has taken to diggi
+ ng the Panama Canal in the family's cellar. This 1939 play is best remembe
+ red for its Frank Capra-directed\, Cary Grant-starring 1944 film adaptatio
+ n.\n\n124 S Water St\nSapulpa\, OK\n
+DTSTART;VALUE=DATE:20150206
+DTEND;VALUE=DATE:20150215
+LOCATION:Sapulpa Community Theater
+PRIORITY:
+SUMMARY:Arsenic and Old Lace
+URL:https://www.facebook.com/events/554687151300421/
+END:VEVENT
+END:VCALENDAR

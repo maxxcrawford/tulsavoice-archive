@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16164_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:On his 21st birthday\, Gene learns that his father\, who died 1
+ 4 years prior\, was murdered and sets out on a twisted journey for vengean
+ ce. With amputees\, seizures\, hallucinations\, a flooding city\, nightmar
+ es\, train wrecks and suicide (this play's got it all!) this dark comedy s
+ atirizes 19th-century Russian literature with a murder-mystery plot. Prese
+ nted by Riverfield Country Day School. Mature audiences only.\n\n110 E 2nd
+  St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150430
+DTEND;VALUE=DATE:20150501
+LOCATION:Liddy Doenges Theatre\, Tulsa PAC
+PRIORITY:
+SUMMARY:A Devil Inside
+URL:http://tulsapac.com/events.asp?id=92&eventid=3146&task=display
+END:VEVENT
+END:VCALENDAR

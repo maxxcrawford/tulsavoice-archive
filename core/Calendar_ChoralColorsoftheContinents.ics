@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47887_20@www.thetulsavoice.com
+DTSTAMP:20191211T201208Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'Choral Music from North America\,ÊSouth America\, Europe\, Asi
+ a\, Africa\,Êand Down Under.'\n\nOK\n
+DTSTART:20191026T193000
+DTEND:20191026T000000
+LOCATION:Cascia Hall
+PRIORITY:
+SUMMARY:Choral Colors of the Continents
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=47887
+END:VEVENT
+END:VCALENDAR

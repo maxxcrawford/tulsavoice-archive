@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21785_20@www.thetulsavoice.com
+DTSTAMP:20191211T201258Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Beginning in the 1950s with Manley Johnson\, Ron Padgett\, a
+ nd Ted Berrigan\, Tulsa has a long tradition of attracting and producing p
+ oets who push the boundaries of sense and sensibility. This event gathers 
+ poets from around Oklahoma working in this tradition today who use languag
+ e in ways that embody contemporary life in the 21st century\, including fe
+ atured poet Phil Estes\, as well as Victoria McArtor\, Sheila Black\, Liz 
+ Ruyle\, Tim Bradford\, Kate Roddy\, Bruce Willis\, Tai Igarashi\, Hugh Tri
+ bbey\, Adam Lux and more.</p>\n\n\n307 E M.B. Brady St\nTulsa\, OK\n
+DTSTART:20160303T200000
+DTEND:20160303T000000
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:OK Avant Garde
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=21785
+END:VEVENT
+END:VCALENDAR

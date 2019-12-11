@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48894_20@www.thetulsavoice.com
+DTSTAMP:20191211T191213Z
+CATEGORIES:SPECIAL EVENTS
+DESCRIPTION:<p></p>\n\n<p class='p1'><b>ATTN: Job Seekers! </b>100s of Jobs
+  are up for grabs at the JobNewsUSA.com Tulsa Job Fair on January 22nd! Th
+ is is your opportunity to meet one-on-one with recruiters and hiring manag
+ ers from the area’s top hiring companies!</p>\n\n<p class='p2'> </p>\n\n<p
+  class='p3'>﻿Whether you’re looking for an entry-level position or a more 
+ experienced management job\, this Job Fair will have something for you. Ge
+ t in before these positions fill up!</p>\n\n<p class='p4'> </p>\n\n<p clas
+ s='p5'><b>﻿To view a list of companies attending\, visit:</b> http://bit.l
+ y/TUL-JF-0122</p>\n\n<p class='p4'> </p>\n\n<p class='p6'><b>﻿</b><b>When 
+ you attend a JobNewsUSA.com Job Fair you will have the opportunity to:</b>
+ </p>\n\n<p class='p7'>﻿• Build your professional network</p>\n\n<p class='
+ p7'>﻿• Learn about upcoming job opportunities that haven’t been advertised
+  yet</p>\n\n<p class='p3'>﻿• Possibly walk away with a job! Some employers
+  offer on-the-spot interviews and job offers</p>\n\n<p class='p4'> </p>\n
+ <p class='p5'><b>REGISTER NOW TO ATTEND!</b> We’ll send you a reminder ema
+ il one day prior to the hiring event.</p>\n\n<p class='p4'> </p>\n\n<p cla
+ ss='p6'><b>﻿Tips for Job Fair Success:</b></p>\n\n<p class='p7'>• Dress pr
+ ofessionally\, as if attending a job interview</p>\n\n<p class='p7'>﻿• Pra
+ ctice a pitch that summarizes your skills and experience</p>\n\n<p class='
+ p7'>﻿• Make a good first – and lasting – impression with each recruiter</p
+ >\n\n<p class='p3'>﻿• Bring several copies of your updated resume or work 
+ history to the event</p>\n\n<p class='p4'> </p>\n\n<p class='p5'><b>﻿Parki
+ ng and Admission are FREE.</b></p>\n\n<p class='p6'><b>﻿For more informati
+ on\, call (918) 513-8400.</b></p>\n\n\n6808 South 107th E Ave.\n6808 South
+  107th E Ave.Tulsa\, OK\n74133\n\n
+DTSTART:20200122T100000
+DTEND:20200122T140000
+LOCATION:Renaissance Tulsa Hotel & Convention Center
+PRIORITY:
+SUMMARY:JobNewsUSA.com Tulsa Job Fair - January 22nd
+URL:https://jobfairsnearme.com/job_fairs/jobnewsusa-dot-com-tulsa-job-fair-
+ january-22nd-jan-22-2020?utm_source=thetulsavoice&utm_medium=organic&utm_t
+ erm=&utm_content=&utm_campaign=TUL190122
+END:VEVENT
+END:VCALENDAR

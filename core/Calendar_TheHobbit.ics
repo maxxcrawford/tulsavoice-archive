@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23447_20@www.thetulsavoice.com
+DTSTAMP:20191211T201221Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tulsa Youth Opera\, which features singers in the third through
+  twelfth grades\, presents Dean Burry's adaptation of J.R.R. Tolkien's bel
+ oved novel\, The Hobbit. Burry's opera was written specifically for young 
+ performers\, and brings magic of Middle Earth to life with a hummable scor
+ e.\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160618
+DTEND;VALUE=DATE:20160619
+LOCATION:Tulsa Performing Arts Center - John H. Williams Theatre
+PRIORITY:
+SUMMARY:The Hobbit
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:11682_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Rick Miller performs a one-man multimedia show taking his audie
+ nce through the music\, culture\, and politics of the Baby Boom generation
+ . Spanning 25 years from 1945-69\, Miller gives voice to over one hundred 
+ influential people of the era.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART:20140920T180000
+DTEND:20140920T000000
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:BOOM
+URL:http://tulsapac.com/events.asp?id=92&eventid=2979&task=display
+END:VEVENT
+END:VCALENDAR

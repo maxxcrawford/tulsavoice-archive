@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14707_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Andrs Franco conducts Signature Symphony through works by o
+ ne of the world&#39\;s greatest film composers. Featuring selections from 
+ Harry Potter and the Sorceror&#39\;s Stone\, Raiders of the Lost Ark\, Jaw
+ s\, Saving Private Ryan\, &Ograve\;Superman\,&Oacute\; &Ograve\;Schindler&
+ Otilde\;s List\,&Oacute\; &Ograve\;E.T.\,&Oacute\; and of course\, &Ograve
+ \;Star Wars\, among others.</p>\n\n\n10300 E 81st St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150206
+DTEND;VALUE=DATE:20150207
+LOCATION:VanTrease PACE
+PRIORITY:
+SUMMARY:The Music of John Williams
+URL:http://signaturesymphony.org/cirque-de-la-symphonie.html
+END:VEVENT
+END:VCALENDAR

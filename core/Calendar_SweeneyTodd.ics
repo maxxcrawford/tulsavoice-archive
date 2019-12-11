@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16157_20@www.thetulsavoice.com
+DTSTAMP:20191211T201253Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Memorial High School Choir present Stephen Sondheim and Hugh Wh
+ eeler's horror/musical Sweeney Todd: The Demon Barber of Fleet Street.\n\n
+ 5840 S Hudson Ave\nTulsa\, OK\n
+DTSTART:20150417T180000
+DTEND:20150418T000000
+LOCATION:Memorial High School
+PRIORITY:
+SUMMARY:Sweeney Todd
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=16157
+END:VEVENT
+END:VCALENDAR

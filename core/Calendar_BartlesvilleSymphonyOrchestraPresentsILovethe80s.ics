@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:37880_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Molly Collins
+DESCRIPTION:<p>Jeans &lsquo\;n Classics returns with all those great hits f
+ rom the 1980&rsquo\;s! How can we forget &ldquo\;Walk Like an Egyptian\,&r
+ dquo\; &ldquo\;Love Shack\,&rdquo\; &ldquo\;She Blinded Me With Science\,&
+ rdquo\; or &ldquo\;Careless Whispers?&rdquo\; Eight great musicians join w
+ ith the Bartlesville Symphony performing these and many more of your favor
+ ites\, taking us all back to the days of big hair\, denim jackets and boom
+  boxes. So put on your slap bracelets and shoulder pads and Just Say &ldqu
+ o\;Yes!&rdquo\;</p>\n\n\nPhone: 9183667717\n\n300 S.E. Adams Blvd.\nBartle
+ sville\, OK\n74003\n\n
+DTSTART:20190504T193000
+DTEND:20190504T000000
+LOCATION:Bartlesville Community Center
+PRIORITY:
+SUMMARY:Bartlesville Symphony Orchestra Presents 'I Love the 80s'
+URL:http://www.bsook.org
+END:VEVENT
+END:VCALENDAR

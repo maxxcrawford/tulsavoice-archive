@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:17232_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:In his first cabaret show\, Pat Hobbs takes the audience on a m
+ ultimedia trip through his theatrical and personal firsts\, from his almos
+ t 50 years entertaining Tulsa audiences to the sweet and funny tale of his
+  longtime marriage to his husband\, John.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150626
+DTEND;VALUE=DATE:20150626
+LOCATION:Robert J. LaFortune Studio\, Tulsa PAC
+PRIORITY:
+SUMMARY:Pat Hobbs: Firsts
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

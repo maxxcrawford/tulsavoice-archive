@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:36226_20@www.thetulsavoice.com
+DTSTAMP:20191211T201235Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:This new performance art piece by Michael Wright examines how w
+ e see each other and how we are seen through spoken word\, movement\, danc
+ e\, and audience interaction.\n\n9 E M.B. Brady St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180525
+DTEND;VALUE=DATE:20180527
+LOCATION:TAC Gallery
+PRIORITY:
+SUMMARY:Face to Face to Face
+URL:http://tacgallery.org
+END:VEVENT
+END:VCALENDAR

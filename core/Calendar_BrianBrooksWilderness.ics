@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30239_20@www.thetulsavoice.com
+DTSTAMP:20191211T201243Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Brooks and his New York-based ensemble reveal the duality of
+  the human condition with an alternately combative and intimate performanc
+ e that suspends the limits of the body and imagination. Brooks will also t
+ each an intensive over the course of Summer Heat Dance Festival.</p>\n\n<p
+ >Read Alicia Chesser&rsquo\;s article on Brian Brooks Moving Company <stro
+ ng><a href='http://www.thetulsavoice.com/July-B-2017/Stimulus-package/'>he
+ re</a></strong>.</p>\n\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, O
+ K\n74103\n\n
+DTSTART:20170806T200000
+DTEND:20170806T000000
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:Brian Brooks: Wilderness
+URL:http://choregus.org
+END:VEVENT
+END:VCALENDAR

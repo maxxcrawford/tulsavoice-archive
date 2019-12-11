@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:20057_20@www.thetulsavoice.com
+DTSTAMP:20191211T201239Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:This musical by Becky Hobbs and Nick Sweet tells the story of N
+ anyehi\, known in English as Nancy Ward\, a Beloved Woman of the Cherokee 
+ who worked as a peace negotiator and ambassodor to European-Americans.\n\n
+ 777 W Cherokee St\nCatoosa\, OK\n
+DTSTART:20151105T180000
+DTEND:20151107T000000
+LOCATION:Hard Rock Casino - The Joint
+PRIORITY:
+SUMMARY:Nanyehi
+URL:http://www.hardrockcasinotulsa.com/the-joint-tulsa/nanyehi-(1)/
+END:VEVENT
+END:VCALENDAR

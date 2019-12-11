@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12726_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>An evening of one-act plays written by the winners of the Tu
+ lsa City-County Library&#39\;s 2014 Young People&#39\;s Creative Writing C
+ ontest\, One-Act Play category. The plays\, written by young writers ages 
+ 10-18\, are directed by Michael Wright\, director of the Interdisciplinary
+  Program in Creative Writing at the University of Tulsa. &ldquo\;The very 
+ fact that the Tulsa Library creates an opportunity for young people to wri
+ te theatre is phenomenal\, said Wright. Add to that the respect shown for 
+ their work by the Tulsa Performing Arts Center Trust to have the pieces st
+ aged\, and you&rsquo\;re looking at a genuine celebration of theatre and a
+  new generation of theatre-makers. The pieces we&rsquo\;ve been privileged
+  to work on range from out-and-out whimsy to quite serious. These short pl
+ ays are full of joy about life and concerns for the quality of life. I fee
+ l very fortunate to have a topnotch cast to work with\; we are reveling in
+  the fun of bringing the plays to life.&rdquo\;</p>\n\n\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20141018
+DTEND;VALUE=DATE:20141018
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Brain Storms: New Works by Young Writers
+URL:http://tulsapac.com/events.asp?id=92&eventid=2938&task=display
+END:VEVENT
+END:VCALENDAR

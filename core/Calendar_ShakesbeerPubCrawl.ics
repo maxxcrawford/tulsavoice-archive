@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40078_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Stroll through the Arts District for drinks and see excerpts
+  of some of The Immortal Bard&#39\;s greatest plays.</p>\n\n\nTulsa\, OK\n
+DTSTART:20181117T190000
+DTEND:20181117T220000
+LOCATION:Tulsa Arts District
+PRIORITY:
+SUMMARY:Shakesbeer Pub Crawl
+URL:http://theatretulsa.org
+END:VEVENT
+END:VCALENDAR

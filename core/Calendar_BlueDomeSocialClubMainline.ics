@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40546_20@www.thetulsavoice.com
+DTSTAMP:20191211T201250Z
+CATEGORIES:COMEDY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL EVENTS,
+ VISUAL ART
+DESCRIPTION:<p>A live\, improvised comedy show\, inspired from music\, stor
+ ies\, or words from you! Each month\, join BDSC at the Mainline Art Bar an
+ d help&nbsp\;create a show unique to the audience that infuses it.</p>\n\n
+ <p>No cover.<br style='color:rgb(32\,33\,36)\;font-family:Roboto\, Arial\,
+  sans-serif\;letter-spacing:.1px\;' />\n21+ to enter.</p>\n\n\nPhone: 937-
+ 292-9449\n\n111 N Main St\nTulsa\, OK\n74103\n\n
+DTSTART:20190109T200000
+DTEND:20190109T200000
+LOCATION:Mainline Art & Cocktails
+PRIORITY:
+SUMMARY:Blue Dome Social Club @ Mainline
+URL:http://www.mainlineartok.com
+END:VEVENT
+END:VCALENDAR

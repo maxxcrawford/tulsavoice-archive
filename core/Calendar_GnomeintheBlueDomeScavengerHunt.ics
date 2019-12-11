@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49114_20@www.thetulsavoice.com
+DTSTAMP:20191211T191256Z
+CATEGORIES:EVENTS
+DESCRIPTION:<p>&quot\;All month long Miss Bouncing DancyPants\, Tulsa&#39\;
+ s favorite elf\, will be hiding in different buissinesses in the Blue Dome
+  District. Grab Blue Dome Passport to join tha fun and get a special stamp
+  when you find her. The person with the most stamps at the end of the mont
+ h will win a special prize!&quot\;</p>\n\n\nOK\n
+DTSTART;VALUE=DATE:20191204
+DTEND;VALUE=DATE:20191224
+LOCATION:Blue Dome District
+PRIORITY:
+SUMMARY:Gnome in the Blue Dome Scavenger Hunt
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49114
+END:VEVENT
+END:VCALENDAR

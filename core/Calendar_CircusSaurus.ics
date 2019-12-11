@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:46209_20@www.thetulsavoice.com
+DTSTAMP:20191211T201232Z
+CATEGORIES:COMEDY,EVENTS,FAMILY,MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING 
+ ARTS,SPECIAL EVENTS,SPORTS
+CONTACT:Circus Saurus
+DESCRIPTION:<p>See The Dinosaurs and Unicorn Come Alive At The Circus</p>\n
+ <p> </p>\n\n<p>The 2019 edition of CIRCUS SAURUS will feature artists from
+  around the world.  Immerse yourself into a mythological quest where fanta
+ sies and dreams become a reality.  You will be transported to a whimsical 
+ world where mystical creatures will come to life right before your eyes.  
+ New heights of imagination will be reached as the elusive unicorn prances 
+ through the center ring to delight children of all ages.  Dinosaurs will o
+ nce again shake the ground we walk on as we travel back millions of years 
+ and have your heart captivated by our Majestic Asian Elephants! </p>\n\n<p
+ > </p>\n\n<p>Not only will our Unicorns\, Dinosaurs and Asian elephants ex
+ cite you\, but you will also be amazed by daredevils on the Wheel of Desti
+ ny\, Tumbling Acrobats\, High Speed Jugglers\, Hilarious Clowns and Aerial
+  Artists who will soar to new heights at the apex of the Big Top!</p>\n\n<
+ p> </p>\n\n<p>This fantastical adventure can only be found under the CIRCU
+ S BIG TOP!!! </p>\n\n<p> </p>\n\n<p>For more information and tickets visit
+  bigtopshow.com or call (580)743-7292!</p>\n\n<p>-------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ ---</p>\n\n<p> </p>\n\n<p>WE’RE ALSO HAVING AN ELEPHANT SHOWER</p>\n\n<p> 
+ </p>\n\n<p>IT'S TIME TO GET CLEAN!!!</p>\n\n<p>The TULSA  community is inv
+ ited to a FREE EVENT!</p>\n\n<p> </p>\n\n<p>Carson & Barnes Circus invites
+  the TULSA community to join them as they bathe their beautiful elephants 
+ in a SPA DAY!   The mighty pachyderms will enjoy a luxury BATH as guests t
+ ake the opportunity to enjoy these animals up close and learn about their 
+ species.</p>\n\n<p>The bath time is scheduled for 3:00 p.m. on THURSDAY – 
+ AUGUST 29TH located WEST OF PLAZA SANTA CECILIA  before the performances s
+ cheduled at 4:30 & 7:30 pm.  Join us for this fun filled experience!<br />
+  </p>\n\n<p> </p>\n\n<p>Pachyderm Facts</p>\n\n<p>Just like humans the Car
+ son & Barnes Circus elephants take daily showers\, although unlike most of
+  us they really get the royal treatment. They get to lie down and get scru
+ bbed cleaned by their loved handlers. It takes approximately 500 gallons o
+ f water and a gallon of special soap just to give one elephant their daily
+  bath. The majestic pachyderms are bathed with a soap that helps their nat
+ urally tough skin. Pressured water is used to help them achieve a spa like
+  cleansing! This is a once in a lifetime opportunity to see an elephant’s 
+ bath!!!</p>\n\n\nPhone: 5807437292\n\n2160 S. Garnett Rd.\nTulsa\, OK\n741
+ 29\n\n
+DTSTART:20190829T163000
+DTEND:20190829T193000
+LOCATION:West of Plaza Santa Cecilia
+PRIORITY:
+RRULE:FREQ=DAILY;UNTIL=20190902;INTERVAL=1
+SUMMARY:Circus Saurus
+URL:http://bigtopshow.com
+END:VEVENT
+END:VCALENDAR

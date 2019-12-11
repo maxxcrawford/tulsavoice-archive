@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48521_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The Cherokee National Youth Choir performs traditional songs in
+  the Cherokee language as part of the free noontime concert series.\n\nOK
+DTSTART:20191106T000000
+DTEND:20191106T000000
+LOCATION:TULSA PAC - Westby Pavilion
+PRIORITY:
+SUMMARY:Brown Bag It: Cherokee National Youth Choir
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=48521
+END:VEVENT
+END:VCALENDAR

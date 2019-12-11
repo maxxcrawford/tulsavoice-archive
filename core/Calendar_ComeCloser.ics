@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:26871_20@www.thetulsavoice.com
+DTSTAMP:20191211T201248Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This selection of dance pieces curated by Liv Jensen seeks t
+ o remove the traditional distance between audience and performer. From thi
+ s new vantage point\, dancers&rsquo\; breath is more apparent and audible\
+ , subtle gestures and facial expressions become clearer. A greater connect
+ ion is made.</p>\n\n<p>Performances include &ldquo\;<strong>Di&aacute\;log
+ o</strong>\,&rdquo\; a loosely choreographed conversation with oneself\, b
+ y Luis Eduardo Garcia Garcia\, which is unaccompanied by music\, &ldquo\;<
+ strong>She writes with white ink.</strong>&rdquo\; by Marianne Evans-Lombe
+ \, &ldquo\;<strong>Roommates</strong>\,&rdquo\; in which Jensen and Anna B
+ ennett explore the implications of living parallel but separate lives\, an
+ d &ldquo\;<strong>Bring Me Water</strong>&rdquo\; by Mia Wright and Kevin 
+ Ferguson II.</p>\n\n\nPhone: (918) 585-1234\n\n307 East M.B. Brady Street
+ Tulsa\, OK\n
+DTSTART:20170113T200000
+DTEND:20170113T000000
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:Come Closer
+URL:http://www.livingarts.org
+END:VEVENT
+END:VCALENDAR

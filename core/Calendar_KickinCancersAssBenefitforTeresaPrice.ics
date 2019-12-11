@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21825_20@www.thetulsavoice.com
+DTSTAMP:20191211T201217Z
+CATEGORIES:MUSIC
+DESCRIPTION:<p>Over two dozen musicians will fill the VFW&#39\;s Banquet Ha
+ ll to help Teresa Price in her battle with cancer. Price&#39\;s husband\, 
+ Lloyd Price is a blues&nbsp\;guitarist who has played with many of Tulsa&#
+ 39\;s finest musicians.</p>\n\n<p>There will be performances by Lloyd Pric
+ e\, Steve Pryor\, David Dover\, Ted Bailey\, Joshua Yarbrough\, Dylan Whit
+ ney\, Pearson Brothers\, Steve Dufresne\, Jennifer Marriott\, Pete Marriot
+ t\, Wanda Watson\, David Thayer\, Paul Benjaman\, Charles Tubberville\, Da
+ vid Skinner\, Jimmy &quot\;Junior&quot\; Markham\, Tim Smith\, Danny Timms
+ \, Kevin Flint\, Little Joe McLerran\, Bill Snow\, Chris Douglas\, Dave Ru
+ ssell\, and more.</p>\n\n<p>A portion of the proceeds will also go to VFW 
+ Post 577.</p>\n\n<p>Read Mitch Gilliam&#39\;s <strong><a href='http://www.
+ thetulsavoice.com/March-A-2016/Kickin-Cancer/'>article</a></strong> on the
+  all day rockathon.</p>\n\n\n1109 E 6th St.\nTulsa\, OK\n74120\n\n
+DTSTART:20160305T150000
+DTEND:20160305T230000
+LOCATION:VFW Post 577 Banquet Hall
+PRIORITY:
+SUMMARY:Kickin' Cancer's Ass! Benefit for Teresa Price
+URL:http://www.facebook.com/events/473167249555569/
+END:VEVENT
+END:VCALENDAR

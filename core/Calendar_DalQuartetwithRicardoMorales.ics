@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:22742_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The Dal&iacute\;&nbsp\;Quartet fuses Latin soul with classic
+ al music. Joined by Ricardo Morales\, principal clarinetist of the Philade
+ lphia Orchestra\, the Quartet will perform Brahms&#39\;s Clarinet Quintet 
+ in B Minor\, Op. 115\, Heitor Villa-Lobos&#39\;s Quartet No. 1\, as well a
+ s a selection of songs and dances from South and Latin America.</p>\n\n\nP
+ hone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160507
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Dalí Quartet with Ricardo Morales
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

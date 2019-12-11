@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33766_20@www.thetulsavoice.com
+DTSTAMP:20191211T201214Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Based on the same Hungarian play that was the basis for the mov
+ ie You've Got Mail\, this musical revolves around two shop employees who\,
+  despite being at odds with each other\, are unaware that each is the othe
+ r's secret pen pal.\n\n7777 S Lewis Ave\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180301
+DTEND;VALUE=DATE:20180304
+LOCATION:Howard Auditorium
+PRIORITY:
+SUMMARY:She Loves Me
+URL:http://www.facebook.com/ORUTheatre/
+END:VEVENT
+END:VCALENDAR

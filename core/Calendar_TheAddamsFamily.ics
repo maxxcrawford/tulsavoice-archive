@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30079_20@www.thetulsavoice.com
+DTSTAMP:20191211T201240Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Broadway at Boston Avenue presents a musical comedy that shows 
+ loving families come in all shapes and sizes.\n\n1301 S Boston Ave.\nTulsa
+ \, OK\n74119\n\n
+DTSTART;VALUE=DATE:20170721
+DTEND;VALUE=DATE:20170730
+LOCATION:Boston Avenue Methodist Church
+PRIORITY:
+SUMMARY:The Addams Family
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=30079
+END:VEVENT
+END:VCALENDAR

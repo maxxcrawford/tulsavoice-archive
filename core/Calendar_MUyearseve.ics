@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40769_20@www.thetulsavoice.com
+DTSTAMP:20191211T201250Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Steven Beard
+DESCRIPTION:<p>A celebration of the new years\, with Music And performing a
+ rtists.</p>\n\n\nPhone: 9186959326\n\n1416 e 4th\nTulsa\, OK\n74104\n\n
+DTSTART:20181231T200000
+DTEND:20190101T021500
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:MU years eve
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=40769
+END:VEVENT
+END:VCALENDAR

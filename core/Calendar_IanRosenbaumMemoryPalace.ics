@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47485_20@www.thetulsavoice.com
+DTSTAMP:20191211T191213Z
+CATEGORIES:PERFORMING ARTS
+CONTACT:Ken Tracy
+DESCRIPTION:<h3>Praised for his “excellent” and “precisely attuned” perform
+ ances by the New York Times\, percussionist Ian Rosenbaum has developed a 
+ musical breadth far beyond his years. He made his Kennedy Center debut in 
+ 2009 and later that year garnered a special prize created for him at the S
+ alzburg International Marimba Competition. Rosenbaum joined the Chamber Mu
+ sic Society of Lincoln Center in 2012 as only the second percussionist sel
+ ected in the Society’s history.  Memory Palace is an hour-long immersive m
+ usical narrative built around Christopher Cerrone’s evocative work of the 
+ same name. Through electro-acoustic soundscapes\, visual projections\, and
+  a fluid juxtaposing of unexpected techniques and found\, built\, and trad
+ itional instruments\, works by five American composers are interwoven seam
+ lessly to explore new\, expressive possibilities for solo percussion.</h3>
+ \n\nPhone: 918-295-5965\n\nTulsa Performing Arts Center\n110 E 2nd St\nTul
+ sa\, OK\n74103\n\n
+DTSTART:20200124T000000
+DTEND:20200124T000000
+LOCATION:Doenges Theater
+PRIORITY:
+SUMMARY:Ian Rosenbaum:  Memory Palace
+URL:http://www.choregus.org
+END:VEVENT
+END:VCALENDAR

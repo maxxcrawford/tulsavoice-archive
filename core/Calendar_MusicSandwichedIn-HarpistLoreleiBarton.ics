@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42551_20@www.thetulsavoice.com
+DTSTAMP:20191211T201249Z
+CATEGORIES:MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Rebecca H
+DESCRIPTION:<p>Please join us for our yearly summer music series as part of
+  your Tulsa City-County Library's Summer Reading Program. </p>\n\n<p>Harpi
+ st Lorelei Barton will make her first appearance on Music Sandwiched In on
+  July 8.  Barton is known as the founder of the Midwest Harp festival.  Sh
+ e has performed with the Tulsa Philharmonic\, Tulsa Ballet\, Tulsa Opera\,
+  for a variety of chamber ensembles and at many festivals.  Her programs i
+ nclude music ranging from the classics through Broadway to pop and jazz an
+ d most likely will include Blue Moon and Moonlight Sonata as a salute to t
+ he Library’s Space theme.</p>\n\n\n400 civic center\nTulsa\, OK\n74103\n\n
+DTSTART:20190708T000000
+DTEND:20190722T130000
+LOCATION:Central Library
+PRIORITY:
+SUMMARY:Music Sandwiched In - Harpist Lorelei Barton
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=42551
+END:VEVENT
+END:VCALENDAR

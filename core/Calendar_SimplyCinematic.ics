@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16440_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Tulsa Symphony pays tribute to one of the best film composer
+ s ever\, John Williams. Fans of Williams&#39\;s work who attended Signatur
+ e Symphony&#39\;s tribute his work back in February will be happy to know 
+ this program will feature some differing selections\, including his Libert
+ y Fanfare written for the centennial celebration of The Statue of Liberty 
+ and pieces from his scores for Jurassic Park\, Seven Years in Tibet\, The 
+ Terminal\, Harry Potter\, Superman and an entire second act dedicated to t
+ he music of Star Wars.</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART:20150509T180000
+DTEND:20150509T000000
+LOCATION:Chapman Music Hall\, Tulsa PAC
+PRIORITY:
+SUMMARY:Simply Cinematic
+URL:http://tulsapac.com/events.asp?id=92&eventid=2922&task=display
+END:VEVENT
+END:VCALENDAR

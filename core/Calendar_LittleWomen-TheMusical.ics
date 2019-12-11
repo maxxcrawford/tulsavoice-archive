@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:15529_20@www.thetulsavoice.com
+DTSTAMP:20191211T201249Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The University of Tulsa&#39\;s Department of Theatre present
+ s this musical adaptation of Louisa May Alcott&#39\;s beloved novel about 
+ the&nbsp\;March sisters&mdash\;Meg\, Jo\, Beth and Amy. The musical&nbsp\;
+ explores what it means to be part of a family while pursuing one&#39\;s&nb
+ sp\;own dreams.</p>\n\n<p>Performances at the Gussman Concert Hall in the 
+ Lorton Performance Center (550 S. Gary Place) are March 26-28 at 8 p.m. an
+ d March 29 at 2 p.m.</p>\n\n\n550 S Gary Pl\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150326
+DTEND;VALUE=DATE:20150329
+LOCATION:Gussman Hall\, Lorton Performance Center
+PRIORITY:
+SUMMARY:Little Women - The Musical
+URL:http://www.facebook.com/events/607648586011829/
+END:VEVENT
+END:VCALENDAR

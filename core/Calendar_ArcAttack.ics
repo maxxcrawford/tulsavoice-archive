@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:39444_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The creators of the original Singing Tesla Coil combine a love 
+ for rock music with a love for science in this electrifying performance.\n
+ 110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181026
+DTEND;VALUE=DATE:20181026
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:ArcAttack
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

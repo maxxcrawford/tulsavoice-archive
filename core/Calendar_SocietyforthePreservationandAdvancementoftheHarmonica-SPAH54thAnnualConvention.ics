@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30117_20@www.thetulsavoice.com
+DTSTAMP:20191211T201244Z
+CATEGORIES:FAMILY,MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL E
+ VENTS
+CONTACT:Michael D'Eath
+DESCRIPTION:<p>The Society for the Preservation and Advancement of the Harm
+ onica (SPAH) is pleased to announce its 54th Annual SPAH Convention\, to b
+ e held in Tulsa\, OK August 15-19\, 2017 at the Hyatt Regency Tulsa Hotel 
+ in the heart of downtown Tulsa.</p>\n\n<p style='margin:0in 0in 11pt\;'>An
+  opening ceremony kicks off the convention on Tuesday afternoon at 4:30. S
+ tarting on Wednesday\, there are daily performances and other special show
+ s\, plus seminars\, workshops\, teach-ins\, vendor displays\, jam and open
+  mic sessions\, and\, of course\, evening concerts featuring world-class p
+ erformers. The event culminates on Saturday evening with a gala awards ban
+ quet and a multi-act concert\, headlined by world-renowned harmonica playe
+ rs.&nbsp\;</p>\n\n<p style='margin:0in 0in 11pt\;'>The 54th annual SPAH Co
+ nvention features performances by dozens of acclaimed performers spanning 
+ a wide range of genres. Tuesday evening is the always packed Harmonica Blo
+ woff (separate admission charge) in a blues-oriented showcase that will in
+ clude some spontaneous collaboration. Local talent will be featured on Wed
+ nesday evening as the host club\, the Route 66 Harmonica Club\, kicks off 
+ the evening concert.</p>\n\n<p style='margin:0in 0in 0pt\;line-height:norm
+ al\;'>Headliners this year will include Loving Mary\, Ronnie Shellist\, Ca
+ rolyn Dolan\, Tom Stryker and top performers playing arrangements of &ldqu
+ o\;Big Band&rdquo\; favorites (featuring Chris Bauer\, Winslow Yerxa\, Ste
+ ve Watne\, Mike Runyan\, George Miklas\, Judy Simpson Smith\, and Al Smith
+ )\, Hendrik Meurkens\, Ross Garren\, Johnny Long\, the Ralph Viola &amp\; 
+ Friends harmonica trio with Tony Sgro and Paul Davies\, Adam Gussow\, Joe 
+ Filisko and Eric Noden\, Bud Boblink\, Patrick Hazell\, Jake Houshmand and
+  more.</p>\n\n<p style='margin:0in 0in 0pt\;line-height:normal\;'>&nbsp\;<
+ /p>\n\n<p style='margin:0in 0in 11pt\;'>Of special interest to the local c
+ ommunity is the SPAH Youth Outreach on Friday and Saturday mornings. On Fr
+ iday\, world-renowned music educator Joe Filisko and duo partner Eric Node
+ n will teach area youth in a free program. On Saturday\, Gary Allegretto\,
+  founder of the non-profit <i>Harmonikids\,</i> will teach harmonica to at
+  risk children from the Tulsa area. SPAH President Michael D&rsquo\;Eath c
+ omments. &ldquo\;As part of the SPAH Youth Outreach Program\, we feature e
+ vents for local youth\, including those sponsored by local non-profits\, w
+ ho can come for a full morning of free instruction\, music\, fellowship\, 
+ lunch\, and a free harmonica\, courtesy of SPAH and its sponsors. Music ch
+ anges lives\, and we love to give back to our host community by organizing
+  this important program&rdquo\;</p>\n\n<p style='margin:0in 0in 11pt\;'>Lo
+ cal music fans and gospel lovers may also wish to mark Wednesday evening a
+ nd Saturday morning on their calendars. The Wednesday evening concert\, fe
+ aturing the band Loving Mary and a wide array of diverse talents\, is free
+  to Tulsa residents. A special gospel showcase on Saturday morning\, featu
+ ring world-class gospel musicians\, is also free to the local public.</p>
+ \n<p style='margin:0in 0in 11pt\;'>In addition to the concerts\, spontaneo
+ us jam sessions and impromptu performances occur throughout each day and e
+ vening -- on stages\, in lounges\, on patios\, and in hallways &ndash\; by
+  performers ranging from pre-teens to octogenarians. Attendees can also st
+ rut their stuff at the open mic stage in the hotel lobby. After the evenin
+ g concerts\, jamming starts up again\, with blues\, jazz\, country\, and b
+ luegrass circles springing up around the convention late into the night!</
+ p>\n\n<p style='margin:0in 0in 11pt\;'>The SPAH Convention offers ample op
+ portunity for education. There are daily seminars\, workshops and a &ldquo
+ \;teach-in&rdquo\; staffed by world class performers to choose from\, cove
+ ring a wide range of playing\, performing\, and singing techniques\, as we
+ ll as instrument customization and repair. A vendor display area is open d
+ aily\, featuring manufacturers&rsquo\; representatives and a unique range 
+ of harmonicas\, tools\, equipment\, and accessories for sale.</p>\n\n<p st
+ yle='margin:0in 0in 11pt\;'>Attendees can purchase discounted tickets for 
+ the full convention\, choose a daily pass\, or purchase a ticket for the e
+ vening shows. While there are discounts for SPAH members\, SPAH membership
+  is not required to attend. Tickets are available on the SPAH website (www
+ .spah.org) or at the registration desk during the convention. Tickets to t
+ he evening concerts\, which start at 7 pm each evening\, are available to 
+ the public for a low daily price.</p>\n\n<p style='margin:0in 0in 11pt\;'>
+ <b><i>About the Society for the Preservation and Advancement of the Harmon
+ ica (SPAH)</i></b></p>\n\n<p style='margin:0in 0in 11pt\;'>SPAH (a 501(c)3
+  non-profit organization) is the nation&rsquo\;s flagship harmonica organi
+ zation with over 750 members. In addition to publishing a quarterly magazi
+ ne for its members\, each year SPAH attracts hundreds of harmonica players
+ \, enthusiasts\, vendors and teachers from around the globe to its annual 
+ convention. More information can be found at www.SPAH.org or www.facebook.
+ com/SPAH63</p>\n\n\nPhone: 512-413-5547\n\n100 East 2nd Street\nTulsa\, OK
+ 74103\n\n
+DTSTART:20170815T120000
+DTEND:20170815T120000
+LOCATION:Hyatt Regency Tulsa Hotel
+PRIORITY:
+RRULE:FREQ=DAILY;UNTIL=20170819;INTERVAL=1
+SUMMARY:Society for the Preservation and Advancement of the Harmonica - SPA
+ H 54th Annual Convention
+URL:http://www.SPAH.org
+END:VEVENT
+END:VCALENDAR

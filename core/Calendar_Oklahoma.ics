@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12399_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Clark Theatre presents Rodgers and Hammerstein's ode to the sim
+ pler days of our beloved state.\n\n4825 S Quaker Ave\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20141010
+DTEND;VALUE=DATE:20141026
+LOCATION:Henthorne PAC
+PRIORITY:
+SUMMARY:Oklahoma!
+URL:https://www.facebook.com/events/344658242363423/
+END:VEVENT
+END:VCALENDAR

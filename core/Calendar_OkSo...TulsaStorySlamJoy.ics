@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:26480_20@www.thetulsavoice.com
+DTSTAMP:20191211T201245Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Celebrate this cheerful season with a Joy-themed installment
+  of Ok\, So...Tulsa Story Slam.</p>\n\n\nPhone: (918) 551-7447\n\n230 E 1s
+ t St.\nTulsa\, OK\n74103\n\n
+DTSTART:20161208T200000
+DTEND:20161208T000000
+LOCATION:IDL Ballroom
+PRIORITY:
+SUMMARY:Ok\, So...Tulsa Story Slam: Joy
+URL:http://facebook.com/oksotulsa
+END:VEVENT
+END:VCALENDAR

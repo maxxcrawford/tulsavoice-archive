@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21500_20@www.thetulsavoice.com
+DTSTAMP:20191211T201258Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Tulsa Symphony celebrates the desire to renew the human spir
+ it Resphigi&#39\;s transcription of Bach&#39\;s Wachet Auf (Sleepers Wake)
+ \, Mendelssonhn&#39\;s Reformation symphony (No. 5) and Beethoven&#39\;s 6
+ th Symphony. Spirit and Awakenings also marks the return of guest conducto
+ r Sarah Ioannides\, who The New York Times described as a conductor with u
+ nquestionable strength and authority.</p>\n\n\n110 E. 2nd St.\nTulsa\, OK
+ 74103\n\n
+DTSTART:20160220T193000
+DTEND:20160220T000000
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:TSO Classics: Spirit and Awakenings
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

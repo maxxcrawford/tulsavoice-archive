@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47447_20@www.thetulsavoice.com
+DTSTAMP:20191211T201224Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'Enjoy works by the most in-demand choreographers in the world\
+ , and some wine!'\n\nOK\n
+DTSTART:20190919T183000
+DTEND:20190919T000000
+LOCATION:Tulsa Ballet - Studio K
+PRIORITY:
+SUMMARY:Pirouettes & Pinot
+URL:tulsaballet.org
+END:VEVENT
+END:VCALENDAR

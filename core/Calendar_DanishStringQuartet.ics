@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14708_20@www.thetulsavoice.com
+DTSTAMP:20191211T201231Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Without their instruments\, the three Danes and one Norwegian w
+ ho make up the Danish String Quartet could easily be mistaken for an indie
+  band. We are simply your friendly neighborhood string quartet with above 
+ average amounts of beard\, they concede on their website. Their program at
+  the PAC will include Bart&mdash\;k's Quartet No. 1\, Nielsen's Quartet in
+  F Major\, Op. 44\, and some traditional Scandinavian folk music.\n\n110 E
+  2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150208
+DTEND;VALUE=DATE:20150208
+LOCATION:John H. Williams Theatre\, PAC
+PRIORITY:
+SUMMARY:Danish String Quartet
+URL:http://tulsapac.com/events.asp?id=92&eventid=2943&task=display
+END:VEVENT
+END:VCALENDAR

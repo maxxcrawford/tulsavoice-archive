@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:45277_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:COMEDY,EVENTS,MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SP
+ ECIAL EVENTS
+CONTACT:Ryan Howell
+DESCRIPTION:<p>Back by popular demand\, we've found some more wild and craz
+ y stories told by the funniest people in Tulsa! Blue Whale Comedy Fest and
+  Story Club of Tulsa present 'Offbeat: Crazy and Hilarious Stories from th
+ e Comedians that Lived Them' is going to have some of the most amazing\, f
+ unny\, and absolutely true stories you've heard! Saturday June 15th at the
+  Duet Jazz Club. 21+ to Enter\, and just a heads up\, adult content and la
+ nguage used at this event.</p>\n\n<p>Saturday\, June 15\, 2019 at 8 PM – 1
+ 0 PM (Doors 7pm)<br />\nDuet Jazz Club <br />\n108 N Detroit Ave\, Tulsa\,
+  Oklahoma 74103</p>\n\n<p>https://www.storyclubtulsa.com/</p>\n\n\nPhone: 
+ 9185962008\n\n108 N. DETROIT AVENUE\nTulsa\, OK\n74105\n\n
+DTSTART:20190615T200000
+DTEND:20190615T200000
+LOCATION:Duet Jazz Club
+PRIORITY:
+SUMMARY:Off Beat: Hilarious True Stories
+URL:https://www.storyclubtulsa.com/
+END:VEVENT
+END:VCALENDAR

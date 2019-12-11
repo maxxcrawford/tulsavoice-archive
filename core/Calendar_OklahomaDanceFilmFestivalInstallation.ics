@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14215_20@www.thetulsavoice.com
+DTSTAMP:20191211T201237Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This collection of short films being screened at Hardesty Ar
+ ts Center use dance as a medium for expressing the human experience. Each 
+ month during the installation has a theme\; see films portraying dance as 
+ a universal language during &quot\;Dance Beyond Borders&quot\; in January\
+ , dance set in natural and urban habitats for &quot\;Earth/Environment&quo
+ t\; in February\, and dances performed by a variety of &quot\;uniquely hum
+ an&quot\; populations during &quot\;Dance of the Humankind&quot\; in March
+ .</p>\n\n\n101 E Archer St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150102
+DTEND;VALUE=DATE:20150322
+LOCATION:Hardesty Arts Center
+PRIORITY:
+SUMMARY:Oklahoma Dance Film Festival Installation
+URL:http://ahhatulsa.org/exhibitions/okdancefilmfest/
+END:VEVENT
+END:VCALENDAR

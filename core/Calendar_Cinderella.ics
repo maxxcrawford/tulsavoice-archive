@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12728_20@www.thetulsavoice.com
+DTSTAMP:20191211T201223Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tulsa Opera presents Rossini's romantic comedy in which a poor\
+ , mistreated girl takes control of her own destiny to escape her life of t
+ orment.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20141024
+DTEND;VALUE=DATE:20141026
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Cinderella
+URL:http://tulsapac.com/events.asp?id=92&eventid=2827&task=display
+END:VEVENT
+END:VCALENDAR

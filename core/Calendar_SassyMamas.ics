@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44499_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:This NAACP Theatre Award-winning play follows three professiona
+ l women as they look for love.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190428
+DTEND;VALUE=DATE:20190505
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Sassy Mamas
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

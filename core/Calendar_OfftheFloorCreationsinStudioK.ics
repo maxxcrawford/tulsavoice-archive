@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:11687_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>\n	Get an up-close look at Tulsa Ballet with three world pre
+ mier performances from Adam Hougland\, Luciano Cannito\, and Ashley Page i
+ n Tulsa Ballet&#39\;s intimate 300-seat Studio K.</p>\n\n\n1212 E 45th Pl
+ Tulsa\, OK\n
+DTSTART;VALUE=DATE:20140926
+DTEND;VALUE=DATE:20141005
+LOCATION:Tulsa Ballet Studio K
+PRIORITY:
+SUMMARY:Off the Floor: Creations in Studio K
+URL:http://www.tulsaballet.org/events.asp?id=11&pid=99&task=display
+END:VEVENT
+END:VCALENDAR

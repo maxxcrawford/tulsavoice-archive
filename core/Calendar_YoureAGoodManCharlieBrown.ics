@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33863_20@www.thetulsavoice.com
+DTSTAMP:20191211T201254Z
+CATEGORIES:PERFORMING ARTS
+CONTACT:Isaiah Weaver
+DESCRIPTION:<p>Riverfield Theatre Co. presents: <em>You&#39\;re A Good Man\
+ , Charlie Brown</em></p>\n\n\nPhone: 9184463553\n\n511 S Delaware Ave\nTul
+ sa\, OK\n74104\n\n
+DTSTART:20180503T190000
+DTEND:20180505T190000
+LOCATION:Tulsa Little Theatre
+PRIORITY:
+SUMMARY:You're A Good Man\, Charlie Brown
+URL:http://www.riverfield.org/rtc.cfm
+END:VEVENT
+END:VCALENDAR

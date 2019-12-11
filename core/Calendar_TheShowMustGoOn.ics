@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21333_20@www.thetulsavoice.com
+DTSTAMP:20191211T201246Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Last November\, a fire at the Tulsa Project Theatre storage 
+ unit destroyed most of TPT&#39\;s costumes and props. This fundraiser will
+  help the company rent and/or purchase replacement costumes and props for 
+ its upcoming productions\, Rent\, Billy Elliot: The Musical\, and Shrek. E
+ quity Actors and cast members from this season&#39\;s shows will perform 
+ songs from past\, current and future productions. The evening will feature
+  live and silent auctions and the announcement of TPT&#39\;s next season o
+ f shows. Tickets are $20 per person or $30 a couple\, and include food and
+  wine.</p>\n\n\n2636 E 11th St\nTulsa\, OK\n74104\n\n
+DTSTART:20160204T190000
+DTEND:20160204T000000
+LOCATION:The Campbell Hotel
+PRIORITY:
+SUMMARY:The Show Must Go On!
+URL:http://tulsaprojecttheatre.com/
+END:VEVENT
+END:VCALENDAR

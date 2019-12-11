@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:43508_20@www.thetulsavoice.com
+DTSTAMP:20191211T201216Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tulsa Ballet presents the world premiere of Ma Cong's biographi
+ cal work on one of ballet's greatest composers.\n\n110 E 2nd St\nTulsa\, O
+ K\n
+DTSTART;VALUE=DATE:20190329
+DTEND;VALUE=DATE:20190331
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:*Tchaikovsky: The Man Behind the Music
+URL:http://tulsaballet.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47810_20@www.thetulsavoice.com
+DTSTAMP:20191211T191212Z
+CATEGORIES:COMEDY,EVENTS,FAMILY,HOLIDAY,MUSIC,NIGHTLIFE & ENTERTAINMENT,PER
+ FORMING ARTS,SPECIAL EVENTS
+CONTACT:Box Office
+DESCRIPTION:<p>Decorating the Tree</p>\n\n<p>Experience the DRAMA of Christ
+ mas</p>\n\n<p>&lsquo\;Twas the week before Christmas and all through T-Tow
+ n</p>\n\n<p>All the people were laughing\, not one had a frown.</p>\n\n<p>
+ The tickets were purchased\, the seats all reserved</p>\n\n<p>Decorating T
+ he Tree\, a play\, they observed</p>\n\n<p>Music and lights\, laughter and
+  fun</p>\n\n<p>Hearts were all glowing when it was done.</p>\n\n<p>But som
+ e who delayed were unable to come</p>\n\n<p>So log on to decorating the tr
+ ee .com</p>\n\n<p>To order your tickets right away&nbsp\;</p>\n\n<p>And fi
+ nd the meaning of Christmas along the way</p>\n\n<p>&nbsp\;</p>\n\n<p>Revi
+ ews:</p>\n\n<p class='direction-ltr align-center para-style-body' style='l
+ ine-height:1.4\;font-family:'YALBs0mgieo 0'\, '_fb_'\, auto\;font-size:24p
+ x\;'><strong><em>Hilarious and Funny with a point! Mary D.</em></strong></
+ p>\n\n<p class='direction-ltr align-center para-style-body' style='line-he
+ ight:1.4\;font-family:'YALBs0mgieo 0'\, '_fb_'\, auto\;font-size:24px\;'><
+ strong><em>Everyone needs to see it. Bruce F.</em></strong></p>\n\n<p clas
+ s='direction-ltr align-center para-style-body' style='line-height:1.4\;fon
+ t-family:'YALBs0mgieo 0'\, '_fb_'\, auto\;font-size:24px\;'><strong><em>It
+  puts everything into focus.&nbsp\; Jim L.</em></strong></p>\n\n<p class='
+ direction-ltr align-center para-style-body' style='line-height:1.4\;font-f
+ amily:'YALBs0mgieo 0'\, '_fb_'\, auto\;font-size:24px\;'><strong><em>Thoro
+ ughly Enjoyed.&quot\;&nbsp\; Sarah G.</em></strong></p>\n\n<p class='direc
+ tion-ltr align-center para-style-body' style='line-height:1.4\;font-family
+ :'YALBs0mgieo 0'\, '_fb_'\, auto\;font-size:24px\;'><strong><em>Great Fami
+ ly Fun!&quot\; Nicole E.</em></strong></p>\n\n<p class='direction-ltr alig
+ n-center para-style-body' style='line-height:1.4\;font-family:'YALBs0mgieo
+  0'\, '_fb_'\, auto\;font-size:24px\;'><b><i>Reserve Your Seat!&nbsp\; Dis
+ counted Tickets Online</i></b></p>\n\n\nPhone: 9185999002\n\n7777 S. Lewis
+  Ave\nTulsa\, OK\n74147\n\n
+DTSTART:20191219T190000
+DTEND:20191219T190000
+LOCATION:ORU TImko Barton Performance Hall
+PRIORITY:
+RRULE:FREQ=DAILY;UNTIL=20191223;INTERVAL=1
+SUMMARY:Decorating the Tree
+URL:http://www.decoratingthetree.com
+END:VEVENT
+END:VCALENDAR

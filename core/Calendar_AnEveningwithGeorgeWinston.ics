@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:45860_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Walter Kelly
+DESCRIPTION:<p>Internationally renowned solo pianist George Winston joins u
+ s with his Summer program on Sunday\, July 21st 7pm\, the Seretean Center 
+ for the Performing Arts\, Stillwater\, OK. Winston's acclaimed career span
+ ning more than 40 years has sold 15 million albums - seven of which have b
+ een certified platinum. Three of which are MULTI-platinum. George travels 
+ the US raising money for food banks by donating 100% of proceeds from the 
+ sale of his merchandise at each concert\, and service organization through
+  charitable albums benefiting cancer research\, endangered wetlands\, and 
+ hurricane relief.</p>\n\n<p> </p>\n\n<p>Tickets now available:</p>\n\n<p> 
+ </p>\n\n<p>https://gwosu.eventbrite.com</p>\n\n\nPhone: 4058802565\n\n132 
+ Seretean Center\nStillwater\, OK\n74078\n\n
+DTSTART:20190721T190000
+DTEND:20190721T000000
+LOCATION:Seretean Center for the Performing Arts\, OSU
+PRIORITY:
+SUMMARY:An Evening with George Winston
+URL:http://www.georgewinston.com
+END:VEVENT
+END:VCALENDAR

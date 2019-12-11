@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:13450_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The ladies of TwoLips Burlesk shake their rears for holiday che
+ ers! This holiday burlesque extravaganza will feature guest star Keaton Za
+ ne Paige and is hosted\, as always\, by Hilton Price. Receive $5 off admis
+ sion when you bring a toy donation\, which will go to the Margaret Hudson 
+ Program\, an organization that provides pregnant and parenting teen mother
+ s an opportunity to continue their academic education with the support of 
+ child care and social and health services\, and provides pregnancy prevent
+ ion education for students and families.\n\n112 E 18th St\nTulsa\, OK\n
+DTSTART:20141213T180000
+DTEND:20141213T000000
+LOCATION:The Shrine
+PRIORITY:
+SUMMARY:TwoLips Burlesk: A Christmas Quickie
+URL:https://www.facebook.com/TwoLipsBurlesk
+END:VEVENT
+END:VCALENDAR

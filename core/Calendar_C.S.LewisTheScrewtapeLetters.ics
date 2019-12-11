@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:43506_20@www.thetulsavoice.com
+DTSTAMP:20191211T201214Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:One of Satan's senior tempters schemes to capture a human soul.
+ \n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190331
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:*C.S. Lewis' The Screwtape Letters
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

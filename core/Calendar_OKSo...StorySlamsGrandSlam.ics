@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:28595_20@www.thetulsavoice.com
+DTSTAMP:20191211T201220Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The Best Storyteller in Tulsa will be decided in Ok\, So...S
+ tory Slam&#39\;s Grand Slam. Previous Ok\, So... winners will tell true st
+ ories based on the theme\, Decisions We Make.</p>\n\n\nPhone: (918) 551-74
+ 47\n\n230 E 1st St.\nTulsa\, OK\n74103\n\n
+DTSTART:20170428T200000
+DTEND:20170428T000000
+LOCATION:IDL Ballroom
+PRIORITY:
+SUMMARY:OK\, So...Story Slam's Grand Slam
+URL:http://facebook.com/oksotulsa
+END:VEVENT
+END:VCALENDAR

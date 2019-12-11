@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47098_20@www.thetulsavoice.com
+DTSTAMP:20191211T201232Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A moving piece about forbidden love in a small conservative tow
+ n.\n\nOK\n
+DTSTART;VALUE=DATE:20190905
+DTEND;VALUE=DATE:20190908
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:She Likes Girls
+URL:tulsapac.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42550_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Rebecca H
+DESCRIPTION:<p>Please join us for our yearly summer music series as part of
+  your Tulsa City-County Library's Summer Reading Program. </p>\n\n<p>Jana 
+ Jae and Jim Paul Blair appear on June 24.  Jae gained fame as the fiddler 
+ on the nationally televised show\, Hee Haw and continued to appear with Ro
+ y Clark and other well known artists.  She was classically trained as a vi
+ olinist and includes a wide variety of musical styles in her performances.
+   Blair grew up in the Bob Wills musical family and went on to perform cou
+ ntry\, rock\, and Bluegrass everywhere from Tulsa to Nashville.  He is wel
+ l known for his Hank Williams tribute shows.</p>\n\n\n400 civic center\nTu
+ lsa\, OK\n74103\n\n
+DTSTART:20190624T000000
+DTEND:20190624T130000
+LOCATION:Central Library
+PRIORITY:
+SUMMARY:Music Sandwiched In - Musicians Jana Jae and Jim Paul Blair
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=42550
+END:VEVENT
+END:VCALENDAR

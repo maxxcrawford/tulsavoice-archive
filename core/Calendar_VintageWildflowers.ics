@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:17228_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Multi-instrumentalists and singers Abby Bozarth\, Dana Fitzgera
+ ld Maher and Audrey Schmidt play a unique blend of Celtic\, folk and blueg
+ rass music. Vintage Wildflowers have performed at the Kennedy Center for t
+ he Performing Arts in Washington\, D.C. and the WoodSongs Old-Time Radio H
+ our.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150625
+DTEND;VALUE=DATE:20150625
+LOCATION:Robert J. LaFortune Studio\, Tulsa PAC
+PRIORITY:
+SUMMARY:Vintage Wildflowers
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

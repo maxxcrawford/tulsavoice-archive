@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:20749_20@www.thetulsavoice.com
+DTSTAMP:20191211T201244Z
+CATEGORIES:PERFORMING ARTS,SPECIAL EVENTS,VISUAL ART
+DESCRIPTION:<p>Art and activism merge in this event hosted by Warrior Siste
+ rs Tulsa\, an organization that offers free self-defense education to wome
+ n. The evening will feature visual and performance art by Mia Wright\, Phe
+ tote Mchairi\, Cameron Dennis\, Marianne Evans-Lombe\, Joslyn Massad and M
+ eg McKown.</p>\n\n\n5920 N Owasso Ave\nTurley\, OK\n
+DTSTART:20151218T190000
+DTEND:20151218T220000
+LOCATION:Welcome Table Community Center
+PRIORITY:
+SUMMARY:Warrior Sisters Presents: We Won't Go Easy
+URL:http://warrior-sisters.org
+END:VEVENT
+END:VCALENDAR

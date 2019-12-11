@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23989_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Compagnie Herv&eacute\; Koubi performs &quot\;What the Day 
+ Owes to the Night\,&quot\;&nbsp\;which combines urban street dance\, conte
+ mporary dance\, the Brazilian martial art capoeira\, and choreographer Her
+ v&eacute\; Koubi&#39\;s Algerian roots.</p>\n\n\nPhone: 918.596.7122\n\n1
+ 10 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART:20160730T200000
+DTEND:20160730T000000
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:Compagnie Hervé Koubi
+URL:http://www.choregus.org/summer-heat-international-dance-festival/about/
+END:VEVENT
+END:VCALENDAR

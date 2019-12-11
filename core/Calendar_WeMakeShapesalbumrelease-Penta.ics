@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21559_20@www.thetulsavoice.com
+DTSTAMP:20191211T201217Z
+CATEGORIES:MUSIC
+DESCRIPTION:<p>Read Mitch Gilliam&#39\;s <strong><a href='http://www.thetul
+ savoice.com/February-B-2016/Five-bangers/'>interview</a></strong> with Dam
+ ion&nbsp\;Shade of We Make Shapes.</p>\n\n\n417 N Main St\nTulsa\, OK\n
+DTSTART:20160219T220000
+DTEND:20160219T000000
+LOCATION:Yeti
+PRIORITY:
+SUMMARY:We Make Shapes album release - Penta
+URL:http://yetitulsa.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21300_20@www.thetulsavoice.com
+DTSTAMP:20191211T201246Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:27 years ago\, Lila Wilson\, pregnant and unmarried\, was run o
+ ut of her rural North Carolina hometown under a cloud of moral indignation
+ . Now a successful NYC real estate developer\, she returns to home during 
+ a rough economy for vengeance against those who mistreated her\, and start
+ s buying up local homes and farms. For mature audiences.\n\n110 E. 2nd St.
+ Tulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160206
+DTEND;VALUE=DATE:20160213
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Woman from the Town
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

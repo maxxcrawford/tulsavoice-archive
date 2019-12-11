@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49038_20@www.thetulsavoice.com
+DTSTAMP:20191211T191221Z
+CATEGORIES:MUSIC
+DESCRIPTION:OK\n
+DTSTART:20191213T190000
+DTEND:20191213T000000
+LOCATION:Mass Movement Community Arts
+PRIORITY:
+SUMMARY:'Tennis Club\, Graveyard Party\, Ramona and the Phantoms'
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49038
+END:VEVENT
+END:VCALENDAR

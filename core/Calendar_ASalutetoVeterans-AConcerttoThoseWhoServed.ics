@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:20060_20@www.thetulsavoice.com
+DTSTAMP:20191211T201238Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Fort Sill's 77th Army Band will perform a Veteran's Day concert
+  of patriotic music\, benefitting the Military History Center in Broken Ar
+ row. Advance tickets can be purchased at the Military History Center.\n\n7
+ 01 S Main St\nBroken Arrow\, OK\n
+DTSTART:20151108T180000
+DTEND:20151108T000000
+LOCATION:Broken Arrow Performing Arts Center
+PRIORITY:
+SUMMARY:A Salute to Veterans - A Concert to Those Who Served
+URL:http://www.okmhc.org/
+END:VEVENT
+END:VCALENDAR

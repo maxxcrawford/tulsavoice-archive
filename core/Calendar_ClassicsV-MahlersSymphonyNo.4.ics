@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29218_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Amy Roark
+DESCRIPTION:<p>On this final Classics Series concert of the 2017-2018 seaso
+ n\, Daniel Hege will lead the Tulsa Symphony in John Adams&rsquo\; Chairma
+ n Dances and Edward Elgar&rsquo\;s In the South (Alassio). TSO is delighte
+ d to welcome back the lovely Sarah Coburn\, as the featured soprano solois
+ t for Mahler&rsquo\;s Symphony No. 4.</p>\n\n\nPhone: 9185843645\n\n110 E 
+ 2nd St\nTulsa\, OK\n74103\n\n
+DTSTART:20180324T193000
+DTEND:20180324T213000
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Classics V - Mahler's Symphony No. 4
+URL:http://tulsasymphony.org/2017-2018/classics-v/
+END:VEVENT
+END:VCALENDAR

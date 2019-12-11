@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19749_20@www.thetulsavoice.com
+DTSTAMP:20191211T201238Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>East German rock goddess Hedwig Schmidt (Thomas Williams) su
+ ffers a botched operation and tells the tale with a performance that is pa
+ rt rock concert\, part stand-up comedy and all fabulous.</p>\n\n\n110 E 2n
+ d st\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20151023
+DTEND;VALUE=DATE:20151101
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Hedwig and the Angry Inch
+URL:http://tulsapac.com/
+END:VEVENT
+END:VCALENDAR

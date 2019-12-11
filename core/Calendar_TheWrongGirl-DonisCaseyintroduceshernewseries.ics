@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49143_20@www.thetulsavoice.com
+DTSTAMP:20191211T191254Z
+CATEGORIES:EVENTS
+DESCRIPTION:'Join us as we welcome back to Tulsa Donis Casey to discuss her
+  new novel\, and first in a new series\, The Wrong Girl.'\n\nOK\n
+DTSTART:20191215T140000
+DTEND:20191215T000000
+LOCATION:Magic City Books
+PRIORITY:
+SUMMARY:The Wrong Girl - Donis Casey introduces her new series
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49143
+END:VEVENT
+END:VCALENDAR

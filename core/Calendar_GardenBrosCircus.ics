@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:37077_20@www.thetulsavoice.com
+DTSTAMP:20191211T201233Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:4145 E 21st St\nTulsa\, OK\n
+DTSTART:20180713T180000
+DTEND:20180713T000000
+LOCATION:Expo Square Pavilion
+PRIORITY:
+SUMMARY:Garden Bros Circus
+URL:http://www.gardenbroscircus.com/
+END:VEVENT
+END:VCALENDAR

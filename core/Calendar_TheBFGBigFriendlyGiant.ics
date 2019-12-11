@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19091_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Dallas Children's Theater presents this stage production of Roa
+ ld Dahl's beloved children's book\, in which an orphan human bean is picke
+ d up by a giant and whisked away to an enchanted land.\n\n110 E 2nd St\nTu
+ lsa\n
+DTSTART;VALUE=DATE:20151002
+DTEND;VALUE=DATE:20151002
+LOCATION:John H. Williams Theatre
+PRIORITY:
+SUMMARY:The BFG (Big Friendly Giant)
+URL:http://tulsapac.com/events.asp?id=92&eventid=3226&task=display
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29052_20@www.thetulsavoice.com
+DTSTAMP:20191211T201223Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Kripalaya Dance Academy presents a dance and music production a
+ bout embracing individuality while also striving for unity.\n\nPhone: 918.
+ 596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART:20170525T180000
+DTEND:20170526T000000
+LOCATION:Tulsa Performing Arts Center - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Sangama
+URL:http://summerstagetulsa.org
+END:VEVENT
+END:VCALENDAR

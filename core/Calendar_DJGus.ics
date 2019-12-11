@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49293_20@www.thetulsavoice.com
+DTSTAMP:20191211T201204Z
+CATEGORIES:MUSIC
+DESCRIPTION:OK\n
+DTSTART:20191224T220000
+DTEND:20191224T000000
+LOCATION:Rooster's Sports Bar
+PRIORITY:
+SUMMARY:DJ Gus
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49293
+END:VEVENT
+END:VCALENDAR

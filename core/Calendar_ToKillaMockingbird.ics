@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21223_20@www.thetulsavoice.com
+DTSTAMP:20191211T201257Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The Playhouse Tulsa takes a modern approach at Harper Lee&#3
+ 9\;s classic. &quot\;The scenic design represents Maycomb\, Alabama\, in 
+ the play\,&quot\;&nbsp\;Playhouse founder and director Courtneay Sanders 
+ explained. &quot\;But is nondescript enough that it could easily be any t
+ own. We have infused the piece with music\, some of which is sung a cappel
+ la by a black female chorus\, allowing the audience to observe the juxtapo
+ sition of cultures within this small community. The ensemble actors remain
+  on stage throughout the play\, and several actors play multiple roles\, w
+ hich they change before the audience&#39\;s eyes. The actors\, like the a
+ udience\, are constant witnesses to every event taking place within their 
+ community...events that will dictate their future. It is left to them to e
+ ither take action against injustice\, or accept the consequences. Our goal
+  is to further reveal the emotional depth and genuine heart of this poigna
+ nt story.&quot\;</p>\n\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160212
+DTEND;VALUE=DATE:20160221
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:To Kill a Mockingbird
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12725_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Broken Arrow Community Playhouse presents Maxwell Anderson's ps
+ ychological thriller The Bad Seed. The Tony Award-winning play is an adapt
+ ation of William March's 1954 novel of the same name\, and was itself adap
+ ted into an Oscar-winning movie in 1956. It tells the story of Rhoda\, a y
+ oung girl and model student whose mother begins to suspect is guilty of mu
+ rder.\n\n1800 S Main St\nBroken Arrow\, OK\n
+DTSTART;VALUE=DATE:20141017
+DTEND;VALUE=DATE:20141026
+LOCATION:Broken Arrow Community Playhouse
+PRIORITY:
+SUMMARY:The Bad Seed
+URL:http://www.bacptheatre.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44821_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Tulsa Ballet&#39\;s Signature Series will include pieces tha
+ t blend classical ballet and Broadway-style dance\, including a new piece 
+ written for the company Hamilton choreographer Andy Blankenbuehler.</p>\n
+ \n550 S Gary Pl\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190509
+DTEND;VALUE=DATE:20190512
+LOCATION:Lorton Performance Center
+PRIORITY:
+SUMMARY:Signature Series
+URL:http://tulsaballet.org
+END:VEVENT
+END:VCALENDAR

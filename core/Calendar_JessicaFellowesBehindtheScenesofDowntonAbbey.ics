@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:11060_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:110 E 2nd St\nTulsa\, AL\n
+DTSTART;VALUE=DATE:20140919
+DTEND;VALUE=DATE:20140919
+LOCATION:Performing Arts Center
+PRIORITY:
+SUMMARY:Jessica Fellowes: Behind the Scenes of Downton Abbey
+URL:http://tulsapac.com/
+END:VEVENT
+END:VCALENDAR

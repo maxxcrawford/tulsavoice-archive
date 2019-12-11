@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29691_20@www.thetulsavoice.com
+DTSTAMP:20191211T201240Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Aspiring young singers from around the country perform in this 
+ capstone to Rose RockÕs tree-week operatic training intensive.\n\n117 N Bo
+ ston Ave\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20170714
+DTEND;VALUE=DATE:20170714
+LOCATION:Fly Loft
+PRIORITY:
+SUMMARY:Rose Rock Opera Institute: An Evening of Scenes and Arias
+URL:https://www.roserockoperainstitute.com/
+END:VEVENT
+END:VCALENDAR

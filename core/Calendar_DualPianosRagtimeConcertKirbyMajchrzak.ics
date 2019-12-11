@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:15254_20@www.thetulsavoice.com
+DTSTAMP:20191211T201249Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:An evening of ragtime music performed by David Majchrzak\, arti
+ stic director of the Scott joplin International Ragtime Festival and piani
+ st with the St. Louis Stompers Classic Jazz Band\, and Scott Kirby\, the f
+ ormer director of the aforementioned festival who was called today's best 
+ player of Scott Joplin music by Trebor Jay Tichenor\, co-author of Rags an
+ d Ragtime: A Musical History.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150317
+DTEND;VALUE=DATE:20150317
+LOCATION:John H. Williams Theatre\, PAC
+PRIORITY:
+SUMMARY:Dual Pianos Ragtime Concert: Kirby & Majchrzak
+URL:http://tulsapac.com/events.asp?id=92&eventid=3052&task=display
+END:VEVENT
+END:VCALENDAR

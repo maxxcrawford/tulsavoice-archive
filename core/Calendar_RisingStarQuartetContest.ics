@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:37837_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Hear incredible harmonies at this adjudicated barbershop quarte
+ t competition for women ages 25 and younger.\n\n7777 S Lewis Ave\nTulsa\, 
+ OK\n
+DTSTART;VALUE=DATE:20180810
+DTEND;VALUE=DATE:20180810
+LOCATION:ORU's Global Learning Center
+PRIORITY:
+SUMMARY:Rising Star Quartet Contest
+URL:http://risingstarquartetcontest.com
+END:VEVENT
+END:VCALENDAR

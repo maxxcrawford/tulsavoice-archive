@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42180_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Phan will perform pieces about the legacy of the Vietnam War an
+ d his own experience as a refugee.\n\n800 S Tucker Dr\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190228
+LOCATION:Tyrrell Hall - TU
+PRIORITY:
+SUMMARY:Reenactments: A Night of Poetry with Hai-Dang Phan
+URL:http://humanities.utulsa.edu
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:17963_20@www.thetulsavoice.com
+DTSTAMP:20191211T201218Z
+CATEGORIES:MUSIC,SPECIAL EVENTS
+DESCRIPTION:<p class='p2' style='font-family: 'Helvetica Neue'\, Helvetica\
+ , Arial\, sans-serif\; line-height: 27.2000007629395px\;'>African Takeover
+  celebrates African traditions through music\, visual and performing arts\
+ , culture and food. Proceeds from the event will help cover the costs of b
+ ringing guest Senegalese artists&nbsp\;Sidya&nbsp\;Cissokho&nbsp\;and&nbsp
+ \;Thiane&nbsp\;Douf&nbsp\;to Tulsa for the month of July.&nbsp\;</p>\n\n<p
+  class='p4' style='font-family: 'Helvetica Neue'\, Helvetica\, Arial\, san
+ s-serif\; line-height: 27.2000007629395px\;'><span class='s1'>The festival
+  will include visual arts\, a traditional dance and drum performance by Th
+ ird Eye Vision and&nbsp\;Cissokho\, and a live Afro Pop/Afro Jazz band wit
+ h&nbsp\;Cissokho&nbsp\;and local musicians. In addition to music\, there w
+ ill be spoken word performances\, a fashion show\, traditional Senegalese 
+ food and a Caribbean flash mob.</span></p>\n\n<p class='p4' style='font-fa
+ mily: 'Helvetica Neue'\, Helvetica\, Arial\, sans-serif\; line-height: 27.
+ 2000007629395px\;'>A professional dancer\, drummer and musician\,&nbsp\;Ci
+ ssokho&nbsp\;grew up touring the world with his father\, a well-known Sene
+ galese musician. A master of the&nbsp\;djembe\, the&nbsp\;Dunduns\, the&nb
+ sp\;Balafon\, the&nbsp\;Sabar&nbsp\;dance of Senegal and the traditional d
+ ances of Guinea and Mali\, he has also worked with artists including Shaki
+ ra\, Angelique&nbsp\;Kidjo&nbsp\;and Stevie Wonder.&nbsp\;Cissokho&nbsp\;l
+ ives in North Carolina.</p>\n\n<p class='p4' style='font-family: 'Helvetic
+ a Neue'\, Helvetica\, Arial\, sans-serif\; line-height: 27.2000007629395px
+ \;'>Douf&nbsp\;is a fashion model and musician in Dakar\, Senegal. Althoug
+ h he has come to America as a performer\,&nbsp\;Douf&nbsp\;aspires to be a
+  film actor and make the cover of a top fashion magazine such as&nbsp\;<i>
+ GQ</i>.</p>\n\n<p class='p4' style='font-family: 'Helvetica Neue'\, Helvet
+ ica\, Arial\, sans-serif\; line-height: 27.2000007629395px\;'><span class=
+ 's2'>Tickets to African Takeover cost $5 for entry or $10 for entry and fo
+ od.</span></p>\n\n\n307 E M.B. Brady St\nTulsa\, OK\n
+DTSTART:20150719T170000
+DTEND:20150719T210000
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:African Takeover: A Cultural Art Festival
+URL:http://livingarts.org/african-takeover-cultural-art-festival
+END:VEVENT
+END:VCALENDAR

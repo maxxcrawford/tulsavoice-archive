@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:31395_20@www.thetulsavoice.com
+DTSTAMP:20191211T201259Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Beautiful Xtremes and Tulsa Project Theatre present this immers
+ ive Rocky Horror-themed fashion show.\n\n321 E M.B. Brady St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20171014
+DTEND;VALUE=DATE:20171014
+LOCATION:She Theatre and Lounge
+PRIORITY:
+SUMMARY:Rocky on the Runway
+URL:http://www.beautifulxtremes.com/
+END:VEVENT
+END:VCALENDAR

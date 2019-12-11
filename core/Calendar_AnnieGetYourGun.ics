@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:28461_20@www.thetulsavoice.com
+DTSTAMP:20191211T201218Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Sharpshooter Annie Oakley rises to the top of Buffalo BillÛªs 
+ ÛÏWild West ShowÛ in this Broadway classic that features such Irving Be
+ rlin standards as ÛÏThereÛªs No Business Like Show BusinessÛ and ÛÏAn
+ ything You Can Do.Û\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK
+ 74103\n\n
+DTSTART;VALUE=DATE:20170420
+DTEND;VALUE=DATE:20170429
+LOCATION:Tulsa Performing Arts Center - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Annie Get Your Gun
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

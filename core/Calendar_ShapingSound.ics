@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14425_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A contemporary dance performance created by Emmy Award-nominate
+ d choreographers Travis Wall\, Nick Lazzarini\, Teddy Forance\, and Kyle R
+ obinson. You've seen their work on So You Think You Can Dance and Dancing 
+ With the Stars\, and the choreographers also starred in the Oxygen reality
+  show\, All the Right Moves.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART:20150129T180000
+DTEND:20150129T000000
+LOCATION:Chapman Music Hall\, Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Shaping Sound
+URL:http://tulsapac.com/events.asp?id=92&eventid=2984&task=display
+END:VEVENT
+END:VCALENDAR

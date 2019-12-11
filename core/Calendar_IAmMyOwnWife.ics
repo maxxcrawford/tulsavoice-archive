@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30875_20@www.thetulsavoice.com
+DTSTAMP:20191211T201248Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p><strong>Based on the life of &ldquo\;Berlin&rsquo\;s favorit
+ e transvestite&rdquo\; Charlotte von Mahlsdorf\, &ldquo\;I Am My Own Wife&
+ rdquo\; is first and foremost a survival story.</strong></p>\n\n<p>Doug Wr
+ ight wrote the script after lengthy conversations he had with Mahlsdorf\, 
+ then 65\, in the early 1990s. &ldquo\;I Am My Own Wife&rdquo\; premiered i
+ n Chicago in 2002 and\, after the Broadway production in 2004\, earned Wri
+ ght a Pulitzer Prize. Wright is also known for the American-British-German
+  period film &ldquo\;Quills&rdquo\; and Disney&rsquo\;s &ldquo\;The Little
+  Mermaid&rdquo\; on Broadway.</p>\n\n<p>&ldquo\;She was a living history l
+ esson\, this woman\,&rdquo\; said Lyric Theatre of Oklahoma Artistic Direc
+ tor Michael Baron\, who is directing the Tulsa show. &ldquo\;There&rsquo\;
+ s not many people that survived the Nazis and the East Germans and came ou
+ t of the other side of the [Berlin] Wall intact.&rdquo\;</p>\n\n<p>Matthew
+  Alvin Brown\, Tulsa Project Theatre&rsquo\;s artistic director\, stars in
+  the role of Mahlsdorf. He also plays 30 other characters\, including SS o
+ fficers\, Mahlsdorf&rsquo\;s lesbian aunt\, and even the playwright&mdash\
+ ;all with the perfect amount of comic relief for a true story about a tran
+ swoman dodging the Gestapo and Stasi.</p>\n\n\n110 E. 2nd St.\nTulsa\, OK
+DTSTART;VALUE=DATE:20170913
+DTEND;VALUE=DATE:20170924
+LOCATION:Tulsa Performing Arts Center - Charles E. Norman Theatre
+PRIORITY:
+SUMMARY:I Am My Own Wife
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14153_20@www.thetulsavoice.com
+DTSTAMP:20191211T201237Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Each month Ok\, So...&nbsp\;comes together to share true sto
+ ries based on a monthly theme. A winner is chosen each month who will then
+  compete in the annual Grand Slam in April. January&#39\;s theme is Transf
+ orming Hate\, in conjunction with the exhibits\, events\, and workshops of
+  the same name at Living Arts.</p>\n\n\n104 S Detroit\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150114
+DTEND;VALUE=DATE:20150114
+LOCATION:Enso Bar
+PRIORITY:
+SUMMARY:Ok\, So...Tulsa Story Slam
+URL:http://https://www.facebook.com/events/728314210571719/
+END:VEVENT
+END:VCALENDAR

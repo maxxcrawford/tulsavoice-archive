@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:26046_20@www.thetulsavoice.com
+DTSTAMP:20191211T201245Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Following their previous sold-out appearance\, the ladies of Ha
+ us of Mimosa from NYC return to MixCo for three performances: Drag Brunch 
+ at 11 a.m. and 2 p.m. and a Drag Christmas Dinner at 5 p.m. For tickets\, 
+ email mixcotulsa@gmail.com.\n\nPhone: (918) 932-8571\n\n302 S. Cheyenne Av
+ e.\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20161204
+DTEND;VALUE=DATE:20161204
+LOCATION:MixCo
+PRIORITY:
+SUMMARY:The Haus of Mimosa's Holiday Spectacular on Ice!
+URL:http://mixcotulsa.com/
+END:VEVENT
+END:VCALENDAR

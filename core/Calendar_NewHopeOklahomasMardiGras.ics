@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47831_20@www.thetulsavoice.com
+DTSTAMP:20191211T191213Z
+CATEGORIES:CHARITABLE EVENTS
+CONTACT:Kathy Ward
+DESCRIPTION:<p>On February 21\, 2020\, you will be transported to lively Ne
+ w Orleans at the newly renovated Tulsa Club Hotel\, where a sting of nosta
+ lgia welcomes you as you enter into the glamour of an Art Deco past. A fun
+  filled evening of dinner\, dancing and live auction excitement awaits you
+ .</p>\n\n<p> </p>\n\n<p><strong>For over twenty-six years\, New Hope has b
+ een working in Oklahoma to end the generational cycle of incarceration by 
+ providing after-school programming and summer camps for children with a fa
+ mily member in prison.New Hope is doing transformational work for children
+  in our community!  Last year\, they served more than 750 youth\, and beli
+ eve there are more children who could benefit from their programming. But 
+ in order for them to do so\, additional funds are needed. Funds raised at 
+ Mardi Gras will help New Hope hire more staff\, purchase new books\, and s
+ upport the new Parent Connection Prison Literacy and Visitation Program.</
+ strong></p>\n\n<p> </p>\n\n<p>Please join us in changing the lives of chil
+ dren whose parent is in prison\, and making an investment in the future of
+  our community by helping New Hope stop the cycle of generational incarcer
+ ation.</p>\n\n\n115 E 5th St\nTulsa\, OK\n74103\n\n
+DTSTART:20200221T180000
+DTEND:20200221T000000
+LOCATION:Tulsa Club Hotel
+PRIORITY:
+SUMMARY:New Hope Oklahoma's Mardi Gras
+URL:http://www.newhopeoklahoma.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40497_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Youth performers celebrate the holidays with song\, dance\, and
+  skits.\n\n1800 S Main St\nBroken Arrow\, OK\n
+DTSTART;VALUE=DATE:20181207
+DTEND;VALUE=DATE:20181216
+LOCATION:Broken Arrow Community Playhouse
+PRIORITY:
+SUMMARY:A Winter Rose Christmas
+URL:http://bacptheatre.com
+END:VEVENT
+END:VCALENDAR

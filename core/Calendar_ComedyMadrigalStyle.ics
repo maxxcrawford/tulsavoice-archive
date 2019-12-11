@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16442_20@www.thetulsavoice.com
+DTSTAMP:20191211T201258Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Madrigals were the most important and popular secular music 
+ of the Italian Renaissance. The often humorous\, sometimes double entendre
+ -laced songs dominated courts\, theaters and taverns across Europe in the 
+ 16th and 17th centuries. Tulsa&#39\;s long-time early music ensemble\, Pro
+  Musica Tulsae will perform excerpts from Orazio Vecchi&#39\;s 1594 play L
+ &#39\;amfiparnaso. The madrigal comedy style of theatrical performance enj
+ oyed a brief but exceedingly popular reception in Italy just as the newest
+  musical form\, the opera\, was gaining momentum.</p>\n\n\n501 S Cincinnat
+ i Ave\nTulsa\, OK\n
+DTSTART:20150515T180000
+DTEND:20150515T000000
+LOCATION:Trinity Episcopal Church
+PRIORITY:
+SUMMARY:Comedy: Madrigal Style
+URL:http://https://www.facebook.com/ProMusicaTulsae
+END:VEVENT
+END:VCALENDAR

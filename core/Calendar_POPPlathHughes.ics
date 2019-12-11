@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21836_20@www.thetulsavoice.com
+DTSTAMP:20191211T201203Z
+CATEGORIES:PERFORMING ARTS,SPECIAL EVENTS
+DESCRIPTION:<p>MUSED. continues their POP performance series with&nbsp\;rea
+ dings of poems by Sylvia Plath and Ted Hughes. Readings will be performed 
+ by impressionist painter Margaret Aycock\, Voice contributor Megan Shepher
+ d\, and Oklahoma Poet Laureate Dr.&nbsp\;Benjamin Myers.</p>\n\n<p>Attende
+ es will be encouraged to write their own poems based on &quot\;the domesti
+ c surreal.&quot\; The event will also feature food\, music by Sean Al-Jibo
+ uri and Dean DeMerritt\, prizes and a silent auction.</p>\n\n<p>Register f
+ or free <a href='http://www.musedorganization.org/'><strong>musedorganizat
+ ion.org</strong></a>.</p>\n\n\n111 N Main St\nTulsa\, OK\n
+DTSTART:20160313T160000
+DTEND:20160313T180000
+LOCATION:Mainline Art & Cocktails
+PRIORITY:
+SUMMARY:POP: Plath & Hughes
+URL:http://www.musedorganization.org/
+END:VEVENT
+END:VCALENDAR

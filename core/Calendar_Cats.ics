@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47581_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'Andrew Lloyd WebberÕs wildly popular musical descends on Tulsa
+ . Based on the T.S. Eliot book\, Old PossumÕs Book of Practical Cats.'\n\n
+ OK\n
+DTSTART:20191008T193000
+DTEND:20191013T000000
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:Cats
+URL:tulsapac.com
+END:VEVENT
+END:VCALENDAR

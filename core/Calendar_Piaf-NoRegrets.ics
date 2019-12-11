@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:38496_20@www.thetulsavoice.com
+DTSTAMP:20191211T201216Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Broadway star Christine Andreas portrays French singer Edith Pi
+ af through her music\, singing in English and French.\n\n110 E 2nd St\nTul
+ sa\, OK\n
+DTSTART;VALUE=DATE:20180907
+DTEND;VALUE=DATE:20180907
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Piaf - No Regrets
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

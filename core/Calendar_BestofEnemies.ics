@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42210_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This play tells the story of the 1971 community meeting co-c
+ haired by civil rights activist Ann Atwater and KKK leader C.P. Ellis on t
+ he court-ordered desegregation of schools in North Carolina.</p>\n\n\n110 
+ E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190228
+DTEND;VALUE=DATE:20190303
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Best of Enemies
+URL:http://okworldstage.org
+END:VEVENT
+END:VCALENDAR

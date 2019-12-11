@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33226_20@www.thetulsavoice.com
+DTSTAMP:20191211T201212Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:TU's music and discussion series continues with violinists Maur
+ een O'Boyle and Pete Peterson and cellist Lorelei Barton.\n\n550 S Gary Pl
+ Tulsa\, OK\n
+DTSTART:20180118T180000
+DTEND:20180118T000000
+LOCATION:Meinig Recital Hall\, Lorton Performance Center
+PRIORITY:
+SUMMARY:Concerts with Commentary: Eclectic\, Reflective and Renovated
+URL:http://calendar.utulsa.edu/lorton_performance_center
+END:VEVENT
+END:VCALENDAR

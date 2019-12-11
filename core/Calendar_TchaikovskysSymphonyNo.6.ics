@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:31680_20@www.thetulsavoice.com
+DTSTAMP:20191211T201202Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tulsa Sympony performs Tchaikovsky's Pathtique\, Aaron Copland
+ 's Quiet City\, and Hindemith's Symphonic Metamorphosis of Themes by Carl 
+ Maria von Weber.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20171028
+DTEND;VALUE=DATE:20171028
+LOCATION:Chapman Music Hall - Tulsa PAC
+PRIORITY:
+SUMMARY:Tchaikovsky's Symphony No. 6
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

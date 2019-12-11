@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33530_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This is the Oklahoma premiere of the Gershwin extravaganza b
+ y Derek Deane\, former artistic director of the English National Ballet. T
+ he Production bubbles over like a glass of champagne\, with 40 ballet danc
+ ers\, 14 tap dancers (some found through a local audition)\, four singers\
+ , and 45 musicians all onstage together\, and costumes straight out of a F
+ red Astaire/Ginger Rogers number and a parade of George and Ira Gershwin&r
+ squo\;s greatest musical hits. Jazzy swing and glamorous ballroom styles s
+ hould come easily for the unusually vivacious company of dancers Tulsa Bal
+ let has assembled this season. Put on a snazzy suit and take your Valentin
+ e.</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180209
+DTEND;VALUE=DATE:20180211
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:Strictly Gershwin
+URL:http://tulsaballet.org
+END:VEVENT
+END:VCALENDAR

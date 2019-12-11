@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14957_20@www.thetulsavoice.com
+DTSTAMP:20191211T201234Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Classical pianist Eunju Chang received a Bachelor of Music at K
+ yung Hee University in Seoul\, South Korea before moving to rome to study 
+ at the Pescara Conservatorium. There\, she completed the Pescara 10-year d
+ iploma program in less than eight years. She has performed as a soloist in
+  concert halls across Europe and Asia as well as with the Saint Cross Phil
+ harmonic of Kielce\, Poland andthe Korean Philharmonic Orchestra among oth
+ ers.\n\n701 S Main St\nBroken Arrow\, OK\n
+DTSTART:20150227T180000
+DTEND:20150227T000000
+LOCATION:Broken Arrow PAC
+PRIORITY:
+SUMMARY:Eunju Chang
+URL:http://brokenarrowpac.com/upclose.html
+END:VEVENT
+END:VCALENDAR

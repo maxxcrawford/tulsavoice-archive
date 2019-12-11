@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16152_20@www.thetulsavoice.com
+DTSTAMP:20191211T201251Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Andrew Lloyd Webber's enduring hit\, the longest-running show e
+ ver on Broadway\, returns to the PAC.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150415
+DTEND;VALUE=DATE:20150425
+LOCATION:Chapman Music Hall\, Tulsa PAC
+PRIORITY:
+SUMMARY:The Phantom of the Opera
+URL:http://tulsapac.com/events.asp?id=92&eventid=2816&task=display
+END:VEVENT
+END:VCALENDAR

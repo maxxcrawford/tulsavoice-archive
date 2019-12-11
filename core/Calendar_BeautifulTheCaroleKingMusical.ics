@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:45867_20@www.thetulsavoice.com
+DTSTAMP:20191211T201208Z
+CATEGORIES:EVENTS,MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL E
+ VENTS,VISUAL ART
+CONTACT:Bartlesville Community Center
+DESCRIPTION:<p><strong>Beautiful – The Carole King Musical</strong> tells t
+ he Tony® and Grammy® Award-winning inspiring true story of King’s remarkab
+ le rise to stardom\, from being part of a hit songwriting team with her hu
+ sband Gerry Goffin\, to her relationship with fellow writers and best frie
+ nds Cynthia Weil and Barry Mann\, to becoming one of the most successful s
+ olo acts in popular music history. Along the way\, she made more than beau
+ tiful music\, she wrote the soundtrack to a generation. Is rated PG       
+                                                                           
+                                       </p>\n\n\nPhone: 9183372787\n\n300 S
+ E Adams Blvd.\nBartlesville\, OK\n74003\n\n
+DTSTART:20191015T193000
+DTEND:20191015T093000
+LOCATION:Bartlesville Community Center
+PRIORITY:
+SUMMARY:Beautiful: The Carole King Musical
+URL:https://www.bartlesvillecommunitycenter.com/
+END:VEVENT
+END:VCALENDAR

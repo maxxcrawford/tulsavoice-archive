@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44496_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Moonlight Minx Parade celebrates cannabis through dance.\n\n822
+  S Sheridan Rd.\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190427
+LOCATION:The ReVue
+PRIORITY:
+SUMMARY:The Funky Fracas
+URL:http://therevuetulsa.com
+END:VEVENT
+END:VCALENDAR

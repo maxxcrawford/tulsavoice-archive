@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:22310_20@www.thetulsavoice.com
+DTSTAMP:20191211T201205Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The audience will surround 18 poets from Oklahoma\, Texas an
+ d Arkansas as they each take the mic in hopes of being crowned the baddest
+  in town. The top three poets will take away over $500 in cash prizes.</p>
+ \n\n307 East M.B. Brady Street\nTulsa\, OK\n
+DTSTART:20160416T200000
+DTEND:20160416T000000
+LOCATION:Living Arts of Tulsa
+PRIORITY:
+SUMMARY:Who's Bad? Poetry Slam
+URL:http://www.livingarts.org
+END:VEVENT
+END:VCALENDAR

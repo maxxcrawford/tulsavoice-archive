@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12395_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:TU Department of Theatre presents Tennessee Williams's The Glas
+ s Menagerie. The play tells the story of aspiring poet Tom Wingfield as he
+  tries to hold his family together. The Glass Menagerie more closely mimic
+ s Williams's own life than any of his other works.\n\n800 S Tucker Drive\n
+ Tulsa\, OK\n
+DTSTART;VALUE=DATE:20141009
+DTEND;VALUE=DATE:20141017
+LOCATION:Kendall Hall\, University of Tulsa
+PRIORITY:
+SUMMARY:The Glass Menagerie
+URL:http://www.utulsa.edu/academics/colleges/henry-kendall-college-of-arts-
+ and-sciences/Departments-and-Schools/Department-of-Theatre-and-Musical-The
+ atre/TicketPricing.aspx
+END:VEVENT
+END:VCALENDAR

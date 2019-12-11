@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:18708_20@www.thetulsavoice.com
+DTSTAMP:20191211T201217Z
+CATEGORIES:SPECIAL EVENTS
+DESCRIPTION:<p>Sixteen of Tulsa&#39\;s best bartenders go head to head to m
+ ix the tastiest drinks in town. Competing are 2014 MIX winner Chris Armstr
+ ong for Arnie&#39\;s Bar\, 2014 Judges&#39\; Choice Noah Bush (voted Best 
+ Bartender in the Voice&#39\;s 2015 Best of Tulsa awards) for Saturn Room\,
+  Majda Al-Amoudi for The Max RetroPub\, Libby Billings for Elote\, Aaron B
+ oehler for Fassler Hall\, Dave Hall for Hard Rock Casino\, Jamie Jennings 
+ for Hodges Bend\, Shanna Postoak for Tallgrass Prairie Table\, T. Read Ric
+ hards for Valkyrie\, Steve Richardson for The Tavern\, Dustin Saied for Pr
+ hyme\, Victor See for Sisserou&#39\;s\, Ryan Stack for Mix Co\, Tracey Sud
+ berry for The Chalkboard\, Nate Williams for Andolini&#39\;s and Jack Wood
+  for Chimera.</p>\n\n\n423 N Main St\nTulsa\, OK\n
+DTSTART:20150912T190000
+DTEND:20150912T000000
+LOCATION:Cain's Ballroom
+PRIORITY:
+SUMMARY:Philbrook MIX
+URL:http://mix.philbrook.org/
+END:VEVENT
+END:VCALENDAR

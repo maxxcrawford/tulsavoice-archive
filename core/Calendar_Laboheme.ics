@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19515_20@www.thetulsavoice.com
+DTSTAMP:20191211T201217Z
+DESCRIPTION:<p>Tulsa Opera presents one of the most popular and enduring op
+ eras in history. Puccini&#39\;s La boheme\, based on Henri Murger&#39\;s 
+ novel <em>Scenes de la vie de boheme</em> and itself the inspiration for t
+ he hit musical <em>Rent</em>\, is a tragic story of love in the face of se
+ vere illness and poverty.</p>\n\n<p>Sung in Italian with English subtitles
+ .</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20151016
+DTEND;VALUE=DATE:20151018
+LOCATION:Chapman Music Hall\, PAC
+PRIORITY:
+SUMMARY:La boheme
+URL:http://tulsapac.com/events.asp?id=92&eventid=3161&task=display
+END:VEVENT
+END:VCALENDAR

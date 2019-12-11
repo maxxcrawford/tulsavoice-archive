@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29213_20@www.thetulsavoice.com
+DTSTAMP:20191211T201212Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Amy Roark
+DESCRIPTION:<p></p>\n\n<p class='p1'>TSO welcomes GRAMMY® Award-winning com
+ poser and conductor Eric Whitacre as a guest conductor and featured compos
+ er. His ground-breaking Virtual Choirs have united singers across the glob
+ e in a way in which no other composer has done. He will lead the Tulsa Sym
+ phony and the Tulsa Oratorio Chorus through a thrilling and diverse collec
+ tion of his works which include Water Night\, Equus\, Deep Field\, and God
+ zilla Eats Las Vegas. For more information about Eric Whitacre visit ericw
+ hitacre.com.</p>\n\n\nPhone: 9185843645\n\n110 E 2nd St\nTulsa\, OK\n74103
+ \n
+DTSTART:20180113T193000
+DTEND:20180113T213000
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Classics III - An Evening with Eric Whitacre
+URL:http://tulsasymphony.org/2017-2018/classics-iii/
+END:VEVENT
+END:VCALENDAR

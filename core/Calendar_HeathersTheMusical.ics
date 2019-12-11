@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:24407_20@www.thetulsavoice.com
+DTSTAMP:20191211T201227Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Theatre Pops presents this musical take on the 80s cult movie H
+ eathers.\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160826
+DTEND;VALUE=DATE:20160904
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Heathers: The Musical
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

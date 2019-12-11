@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:41912_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Signature Symphony's Big Band performs with featured trumpeter 
+ Walter White.\n\n10300 E 81st St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190215
+DTEND;VALUE=DATE:20190216
+LOCATION:Van Trease PACE
+PRIORITY:
+SUMMARY:Breaking Good
+URL:http://signaturesymphony.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:22207_20@www.thetulsavoice.com
+DTSTAMP:20191211T201205Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>An audience favorite in Tulsa Symphony&#39\;s Pops series\, 
+ this show will pair clips from Rodgers and Hammerstein film musicals accom
+ panied by a live orchestral soundtrack. Films featured will include The So
+ und of Music\, Carousel\, The Kind and I\, South Pacific\, and of course\,
+  Oklahoma!</p>\n\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART:20160409T193000
+DTEND:20160409T000000
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:TSO Pops: Rodgers and Hammerstein at the Movies
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

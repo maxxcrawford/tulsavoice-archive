@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:15255_20@www.thetulsavoice.com
+DTSTAMP:20191211T201249Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:TwoLips Burlesk celebrates their five year anniversary with (wh
+ at else?) an evening of burlesque performances\, music\, comedy\, games an
+ d giveaways. The show is hosted by Hilton Price and will feature special g
+ uests and performances and the return of some of TwoLips' founding members
+ .\n\n1511 S Delaware Ave\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150307
+DTEND;VALUE=DATE:20150307
+LOCATION:Tulsa Little Theatre
+PRIORITY:
+SUMMARY:TwoLips Burlesk - The Big V Show
+URL:http://www.twolipsburlesk.com/
+END:VEVENT
+END:VCALENDAR

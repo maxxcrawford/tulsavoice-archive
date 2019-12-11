@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:13697_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Sign up to recite poetry\, play music\, perform comedy\, or tel
+ l a story. All are welcome.\n\n1109 E 6th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20141217
+DTEND;VALUE=DATE:20141217
+LOCATION:Centennial Lounge
+PRIORITY:
+SUMMARY:Centennial Lounge Poetry Night
+URL:https://www.facebook.com/centenniallounge577
+END:VEVENT
+END:VCALENDAR

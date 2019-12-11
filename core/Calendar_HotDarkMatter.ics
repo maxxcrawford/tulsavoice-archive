@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23852_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The Black Dog Theatre Group presents the world premiere prod
+ uction of &quot\;Hot Dark Matter\,&quot\; a hybrid play by Los Angeles bas
+ ed playwright E. McClaine. Combining live performance and pre-recorded foo
+ tage\, the play is a black comedy that examines the lives of the cast and 
+ crew of an independent film\, documenting how personalities and desires ca
+ n affect perception of the world around us.Tickets to Thursday&#39\;s Spec
+ ial Preview Event are $12\, tickets for shows on Friday through Sunday are
+  $10.</p>\n\n\n1416 E 4th St\nTulsa\, OK\n74120\n\n
+DTSTART;VALUE=DATE:20160721
+DTEND;VALUE=DATE:20160724
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:Hot Dark Matter
+URL:http://nightingaletheater.com/
+END:VEVENT
+END:VCALENDAR

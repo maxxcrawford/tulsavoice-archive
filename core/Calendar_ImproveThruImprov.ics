@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:32516_20@www.thetulsavoice.com
+DTSTAMP:20191211T201212Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Stacey Mason merges art and science\, demonstrating how princip
+ les and techniques used in improvisational theater can be applied outside 
+ the theater to better understand himan behavior.\n\n110 E 2nd St\nTulsa\, 
+ OK\n
+DTSTART;VALUE=DATE:20171212
+DTEND;VALUE=DATE:20171212
+LOCATION:Charles E. Norman Theatre\, Tulsa PAC
+PRIORITY:
+SUMMARY:Improve Thru Improv
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

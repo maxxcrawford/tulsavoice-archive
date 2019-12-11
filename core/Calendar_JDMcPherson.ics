@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:13062_20@www.thetulsavoice.com
+DTSTAMP:20191211T201246Z
+CATEGORIES:MUSIC
+DESCRIPTION:<p>He might be from Broken Arrow originally\, but Tulsa has no 
+ qualms claiming JD McPherson as a native son\, and the love is evident eve
+ ry time he comes to town. Blending old-school rock\, R&amp\;B and rockabil
+ ly with a modern sensibility and razor-sharp songwriting chops\, it&rsquo\
+ ;s possible his local roots are immaterial&mdash\;Tulsa just loves the guy
+ &rsquo\;s music. All ages show.</p>\n\n\n423 North Main Street\nTulsa\, OK
+DTSTART:20141114T190000
+DTEND:20141114T000000
+LOCATION:Cain's Ballroom
+PRIORITY:
+SUMMARY:JD McPherson
+URL:http://www.cainsballroom.com/event/630187-jd-mcpherson-tulsa/
+END:VEVENT
+END:VCALENDAR

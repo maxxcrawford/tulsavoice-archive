@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:27843_20@www.thetulsavoice.com
+DTSTAMP:20191211T201203Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Community\, Rick and Morty creator Dan Harmon will be in Okl
+ ahoma for a live recording of his podcast Harmontown from the Qualla Ballr
+ oom at the Cherokee Casino in West Siloam Springs. Roadtripworthy!&nbsp\;<
+ /p>\n\n\n2416 US-412\nWest Siloam Springs\, OK\n
+DTSTART:20170304T210000
+DTEND:20170304T000000
+LOCATION:Cherokee Hotel & Casino West Siloam Springs
+PRIORITY:
+SUMMARY:Harmontown 
+URL:http://cherokeecasino.com/west-siloam-springs
+END:VEVENT
+END:VCALENDAR

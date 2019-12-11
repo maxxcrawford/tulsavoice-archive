@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44112_20@www.thetulsavoice.com
+DTSTAMP:20191211T201216Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Rock on back to the '80s in this musical adaptation of the 1998
+  Adam Sandler comedy.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190405
+DTEND;VALUE=DATE:20190414
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:The Wedding Singer
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

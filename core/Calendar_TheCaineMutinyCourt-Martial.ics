@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:27719_20@www.thetulsavoice.com
+DTSTAMP:20191211T201203Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Adapted by Herman Wouk from his Pulitzer Prize-winning novel Th
+ e Caine Mutiny\, this play depicts the court-martial of a young lieutenant
+  who relieved his captain of command in the midst of a typhoon because\, h
+ e claims\, the captain was a psychopath who was leading the ship and its c
+ rew to destruction.\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n
+ 74103\n\n
+DTSTART;VALUE=DATE:20170310
+DTEND;VALUE=DATE:20170318
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:The Caine Mutiny Court-Martial
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

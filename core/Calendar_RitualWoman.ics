@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19823_20@www.thetulsavoice.com
+DTSTAMP:20191211T201241Z
+CATEGORIES:PERFORMING ARTS
+CONTACT:Christina Woodrow
+DESCRIPTION:<p>A Thesis Showing Exploring&nbsp\;Impressions of Identity as 
+ it Relates to the Feminine Through Ritual.<br style='color:rgb(20\,24\,35)
+ \;font-family:helvetica\, arial\, sans-serif\;font-size:14px\;line-height:
+ 18px\;' />\n<br style='color:rgb(20\,24\,35)\;font-family:helvetica\, aria
+ l\, sans-serif\;font-size:14px\;line-height:18px\;' />\nGeneral Admission:
+  $10 Students and Seniors: $5<br style='color:rgb(20\,24\,35)\;font-family
+ :helvetica\, arial\, sans-serif\;font-size:14px\;line-height:18px\;' />\n<
+ br style='color:rgb(20\,24\,35)\;font-family:helvetica\, arial\, sans-seri
+ f\;font-size:14px\;line-height:18px\;' />\nNovember 20\, 7:30 pm &amp\; No
+ vember 21\, 3:00 pm<br style='color:rgb(20\,24\,35)\;font-family:helvetica
+ \, arial\, sans-serif\;font-size:14px\;line-height:18px\;' />\n<br style='
+ color:rgb(20\,24\,35)\;font-family:helvetica\, arial\, sans-serif\;font-si
+ ze:14px\;line-height:18px\;' />\nThis project is guided by the UWM Departm
+ ent of Dance Faculty in partial fulfillment of work towards an MFA in Perf
+ orming Arts: Dance.</p>\n\n\n7616 S Garnett Rd\nBroken Arrow\, OK\n74012\n
+DTSTART:20151120T193000
+DTEND:20151121T193000
+LOCATION:Union 9th Grade Studio Theater
+PRIORITY:
+SUMMARY:Ritual Woman
+URL:http://https://www.facebook.com/events/515784128587700/
+END:VEVENT
+END:VCALENDAR

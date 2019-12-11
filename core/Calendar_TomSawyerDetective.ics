@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33502_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tom Sawyer attempts to solve a mysterious murder in this adapta
+ tion of Mark Twains 1896 Tom Sawyer sequel.\n\n1381 Riverside Dr\nTulsa\, 
+ OK\n
+DTSTART;VALUE=DATE:20180216
+DTEND;VALUE=DATE:20180225
+LOCATION:Spotlight Theatre
+PRIORITY:
+SUMMARY:Tom Sawyer\, Detective
+URL:http://spotlighttheatre.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:39482_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>For an evening of blood-soaked high art\, Tulsa Ballet prese
+ nts Ben Stevenson&#39\;s Dracula for the first time since 2012.</p>\n\n\n1
+ 10 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181025
+DTEND;VALUE=DATE:20181028
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Dracula
+URL:http://tulsaballet.com
+END:VEVENT
+END:VCALENDAR

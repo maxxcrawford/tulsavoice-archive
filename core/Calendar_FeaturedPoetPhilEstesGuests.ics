@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14422_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Phil Estes is interested in the way people are informed by cult
+ ural surroundings. Although his poems contain characters\, he does not thi
+ nk of them as being merely narrative\, but as statements about the way peo
+ ple process media and social backdrops. Estes is a PhD student and Teachin
+ g Assistant at OSU\, and runs Bumpkinitis\, a series that brings creative 
+ writers from across the country to Stillwater to read their works and talk
+  with students. Guests include Haesong Kwon\, Casie Trotter\, Monique Momo
+  Zamir\, and Grant Matthew Jenkins.\n\n307 E M.B. Brady St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150124
+DTEND;VALUE=DATE:20150124
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:Featured Poet: Phil Estes & Guests
+URL:http://livingarts.org/featured-poet-phil-estes-guests
+END:VEVENT
+END:VCALENDAR

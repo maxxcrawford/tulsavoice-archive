@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33762_20@www.thetulsavoice.com
+DTSTAMP:20191211T201214Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The Shriners' annual circus will feature breathtaking acts by d
+ eath-defying performers and daredevils\, hysterical clowns\, and more.\n\n
+ 4145 E 21st St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180222
+DTEND;VALUE=DATE:20180225
+LOCATION:Expo Square Pavilion
+PRIORITY:
+SUMMARY:Akdar Shrine Circus
+URL:http://akdarshrine.org/
+END:VEVENT
+END:VCALENDAR

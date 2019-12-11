@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33505_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:TYS Concert Orchestra will perform the finale of Beethoven's Th
+ ird Symphony Eroica\, the second movement of Schubert's Unfinished Symphon
+ y No. 8\, and Glire's Russian Sailor's Dance. The Symphony Orchestra will
+  perform the first movement of Unfinished\, Vaughan Williams' Two Hymn-Tun
+ e Preludes\, Saint Sa&lsquo\;ns' Danse Bacchanale\, and the premiere of A 
+ Hero's Journey by local composer Geoff Logan.\n\n6636 S Mingo Rd\nTulsa\, 
+ OK\n
+DTSTART;VALUE=DATE:20180219
+DTEND;VALUE=DATE:20180219
+LOCATION:Union Performing Arts Center
+PRIORITY:
+SUMMARY:Tulsa Youth Symphony
+URL:http://tyso.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:35407_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Two O'Clock Four O'Clock Productions and the Nightingale Theate
+ r present an evening of sketch comedy written by Cowboy playwright Jack Al
+ len.\n\n1416 E 4th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180511
+DTEND;VALUE=DATE:20180526
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:Young Sheldon On Ice
+URL:http://nightingaletheater.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44114_20@www.thetulsavoice.com
+DTSTAMP:20191211T201216Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:1416 E 4th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190407
+DTEND;VALUE=DATE:20190407
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:Landry Miller's Talk Show Incorporated w/ Evan Hughes\, Eric Straus
+ s\, Zehava Glaz
+URL:http://www.facebook.com/talkshowinc/
+END:VEVENT
+END:VCALENDAR

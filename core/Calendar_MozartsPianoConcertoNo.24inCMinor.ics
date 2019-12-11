@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48530_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'Guest artist Robin Sutherland joins Tulsa Symphony to perform 
+ MozartÕs Piano Concerto in C Minor\, led by Gerhardt Zimmermann.'\n\nOK\n
+DTSTART:20191116T193000
+DTEND:20191116T000000
+LOCATION:TULSA PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:MozartÕs Piano Concerto No. 24 in C Minor
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=48530
+END:VEVENT
+END:VCALENDAR

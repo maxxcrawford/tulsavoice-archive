@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29219_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Amy Roark
+DESCRIPTION:<p>The TSO will transport audiences out of this world! Guest Po
+ ps Conductor Ron Spigelman and the Tulsa Symphony will perform Voyage of D
+ iscover: Space\, The Final Frontier\, featuring Holst&rsquo\;s The Planets
+  &ndash\; accompanied by images from NASA. Also on the program will be mus
+ ic from the Star Trek Enterprise\, and from John Williams&rsquo\; epic Sta
+ r Wars score.</p>\n\n\nPhone: 9185843645\n\n110 E 2nd St\nTulsa\, OK\n7410
+ 3\n\n
+DTSTART:20180414T193000
+DTEND:20180414T213000
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Pops II - Voyage of Discovery: Space\, The Final Frontier
+URL:http://tulsasymphony.org/2017-2018/pops-ii/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:36845_20@www.thetulsavoice.com
+DTSTAMP:20191211T201233Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The George Kaiser Family Foundation recognizes the accomplis
+ hments of local theater groups\, awarding up to $10\,000 in prizes to non-
+ profit\, non-equity\, Tulsa-based theater companies.</p>\n\n\n110 E 2nd St
+ Tulsa\, OK\n
+DTSTART:20180624T190000
+DTEND:20180624T000000
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:TATE Awards
+URL:http://www.tateawards.org/
+END:VEVENT
+END:VCALENDAR

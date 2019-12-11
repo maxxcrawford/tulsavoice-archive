@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49065_20@www.thetulsavoice.com
+DTSTAMP:20191211T191240Z
+CATEGORIES:MUSIC
+DESCRIPTION:OK\n
+DTSTART:20191214T200000
+DTEND:20191214T000000
+LOCATION:Juicemaker Lounge
+PRIORITY:
+SUMMARY:'De-Wisper\, DJ Mike Mike & Gibson Owilli'
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49065
+END:VEVENT
+END:VCALENDAR

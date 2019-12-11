@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:28027_20@www.thetulsavoice.com
+DTSTAMP:20191211T201205Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Spotlight ChildrenÛªs Theatre presents this world premiere pla
+ y by Machele Miller Dill and Ed Dill.\n\nPhone: (918) 587-5030\n\n1381 Riv
+ erside Dr\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20170324
+DTEND;VALUE=DATE:20170402
+LOCATION:Tulsa Spotlight Theatre
+PRIORITY:
+SUMMARY:Fairy Tale Academy
+URL:http://www.spotlighttheatre.org
+END:VEVENT
+END:VCALENDAR

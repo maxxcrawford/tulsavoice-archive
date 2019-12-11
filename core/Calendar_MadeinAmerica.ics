@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33812_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Signature Symphony performs Aaron Copland's Appalachian Spring 
+ and TU professor Joseph Rivers's Concerto for Oboe and English Horn.\n\n10
+ 300 E 81st St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180317
+DTEND;VALUE=DATE:20180317
+LOCATION:VanTrease PACE
+PRIORITY:
+SUMMARY:Made in America
+URL:http://www.signaturesymphony.org/
+END:VEVENT
+END:VCALENDAR

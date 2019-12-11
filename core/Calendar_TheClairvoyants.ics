@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29044_20@www.thetulsavoice.com
+DTSTAMP:20191211T201223Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:777 W Cherokee Street\nCatoosa\, OK\n74105\n\n
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170525
+LOCATION:Hard Rock Hotel and Casino - The Joint
+PRIORITY:
+SUMMARY:The Clairvoyants
+URL:http://www.hardrockcasinotulsa.com
+END:VEVENT
+END:VCALENDAR

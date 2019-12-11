@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:45263_20@www.thetulsavoice.com
+DTSTAMP:20191211T201231Z
+CATEGORIES:EVENTS,LITERATURE,MUSIC,PERFORMING ARTS,VISUAL ART
+DESCRIPTION:<p><em>Oh\, Tulsa</em> is a Living Arts' biennial that celebrat
+ es visual\, performance\, literary\, sound\, video\, and installation art 
+ for the Tulsa community. Eligible work includes: Tulsa residents\, artists
+  who have lived in Tulsa\, and artwork dealing with Tulsa's past/present/f
+ uture. This year\, the exhibition will be juried by Tulsa-born curator and
+  artist\, Julie Niemi.</p>\n\n<p>The Living Arts gallery is open 12:00 p.m
+ . to 5:00 p.m.\, Tuesday through Saturday.</p>\n\n\nPhone: 9185851234\n\n3
+ 07 East M. B. Brady St.\nTulsa\, OK\n74120\n\n
+DTSTART:20190809T000000
+DTEND:20190809T170000
+LOCATION:Living Arts of Tulsa
+PRIORITY:
+RRULE:FREQ=DAILY;UNTIL=20190829;INTERVAL=1
+SUMMARY:Oh\, Tulsa
+URL:http://www.livingarts.org/2019/05/11/2321/
+END:VEVENT
+END:VCALENDAR

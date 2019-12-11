@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49227_20@www.thetulsavoice.com
+DTSTAMP:20191211T191236Z
+CATEGORIES:MUSIC
+DESCRIPTION:OK\n
+DTSTART:20191220T200000
+DTEND:20191220T000000
+LOCATION:Paradise Cove
+PRIORITY:
+SUMMARY:Luann de Lesseps
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49227
+END:VEVENT
+END:VCALENDAR

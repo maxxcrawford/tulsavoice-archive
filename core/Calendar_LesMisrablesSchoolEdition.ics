@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40498_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:An all-teen cast performs the classic musical saga of love\, ho
+ pe\, and redemption.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181207
+DTEND;VALUE=DATE:20181216
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Les Misrables (School Edition)
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

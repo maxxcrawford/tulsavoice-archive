@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:27263_20@www.thetulsavoice.com
+DTSTAMP:20191211T201200Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Two bumbling Alabama brothers think they shot down an angel\, t
+ hough they've never managed to shoot a duck\, in this comedy by Mitch Albo
+ m\, author of Tuesdays with Morrie.\n\n311 S 3rd St\nMuskogee\, OK\n74402
+ \n
+DTSTART;VALUE=DATE:20170210
+DTEND;VALUE=DATE:20170218
+LOCATION:Muskogee Little Theatre
+PRIORITY:
+SUMMARY:Duck Hunter Shoots Angel
+URL:http://www.muskogeelittletheatre.com/
+END:VEVENT
+END:VCALENDAR

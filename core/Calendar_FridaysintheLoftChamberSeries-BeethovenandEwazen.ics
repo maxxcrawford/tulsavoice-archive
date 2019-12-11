@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29217_20@www.thetulsavoice.com
+DTSTAMP:20191211T201211Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Amy Roark
+DESCRIPTION:<p>The final TSO Chamber Series performance of the season will 
+ feature music by Ewazen and Beethoven. Eric Ewazen&rsquo\;s Trio for Trump
+ et\, Violin and Piano (1992)\, one of Ewazen&rsquo\;s more popular works\,
+  showcases the contrasting qualities of the cello and trumpet in four uniq
+ uely diverse movements.</p>\n\n\nPhone: 9185843645\n\n117 N Boston Ave #20
+ 8\nTulsa\, OK\n74103\n\n
+DTSTART:20180309T190000
+DTEND:20180309T210000
+LOCATION:Fly Loft
+PRIORITY:
+SUMMARY:Fridays in the Loft Chamber Series - Beethoven and Ewazen
+URL:http://tulsasymphony.org/2017-2018/loft-iv/
+END:VEVENT
+END:VCALENDAR

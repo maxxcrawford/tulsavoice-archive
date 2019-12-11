@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49161_20@www.thetulsavoice.com
+DTSTAMP:20191211T191213Z
+CATEGORIES:VISUAL ARTS
+DESCRIPTION:Enjoy the new exhibit.\n\nOK\n
+DTSTART:20191205T173000
+DTEND:20191221T000000
+LOCATION:Liggett Studio
+PRIORITY:
+SUMMARY:'BOTANICA: Patrick (p.s.) Gordon and Steve Liggett\, a Collaboratio
+ n'
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49161
+END:VEVENT
+END:VCALENDAR

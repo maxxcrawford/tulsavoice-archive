@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:31224_20@www.thetulsavoice.com
+DTSTAMP:20191211T201211Z
+CATEGORIES:COMEDY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Jerry Henderson
+DESCRIPTION:<p>Autumn is here\, and summer has fallen<br />\nJust a few mor
+ e weeks\, and no more pollen!<br />\nThanksgiving's coming and football hu
+ ddles\,<br />\nSo grab some blankets for cold-weather cuddles!</p>\n\n<p>L
+ aughing Matter is a live comedy show using suggestions from the audience t
+ o create a fun evening for everyone.<br />\nOur shows are PG-rated\, in a 
+ “Whose Line is It Anyway?” style.</p>\n\n<p>Admission is $8.00 ($4.00 for 
+ children under 12)<br />\nWe accept cash or debit/credit card (VISA or Mas
+ terCard only)</p>\n\n<p> </p>\n\n\n306 South Phoenix\nTulsa\, OK\n74172\n
+DTSTART:20171118T200000
+DTEND:20171118T213000
+LOCATION:PH Community House
+PRIORITY:
+SUMMARY:Laughing Matter Improv - Autumn/Thanksgiving Show
+URL:http://www.facebook.com/LaughingMatterImprov
+END:VEVENT
+END:VCALENDAR

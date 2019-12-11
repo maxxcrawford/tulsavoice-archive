@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30651_20@www.thetulsavoice.com
+DTSTAMP:20191211T201214Z
+CATEGORIES:MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:JJ Cody
+DESCRIPTION:<p style='font-family:'Times New Roman'\;font-size:medium\;'>&l
+ dquo\;Rebel&rsquo\;s remarkable players remind us that much baroque music 
+ is edgy\, charged\, sensuous\, even bizarre.&rdquo\; -Star tribune (St. Pa
+ ul/ Minneapolis)</p>\n\n<p style='font-family:'Times New Roman'\;font-size
+ :medium\;'>Music by Corelli\, Bach\, Vivaldi\, Telemann\, and more!</p>\n
+ <p style='font-family:'Times New Roman'\;font-size:medium\;'>*This concert
+  is not included in our regular season subscriptions. Tickets must be purc
+ hased separately.*</p>\n\n\nPhone: 9185873802\n\n4200 S Atlanta Pl\nTulsa\
+ , OK\n74105\n\n
+DTSTART:20180302T190000
+DTEND:20180302T190000
+LOCATION:St John's Episcopal Church
+PRIORITY:
+SUMMARY:Rebel Baroque
+URL:http://www.chambermusictulsa.org
+END:VEVENT
+END:VCALENDAR

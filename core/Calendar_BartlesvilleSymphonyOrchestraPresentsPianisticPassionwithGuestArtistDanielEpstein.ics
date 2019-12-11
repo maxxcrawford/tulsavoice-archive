@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:37879_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Molly Collins
+DESCRIPTION:<p>Internationally acclaimed pianist Daniel Epstein comes to Ba
+ rtlesville for the first time\, anchoring this stirring concert with Rachm
+ aninoff&rsquo\;s soaring Piano Concerto No. 2. This veteran pianist brings
+  with him a career of accomplishment in the great music centers of the wor
+ ld. Two other masterpieces will set the stage for this memorable performan
+ ce\, Wagner&rsquo\;s Prelude to <em>Lohengrin</em> and Hanson&rsquo\;s Sym
+ phony No. 2 &ldquo\;Romantic&rdquo\;. Classics all around!</p>\n\n\nPhone:
+  9183667717\n\n300 S.E. Adams Blvd.\nBartlesville\, OK\n74003\n\n
+DTSTART:20190323T193000
+DTEND:20190323T000000
+LOCATION:Bartlesville Community Center
+PRIORITY:
+SUMMARY:Bartlesville Symphony Orchestra Presents Pianistic Passion with Gue
+ st Artist Daniel Epstein
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=37879
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:11152_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:COMEDY,FAMILY,MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+DESCRIPTION:<p>Ranked as one of the top ten Oktoberfest Festivals in the co
+ untry by USA Today\, Linde Oktoberfest Tulsa takes place October 16-19\, 2
+ 014 at River West Festival Park. Top bands from Germany are flown in each 
+ year to join numerous local and regional acts for great live music on mult
+ iple stages inside traditional tents throughout the festival grounds. More
+  than 50 types of beer from around the world will be featured\, along with
+  authentic food\, games and events. The kids&rsquo\; tent offers games\, m
+ agic and science shows\, and more. And with numerous carnival rides\, Lind
+ e Oktoberfest will keep the kids busy. For tickets and more information\, 
+ visit www.tulsaoktoberfest.org.</p>\n\n\nPhone: 918-596-2007\n\n2100 S Jac
+ kson Ave\nTulsa\, OK\n74107\n\n
+DTSTART:20141016T110000
+DTEND:20141019T000000
+LOCATION:River West Festival Park
+PRIORITY:
+SUMMARY:Linde Oktoberfest
+URL:http://tulsaoktoberfest.org
+END:VEVENT
+END:VCALENDAR

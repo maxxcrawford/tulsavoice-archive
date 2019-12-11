@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:39498_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Attorney and writer Mary Kathryn Nagle has argued cases in i
+ n federal courts and had her plays produced on stages from New York City t
+ o the Oregon Shakespeare Festival. But never in Tulsa\, where she lives an
+ d works. That all changes when Heller Theatre Co. presents her play &ldquo
+ \;Sovereignty\,&rdquo\; which interweaves the story of Nagle&rsquo\;s own 
+ family history (she&rsquo\;s a descendant of some of the Cherokee Nation&r
+ squo\;s most prominent political and cultural leaders) with a present-day 
+ tale of violations and reprisals.</p>\n\n<p><strong><a href='http://www.th
+ etulsavoice.com/August-A-2018/All-about-the-echoes/'>Click here</a></stron
+ g> to read more about Mary Kathryn Nagle and &ldquo\;Sovereignty.&rdquo\;<
+ /p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181026
+DTEND;VALUE=DATE:20181028
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Sovereignty
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

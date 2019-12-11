@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47888_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'One of the most performed classical ballets in the world\, Gis
+ elle must decide between forgiveness or vengeance.'\n\nOK\n
+DTSTART:20191031T190000
+DTEND:20191103T000000
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:Giselle
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=47888
+END:VEVENT
+END:VCALENDAR

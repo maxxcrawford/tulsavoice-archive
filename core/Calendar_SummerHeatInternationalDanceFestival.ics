@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:37387_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The third annual Summer Heat Festival will feature performan
+ ces by three renowned dance companies\, as well as an intensive program fo
+ r advanced dancers\, and performances and workshops for children on the au
+ tism spectrum. Performances include:</p>\n\n<p><strong>Doug Varone and Dan
+ cers</strong> &ndash\; Over 30 years\, this virtuosic company has performe
+ d in 125 cities around the world. Their program includes four pieces: &ldq
+ uo\;Boats Leaving\,&rdquo\; &ldquo\;Nocturne\,&rdquo\; &ldquo\;Lux\,&rdquo
+ \; and &ldquo\;folded.&rdquo\; 7/28\, 8 p.m.\, $20&ndash\;$50</p>\n\n<p><s
+ trong>Beijing Dance Theatre</strong> &ndash\; Led by choreographer Wang Yu
+ anyuan and rooted in Chinese tradition\, BDT produces innovative contempor
+ ary dance. BDT will perform a piece entitled &ldquo\;Haze.&rdquo\; 7/29\, 
+ 3 p.m.\, $25-$70</p>\n\n<p><strong>Parsons Dance (Relaxed Performance)</st
+ rong> &ndash\; This autism-friendly performance will feature modified sens
+ ory stimuli and interactive elements (as well as designated quiet spaces f
+ or those needing a break) to create an engaging and comfortable experience
+ . 7/31\, 11 a.m.\, $25</p>\n\n<p><strong>Parsons Dance</strong> &ndash\; L
+ ed by David Parsons\, this company combines modern sensibilities with the 
+ discipline and precision of classical dance. 7/31\, 8 p.m.\, $20-$50</p>\n
+ \n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180728
+DTEND;VALUE=DATE:20180731
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Summer Heat International Dance Festival
+URL:http://choregus.org
+END:VEVENT
+END:VCALENDAR

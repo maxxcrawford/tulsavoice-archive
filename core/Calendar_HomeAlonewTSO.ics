@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40288_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Watch 1990&#39\;s holiday hit Home Alone while Tulsa Symphon
+ y Orchestra performs John Williams&#39\; score.</p>\n\n\n110 E 2nd St\nTul
+ sa\, OK\n
+DTSTART;VALUE=DATE:20181201
+DTEND;VALUE=DATE:20181201
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:Home Alone w/ TSO
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

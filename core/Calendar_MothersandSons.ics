@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:22849_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>At turns funny and powerfully moving\, &quot\;Mothers and So
+ ns&quot\; tells the story of a woman who pays an unexpected visit to the N
+ ew York apartment of her late son&#39\;s partner\, who is now married to a
+ nother man and has a young son. Generations collide as she revisits the pa
+ st and begins to see the life her son might have led. The play\, by Terren
+ ce McNally\, is presented by American Theatre Company and stars Lisa Wilso
+ n\, Sterling McHan\, and Chad Oliverson.</p>\n\n\nPhone: 918.596.7122\n\n1
+ 10 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160513
+DTEND;VALUE=DATE:20160515
+LOCATION:Tulsa Performing Arts Center - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Mothers and Sons
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:46146_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>&quot\;As part of the Summer Heat International Dance festiv
+ al\, this event brings dancers together for discussions around their chore
+ ography and of course there will be dancing.&quot\;</p>\n\n\nOK\n
+DTSTART;VALUE=DATE:20190726
+DTEND;VALUE=DATE:20190727
+LOCATION:Tulsa PAC Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Exhchange Choreography Festival
+URL:http://choregus.com
+END:VEVENT
+END:VCALENDAR

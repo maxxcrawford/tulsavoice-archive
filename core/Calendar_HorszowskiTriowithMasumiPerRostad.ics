@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30653_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:JJ Cody
+DESCRIPTION:<p style='font-family:'Times New Roman'\;font-size:medium\;'>Th
+ e Horszowski Trio&rsquo\;s intuitive communication brings fluidity and int
+ imacy to their musical conversations. In addition to playing works by grea
+ t masters\, they will introduce the music of Andreia Pinto-Correia with a 
+ work she composed especially for them. Joining the Trio for Romantic piano
+  quartets is their good friend Masumi Per Rostad\, violist of the renowned
+  Pacifica Quartet.</p>\n\n<p style='font-family:'Times New Roman'\;font-si
+ ze:medium\;'>Pre-concert lecture by Andreia Pinto-Correia\, composer\, beg
+ ins at 2:15 p.m.</p>\n\n<p style='font-family:'Times New Roman'\;font-size
+ :medium\;'>Program:</p>\n\n<p style='font-family:'Times New Roman'\;font-s
+ ize:medium\;'>Schumann: Trio in F Major\, Op. 80</p>\n\n<p style='font-fam
+ ily:'Times New Roman'\;font-size:medium\;'>Pinto-Correia: Night Migrations
+  (2017) Commissioned by Chamber Music America for the Horszowski Trio</p>
+ \n<p style='font-family:'Times New Roman'\;font-size:medium\;'>Dvoř&aacute
+ \;k: Piano Quartet in E-flat Major\, Op. 87</p>\n\n\nPhone: 9185873802\n\n
+ 110 E 2nd St\, Tulsa\, OK 74103\nTulsa\, OK\n74103\n\n
+DTSTART:20180311T150000
+DTEND:20180311T150000
+LOCATION:Tulsa Performing Arts Center\, Williams Theatre
+PRIORITY:
+SUMMARY:Horszowski Trio with Masumi Per Rostad
+URL:http://www.chambermusictulsa.org
+END:VEVENT
+END:VCALENDAR

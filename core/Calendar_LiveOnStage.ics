@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:13066_20@www.thetulsavoice.com
+DTSTAMP:20191211T201223Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Eight forward-thinking\, innovative dance\, drama and music&
+ nbsp\;performances from four national artists and four local artists over 
+ two evenings. Presented by the The National Performance Network/Visual Art
+ ists Network\, a&nbsp\;nonprofit arts organization supporting artists in t
+ he creation and touring of contemporary performing and visual arts. Mature
+  audiences only.&nbsp\;</p>\n\n\nTulsa\, OK\n
+DTSTART:20141117T200000
+DTEND:20141118T000000
+LOCATION:Tulsa Performing Arts Center John H. Williams Theatre
+PRIORITY:
+SUMMARY:Live & On Stage 
+URL:http://tulsapac.com/events.asp?id=92&eventid=3089&task=display
+END:VEVENT
+END:VCALENDAR

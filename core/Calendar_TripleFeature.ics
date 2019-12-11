@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33818_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This evening of one-act plays written and directed by locals
+  will close Heller Theatre Co.&rsquo\;s first all-original season.</p>\n\n
+ <p>&ldquo\;<strong>Four Ways to Die</strong>\,&rdquo\; written and directe
+ d by HTC Playwright in Residence David Blakely\, is inspired by the true s
+ tory of the Osage Oil Murders and based on Dennis McAuliffe&rsquo\;s 1990 
+ nonfiction book &ldquo\;The Deaths of Sybil Bolton.&rdquo\;</p>\n\n<p>&ldq
+ uo\;<strong>Going Out of Business\, A Comedy with Food References and Salt
+ y Language\, in One Act</strong>\,&rdquo\; written by TTV contributor Mich
+ ael Wright and directed by Angela McLaughlin\, is a comedy about secrets\,
+  survival\, a restaurant closing\, and the ripple effect it has on its now
+ -former employees.</p>\n\n<p>&ldquo\;<strong>Speak with Dead</strong>\,&rd
+ quo\; written by Archer Williams and directed by Nick Lutke\, is an absurd
+ ist comedy that takes place in the moments between life and the afterlife\
+ , and features a standoff with the Archangel of Death.</p>\n\n<p>For more\
+ , <strong><a href='http://www.thetulsavoice.com/April-A-2018/Triple-play/'
+ >click here</a></strong> to read Kathryn Parkman&rsquo\;s article on Tripl
+ e Feature.</p>\n\n\n1416 E 4th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180406
+DTEND;VALUE=DATE:20180414
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:Triple Feature
+URL:http://www.hellertheatreco.com
+END:VEVENT
+END:VCALENDAR

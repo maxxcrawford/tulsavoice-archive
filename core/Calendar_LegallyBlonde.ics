@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48529_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The musical adaptation of the blockbuster movie following El
+ le Woods as she goes from sorority girl to all-star law student.</p>\n\n\n
+ OK\n
+DTSTART:20191115T193000
+DTEND:20191117T000000
+LOCATION:TULSA PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Legally Blonde
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=48529
+END:VEVENT
+END:VCALENDAR

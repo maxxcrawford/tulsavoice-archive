@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:13448_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A Branson-style holiday spectacular featuring classic holiday m
+ usic and a few surprises.\n\n701 S Main St\nBroken Arrow\, OK\n
+DTSTART:20141213T180000
+DTEND:20141213T000000
+LOCATION:Broken Arrow Performing Arts Center
+PRIORITY:
+SUMMARY:A Time for Christmas 3
+URL:http://www.thepacba.com/timexmas3.html
+END:VEVENT
+END:VCALENDAR

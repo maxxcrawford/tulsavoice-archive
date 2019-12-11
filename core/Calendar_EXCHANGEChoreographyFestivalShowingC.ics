@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:45875_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:EVENTS,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Alicia Chesser
+DESCRIPTION:<p>Join choreographers from around the country for an intimate 
+ afternoon of new modern and contemporary dance on themes of (dis)connectio
+ n\, home\, belonging\, and presence\, followed by a moderated conversation
+  between artists and viewers.<br /><br /><br />\n'ONE'<br />\nReyna Mondra
+ gon<br />\n(Denton\, TX)<br /><br />\n'Leaving * Home'<br />\nRachel Brabh
+ am<br />\n(Longview\, TX)<br /><br />\n'Still With Me?'<br />\nTulsa Moder
+ n Movement<br />\n(Tulsa\, OK)<br /><br />\n'Inverted Roots'<br />\nRosely
+  Conz<br />\n(Alma\, MI)<br /><br />\n'Great Wave'<br />\nHuman Landscape<
+ br />\n(Washington\, D.C.)<br />\n </p>\n\n<p>https://www.tulsapac.com/eve
+ nts/2019/exchangec</p>\n\n\nPhone: 9182691621\n\n110 E 2nd St.\nTulsa\, OK
+ 74103\n\n
+DTSTART:20190727T140000
+DTEND:20190727T153000
+LOCATION:Tulsa Performing Arts Center\, Liddy Doenges
+PRIORITY:
+SUMMARY:EXCHANGE Choreography Festival: Showing C
+URL:http://thebellhouse.info
+END:VEVENT
+END:VCALENDAR

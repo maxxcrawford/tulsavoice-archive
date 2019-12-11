@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33808_20@www.thetulsavoice.com
+DTSTAMP:20191211T201211Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Tulsa Oratorio Chorus\, Tulsa Symphony Orchestra\, and organist
+  Casey Cantwell perform Mozart's Mass in C Minor\, Charles Ives's The Cele
+ stial Country\, and the Buck Concert Variations on The Star Spangled Banne
+ r.\n\n501 S Cincinnati Ave\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180310
+DTEND;VALUE=DATE:20180310
+LOCATION:Trinity Episcopal Church
+PRIORITY:
+SUMMARY:Mozart and Ives
+URL:http://tulsachorus.com/
+END:VEVENT
+END:VCALENDAR

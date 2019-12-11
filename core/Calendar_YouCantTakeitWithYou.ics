@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12397_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Sapulpa Community Theater presents George S. Kaufman and Moss H
+ art's 1936 comedy You Can't Take It With You. Two star-crossed lovers find
+  their relationship complicated by their disagreeing parents.\n\n123 S Wat
+ er St\nSapulpa\, OK\n
+DTSTART;VALUE=DATE:20141010
+DTEND;VALUE=DATE:20141019
+LOCATION:Sapulpa Community Theater
+PRIORITY:
+SUMMARY:You Can't Take it With You
+URL:https://www.facebook.com/events/1466455716961017/
+END:VEVENT
+END:VCALENDAR

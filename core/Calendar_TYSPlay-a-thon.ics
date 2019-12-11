@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:34315_20@www.thetulsavoice.com
+DTSTAMP:20191211T201211Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The Tulsa Youth Symphony will present their annual free conc
+ ert at Woodland Hills Mall\, featuring the organization&#39\;s three orche
+ stras performing pieces from The phantom of the Opera\, Stravinsky&#39\;s 
+ Firebird suite\, Danny Elfman&#39\;s Corpse Bride score\, and others.</p>
+ \n\n7021 S Memorial Dr\nTulsa\, OK\n
+DTSTART:20180311T130000
+DTEND:20180311T170000
+LOCATION:Woodland Hills Mall
+PRIORITY:
+SUMMARY:TYS Play-a-thon
+URL:http://tyso.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:29206_20@www.thetulsavoice.com
+DTSTAMP:20191211T201258Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+CONTACT:Amy Roark
+DESCRIPTION:<p></p>\n\n<p class='p1'>TSO’s concertmaster Rossitza Jekova-Go
+ za and pianist\, Lyndon Meyer will perform Beethoven’s Violin Sonata No. 9
+ \, the“Kreutzer.” They will be joined by principal cellist\, Kari Caldwell
+  to perform Brahms’ Piano Trio in B major.</p>\n\n\nPhone: 9185843645\n\n1
+ 17 N Boston Ave #208\nTulsa\, OK\n74103\n\n
+DTSTART:20171006T190000
+DTEND:20171006T210000
+LOCATION:Fly Loft
+PRIORITY:
+SUMMARY:Fridays in the Loft Chamber Series - Beethoven and Brahms
+URL:http://tulsasymphony.org/2017-2018/loft-ii/
+END:VEVENT
+END:VCALENDAR

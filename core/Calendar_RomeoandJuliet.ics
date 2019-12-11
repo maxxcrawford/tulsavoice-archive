@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19085_20@www.thetulsavoice.com
+DTSTAMP:20191211T201221Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:ORU Theatre presents Shakespeare's tragedy of star-crossed love
+ rs.\n\n7777 S Lewis Ave\nTulsa\n
+DTSTART;VALUE=DATE:20150924
+DTEND;VALUE=DATE:20150927
+LOCATION:Howard Auditorium\, ORU
+PRIORITY:
+SUMMARY:Romeo and Juliet
+URL:http://www.facebook.com/ORUTheatre
+END:VEVENT
+END:VCALENDAR

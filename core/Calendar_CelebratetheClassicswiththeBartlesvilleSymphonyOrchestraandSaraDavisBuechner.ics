@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30892_20@www.thetulsavoice.com
+DTSTAMP:20191211T201211Z
+CATEGORIES:MUSIC,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Molly Collins
+DESCRIPTION:<p>You can&#39\;t get more classical than celebrating Bach\, Be
+ ethoven\, and Brahams with internationally acclaimed pianist Sara Davis Bu
+ echner and the Bartlesville Symphony Orchestra! Come join us as we go back
+  to the roots of symphony and enjoy all the classical gems!</p>\n\n\nPhone
+ : 9183667717\n\n300 S.E. Adams Blvd.\nBartlesville\, OK\n74003\n\n
+DTSTART:20171118T193000
+DTEND:20171118T193000
+LOCATION:Bartlesville Community Center
+PRIORITY:
+SUMMARY:Celebrate the Classics with the Bartlesville Symphony Orchestra and
+  Sara Davis Buechner
+URL:http://www.bsook.org
+END:VEVENT
+END:VCALENDAR

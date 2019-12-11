@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49139_20@www.thetulsavoice.com
+DTSTAMP:20191211T191237Z
+CATEGORIES:EVENTS
+DESCRIPTION:'Following Poetry Karaoke\, a conversation with Pulitzer Prize 
+ winning poet Gregory Pardlo and Rowan Ricardo Phillips.'\n\nOK\n
+DTSTART:20191214T190000
+DTEND:20191214T000000
+LOCATION:Magic City Books
+PRIORITY:
+SUMMARY:Special Edition: MUSED. Poetry Night
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49139
+END:VEVENT
+END:VCALENDAR

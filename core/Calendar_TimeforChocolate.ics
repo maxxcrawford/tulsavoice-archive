@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:31196_20@www.thetulsavoice.com
+DTSTAMP:20191211T201258Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This play\, written by TU Professor of Spanish and Comparati
+ ve Literature Bruce Dean Willis is inspired by an ancient Mexican ritual k
+ nown as flower song. Presented in collaboration by Heller Theatre Company 
+ and Tulsa Latino Theatre Company.</p>\n\n<p>For more information\, <strong
+ ><a href='http://www.thetulsavoice.com/October-A-2017/Sweets-from-the-Azte
+ cs/'>click here</a></strong> to read Michael Wright&rsquo\;s article on &l
+ dquo\;Time for Chocolate.&rdquo\;</p>\n\n\n1416 E 4th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20171006
+DTEND;VALUE=DATE:20171014
+LOCATION:Nightingale Theatre
+PRIORITY:
+SUMMARY:Time for Chocolate
+URL:http://hellertheatreco.com
+END:VEVENT
+END:VCALENDAR

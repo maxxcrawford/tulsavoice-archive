@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:35409_20@www.thetulsavoice.com
+DTSTAMP:20191211T201250Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:When a 12-year-old girl is killed in Philadelphia\, her bereave
+ d father accuses the entire community of cowardice in the face of ever-esc
+ alating violence in this play by Pulitzer Prize-winner\, Charles Fuller.\n
+ 110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180512
+DTEND;VALUE=DATE:20180520
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Zooman and the Sign
+URL:http://tulsapac.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48206_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:COMEDY,EVENTS,FOOD & DRINK,HOLIDAY,NIGHTLIFE & ENTERTAINMENT,PER
+ FORMING ARTS,SPECIAL EVENTS
+CONTACT:Elote Cafe & Catering
+DESCRIPTION:<p>Do you need a break from family already? Or do you just need
+  to bring the family together with some Luchador Wrestling? Join us for a 
+ night of shenanigans in the ring!</p>\n\n\nPhone: 9185821403\n\n514 S Bost
+ on Ave\nTulsa\, OK\n74103\n\n
+DTSTART:20191127T210000
+DTEND:20191128T120000
+LOCATION:Elote Cafe & Catering
+PRIORITY:
+SUMMARY:LuchaGiving
+URL:http://elotetulsa.com
+END:VEVENT
+END:VCALENDAR

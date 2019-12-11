@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42889_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:COMEDY,EVENTS,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Todd Cunningham
+DESCRIPTION:<p>Created and brought to life onstage by Canadian actor Charle
+ s Ross\, One-Man Star Wars Trilogy is just what it sounds like &mdash\; a 
+ live solo performance of the original trilogy of Star Wars movies (A New H
+ ope\, The Empire Strikes Back and Return of the Jedi). The multi-talented 
+ Ross stuns audiences by single-handedly playing all the characters\, singi
+ ng the music\, flying the ships\, fighting the battles and condensing the 
+ Star Wars plots into just over 60 minutes of live entertainment.</p>\n\n\n
+ Phone: 918.770.6679\n\n110 East Second Street\nTULSA\, OK\n74103\n\n
+DTSTART:20190518T000000
+DTEND:20190518T220000
+LOCATION:John H. Williams Theatre
+PRIORITY:
+SUMMARY:One Man Star Wars Trilogy
+URL:http://www.tulsaprojecttheatre.com/index.html
+END:VEVENT
+END:VCALENDAR

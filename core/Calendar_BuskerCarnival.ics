@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16952_20@www.thetulsavoice.com
+DTSTAMP:20191211T201259Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Street performers take over Guthrie Green once again during 
+ First Friday. Catch amazing performances from World Uni-cycling Champion J
+ amey Mossengren\, Mama Lou Strongwoman\, aerial artistry by Voler: Thieves
+  of Flight\, fire dancing with Tricks of the Light\, street magician Chris
+  Capstone and more as well as music from Joe Tholen and Friends and Grass 
+ Crack.</p>\n\n\n111 E M.B. Brady St\nTulsa\, OK\n
+DTSTART:20150605T180000
+DTEND:20150605T180000
+LOCATION:Guthrie Green
+PRIORITY:
+SUMMARY:Busker Carnival
+URL:http://https://www.guthriegreen.com/
+END:VEVENT
+END:VCALENDAR

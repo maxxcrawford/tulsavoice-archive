@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:32033_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Ryan Howell
+DESCRIPTION:<p>Join us at IDL Ballroom downtown and hear people (anyone and
+  this means you!) tell TRUE (funny\, serious\, sad\, harrowing\, interesti
+ ng) stories about their lives. Best story of the night gets a cash prize a
+ nd a chance to participate in the yearly Grand Slam to vie for &quot\;Best
+  Storyteller in Tulsa.&quot\;&nbsp\;</p>\n\n<p>Saturday\, April 14 - 5th A
+ nnual GRAND SLAM to crown Tulsa&#39\;s BEST storyteller</p>\n\n<p>Events a
+ re ages 18+\, Doors 7:30pm\,&nbsp\;</p>\n\n<p>For more info on our next sh
+ ow\, find us on&nbsp\;<br />\nwww.facebook.com/oksotulsa&nbsp\; &nbsp\;or&
+ nbsp\;<br />\ntwitter.com/oksotulsa<br />\nwww.instagram.com/oksotulsa</p>
+ \n\nPhone: 9185962008\n\n230 E 1st St\nTulsa\, OK\n74103\n\n
+DTSTART:20180414T190000
+DTEND:20180414T190000
+LOCATION:IDL Ballroom 
+PRIORITY:
+SUMMARY:Tulsa's BEST STORYTELLER - Ok\, So Finals 
+URL:http://www.facebook.com/oksotulsa  
+END:VEVENT
+END:VCALENDAR

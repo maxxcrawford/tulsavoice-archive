@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47584_20@www.thetulsavoice.com
+DTSTAMP:20191211T201208Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A down-on-his-luck musical theatre fan plays the record from hi
+ s favorite (fictional) show in this parody of American musical comedy of t
+ he 1920s.\n\nOK\n
+DTSTART:20191011T200000
+DTEND:20191015T000000
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:The Drowsy Chaperone
+URL:tulsapac.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14710_20@www.thetulsavoice.com
+DTSTAMP:20191211T201231Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:When hypochondriac George Kimball overhears his doctor talking 
+ about a dying patient\, he natually believes he is that patient. George se
+ ts out to plan his final days\, including finding a new suitable husband f
+ or his wife\, Judy. Send Me No Flowers was written by Norman Barasch and C
+ arroll Moore and was originally produced on Broadway in 1960\, before bein
+ g adapted into a movie of the same name in 1964 starring Doris Day\, Rock 
+ Hudson and Tony Randall.\n\n1800 S Main St\nBroken Arrow\, OK\n
+DTSTART;VALUE=DATE:20150213
+DTEND;VALUE=DATE:20150222
+LOCATION:Broken Arrow Community Playhouse
+PRIORITY:
+SUMMARY:Send Me No Flowers
+URL:http://bacptheatre7471.wix.com/bacp
+END:VEVENT
+END:VCALENDAR

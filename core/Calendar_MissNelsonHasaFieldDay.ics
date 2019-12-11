@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47455_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:'Kindhearted Miss Nelson tries to coach her schoolÕs football t
+ eam to victory with the help of her alter ego\, the ill-tempered Miss Viol
+ a Swamp.'\n\nOK\n
+DTSTART:20190927T180000
+DTEND:20190927T000000
+LOCATION:Tulsa PAC - John H Williams Theatre
+PRIORITY:
+SUMMARY:Miss Nelson Has a Field Day
+URL:tulsapac.com
+END:VEVENT
+END:VCALENDAR

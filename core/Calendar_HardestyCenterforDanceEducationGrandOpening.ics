@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23996_20@www.thetulsavoice.com
+DTSTAMP:20191211T201225Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>The newly completed Hardesty Center for dance Education in B
+ roken Arrow opens its doors for class demonstrations\, facility tours\, fa
+ culty meet and greet\, and special performances by Tulsa Ballet&#39\;s sec
+ ond company\, Tulsa Ballet II. The state of the art facility has four stud
+ ios\, including one used for performances with seating for 160 people\, an
+ d will serve as a south side complement to Tulsa Ballet&#39\;s Brookside l
+ ocation. The Hardesty CDE will offer classes for both children and adults.
+  Enrollment for fall classes is open now.</p>\n\n\n1901 W New Orleans Stre
+ et\nBroken Arrow\, OK\n
+DTSTART:20160730T110000
+DTEND:20160730T150000
+LOCATION:Hardesty Center for Dance Education
+PRIORITY:
+SUMMARY:Hardesty Center for Dance Education Grand Opening
+URL:http://tulsaballet.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:46144_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:OK\n
+DTSTART;VALUE=DATE:20190724
+DTEND;VALUE=DATE:20190728
+LOCATION:VanTrease PACE - Studio Theatre
+PRIORITY:
+SUMMARY:Shrek the Musical Jr.
+URL:https://www.tulsacc.edu/about-us/news-and-events/events?date[value][dat
+ e]=2019-7-17&tag=1606
+END:VEVENT
+END:VCALENDAR

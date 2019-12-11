@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44542_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:COMEDY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Jerry Henderson
+DESCRIPTION:<p>Mamma Mia!  Here we go again...</p>\n\n<p>If you ABBA-solute
+ ly want to have a fun evening\, come join us in a post-Mothers' Day celebr
+ ation of the woman who brought you into this world (and let you stay in it
+ )\, or the one that actually allowed you to reproduce.</p>\n\n<p>Come shar
+ e the laughter\, and remember\, if Mama isn't happy\, then no one is happy
+ ...</p>\n\n<p>Laughing Matter is a live comedy show using suggestions from
+  the audience to create a fun evening for everyone.<br />\nOur shows are P
+ G-rated\, in a “Whose Line is It Anyway?” style.</p>\n\n<p>Admission is $8
+ .00 ($4.00 for children under 12)<br />\nWe accept cash or debit/credit ca
+ rd (VISA or MasterCard only)</p>\n\n\n306 S Phoenix Ave\nTulsa\, OK\n74127
+ \n
+DTSTART:20190525T200000
+DTEND:20190525T213000
+LOCATION:PH Community House
+PRIORITY:
+SUMMARY:Laughing Matter Improv - Mommie Dearest
+URL:http://www.facebook.com/LaughingMatterImprov
+END:VEVENT
+END:VCALENDAR

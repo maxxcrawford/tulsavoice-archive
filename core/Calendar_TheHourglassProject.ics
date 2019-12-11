@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:19550_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p><em>The Hourglass Project</em> comes to Tulsa as a collabora
+ tion between Pulitzer Prize-winning playwright Lee Blessing and theatre st
+ udents at The University of Tulsa\, where he has been in residence this ye
+ ar. Directed by Susan Barrett\, the comedy tackles serious questions about
+  human longevity\, aging\, artificial intelligence and the ethical limits 
+ (should there be any?) to the &quot\;resetting&quot\; of human lives.</p>
+ \n\n800 S Tucker Dr\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20151008
+DTEND;VALUE=DATE:20151018
+LOCATION:Chapman Theatre\, Kendall Hall at TU
+PRIORITY:
+SUMMARY:The Hourglass Project
+URL:http://https://www.facebook.com/UTulsaTheatre
+END:VEVENT
+END:VCALENDAR

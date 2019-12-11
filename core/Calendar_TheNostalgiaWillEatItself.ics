@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48887_20@www.thetulsavoice.com
+DTSTAMP:20191211T191215Z
+CATEGORIES:EVENTS,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS,SPECIAL EVENTS
+CONTACT:Nick Lutke
+DESCRIPTION:<p style='color:rgb(0\,0\,0)\;font-family:'Times New Roman'\;fo
+ nt-size:16px\;font-style:normal\;font-variant:normal\;font-weight:400\;let
+ ter-spacing:normal\;line-height:1.38\;margin-bottom:0pt\;margin-top:0pt\;t
+ ext-align:left\;text-decoration:none\;text-indent:0px\;text-transform:none
+ \;word-spacing:0px\;'><em style='font-style:italic\;'>The Nostalgia Will E
+ at Itself </em>is the inaugural production from <em style='font-style:ital
+ ic\;'>Heller Launchpad\,</em> a new program designed to aid local artists 
+ in self-producing new works. The Nostalgia Will Eat Itself by John Fisher 
+ goes up January 17\, 18\, 24\, 25\, 31\, and Feb. 1 at 8PM at Nightingale 
+ Theater. Nostalgia follows a Tinder date between a young man who rose to q
+ uasi-fame playing and discussing video games on YouTube and a young woman 
+ whose interest in gaming is tempered by the industry’s sexist attitudes. B
+ oth of them harbor secrets and\, before the night ends\, blood will spill.
+  Tulsa native (and current Chicago resident) John Fisher blends traditiona
+ l horror elements with the horrors of online dating and toxic masculinity 
+ in this reflection on nostalgia\, misogyny\, and fame in a post-GamerGate 
+ world.</p>\n\n<p style='color:rgb(0\,0\,0)\;font-family:'Times New Roman'\
+ ;font-size:16px\;font-style:normal\;font-variant:normal\;font-weight:400\;
+ letter-spacing:normal\;line-height:1.38\;margin-bottom:0pt\;margin-top:0pt
+ \;text-align:left\;text-decoration:none\;text-indent:0px\;text-transform:n
+ one\;word-spacing:0px\;'> </p>\n\n<p style='color:rgb(0\,0\,0)\;font-famil
+ y:'Times New Roman'\;font-size:16px\;font-style:normal\;font-variant:norma
+ l\;font-weight:400\;letter-spacing:normal\;line-height:1.38\;margin-bottom
+ :0pt\;margin-top:0pt\;text-align:left\;text-decoration:none\;text-indent:0
+ px\;text-transform:none\;word-spacing:0px\;'>This production is being self
+ -produced by Nick Lutke\, Thomas Hunt\, and Luke Thompson under their “Wri
+ te That Down Productions” label\, with assistance from Heller Theatre Comp
+ any through Heller Launchpad\, and through Midwestern Theater Troupe. Nost
+ algia will star Thomas Hunt\, Kara Bellavia\, John Cruncleton III \, and B
+ en Despain. Nick Lutke will direct\, with Luke Thompson stage managing and
+  co-directing the filmed portions. Anna Puhl will design lights and Cole H
+ utchinson and Benjamin McCulloch will write and perform original music for
+  the production. </p>\n\n<p style='color:rgb(0\,0\,0)\;font-family:'Times 
+ New Roman'\;font-size:16px\;font-style:normal\;font-variant:normal\;font-w
+ eight:400\;letter-spacing:normal\;line-height:1.38\;margin-bottom:0pt\;mar
+ gin-top:0pt\;text-align:left\;text-decoration:none\;text-indent:0px\;text-
+ transform:none\;word-spacing:0px\;'> </p>\n\n<p style='color:rgb(0\,0\,0)\
+ ;font-family:'Times New Roman'\;font-size:16px\;font-style:normal\;font-va
+ riant:normal\;font-weight:400\;letter-spacing:normal\;line-height:1.38\;ma
+ rgin-bottom:0pt\;margin-top:0pt\;text-align:left\;text-decoration:none\;te
+ xt-indent:0px\;text-transform:none\;word-spacing:0px\;'>Tickets are on sal
+ e now and can be purchased online (with no fees) at hellertheatreco.com/ti
+ ckets</p>\n\n\nPhone: 9186090482\n\n1416 E. 4th St.\nTulsa\, OK\n74114\n\n
+DTSTART:20200117T200000
+DTEND:20200117T213000
+LOCATION:Nightingale Theater
+PRIORITY:
+RRULE:FREQ=WEEKLY;UNTIL=20200201;INTERVAL=1;BYDAY=FR,SA;WKST=SU
+SUMMARY:The Nostalgia Will Eat Itself
+URL:http://hellertheatreco.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21702_20@www.thetulsavoice.com
+DTSTAMP:20191211T201201Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Written by Woody Allen and based on his Oscar-winning 1994 f
+ ilm of the same name\, Bullets Over Broadway tells the story of a young pl
+ aywright who finds himself in trouble while his first play is being produc
+ ed on Broadway in the late 1920s. Desperate to get the show up and running
+ \, the play&#39\;s producer turns to a gangster to finance it. The catch: 
+ the gangster&#39\;s girlfriend has to be the star. The familiar score of B
+ ullets Over Broadway: The Musical consists of jazz and standards from the 
+ 1910s and &#39\;20s including I&#39\;m Sitting on Top of the World\, Gee\,
+  Baby\, Ain&#39\;t I Good to You\, and Tain&#39\;t Nobody&#39\;s Biz-ness 
+ If I Do.</p>\n\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART:20160308T193000
+DTEND:20160308T000000
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:Bullets Over Broadway: The Musical
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

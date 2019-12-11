@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:28173_20@www.thetulsavoice.com
+DTSTAMP:20191211T201205Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This is a play for anyone generally frustrated by everything
+ .&nbsp\;</p>\n\n<p>For our titular heroine Lysistrata\, her frustration st
+ ems from the interminable civil war between Sparta and Athens.&nbsp\;</p>
+ \n<p>Director Machele Miller Dill\, who also teaches musical theater histo
+ ry and literature at the University of Tulsa\, says she chose Aristophanes
+ &rsquo\; Greek comedy because it&rsquo\;s classic\, but also political&mda
+ sh\;and even feminist. &nbsp\;</p>\n\n<p>&ldquo\;Lysistrata&rdquo\; opens 
+ with a woman fed up\, and she knows she won&rsquo\;t be able to cook or se
+ w her way out of this one. So\, she convinces all the women of Athens to t
+ ake a holy oath to withhold sex from their husbands until the war ends. It
+ &rsquo\;s not a &ldquo\;gentle&rdquo\; play\, but it is hilarious.&nbsp\;<
+ /p>\n\n<p>&ldquo\;It&rsquo\;s tough for comedy to get the respect it deser
+ ves\, but comedy can make you think just has hard as drama can\,&rdquo\; s
+ aid Dill. She plans to bring 70s and 80s punk rock aesthetics into the pro
+ duction\, with key fashion inspiration coming from Debbie Harry\, Joan Jet
+ t\, and Chrissie Hynde.</p>\n\n<p>Dill believes theater can be a vehicle f
+ or social change. She doesn&rsquo\;t want people to leave her production a
+ nd forget what they just saw. &ldquo\;I really do believe that theater can
+  change the world.&rdquo\;&nbsp\;</p>\n\n<p>And there are plenty of modern
+  examples of women pulling a Lysistrata to negotiate for change: In 2002\,
+  women for the Liberian Mass Action for Peace went on a sex strike that he
+ lped\, along with other nonviolent demonstrations\, to end a 14-year-long 
+ civil war. A similar strike played out in Togo in 2012. In Turkey\, women 
+ stopped sleeping with their husbands until clean water became available. &
+ ldquo\;They won&rsquo\;t be able to get into our bedrooms until the water 
+ actually runs through the taps\,&rdquo\; one village woman said in 2001\, 
+ according to CNN.</p>\n\n<p>Because it&rsquo\;s all about power: who has p
+ ower\, and who really has power.</p>\n\n<p>Dill weaves a sort of linear th
+ read when it comes to war\, sex\, and power: the war is about gaining powe
+ r\, but sex is about power too\, and the women prove to be more powerful w
+ hen they leverage it to ultimately stop the war. &nbsp\;</p>\n\n<p>Can we 
+ call Aristophanes a feminist? It can be problematic to assign such words t
+ o authors based on their work. What&rsquo\;s clear: &ldquo\;Lysistrata&rdq
+ uo\; is about women claiming and utilizing their sexuality. Though\, much 
+ internal conflict comes from other women in her cabal unhappy about also n
+ ot getting laid. If there is a lesson\, I like to think it&rsquo\;s that e
+ veryone has a power within. The struggle is figuring out how to organize a
+ nd harness whatever that power may be.&nbsp\;</p>\n\n<p>Of course\, the &l
+ dquo\;Lysistrata&rdquo\; scheme doesn&rsquo\;t truss out in 2017. But for 
+ a play older than Christ\, it&rsquo\;s pretty radical. Add to that some ri
+ pped fishnets and dramatic eyeliner&mdash\;shit\, I&rsquo\;m excited.</p>
+ \n<p>If you plan to attend &ldquo\;Lysistrata\,&rdquo\; keep in mind that 
+ this play\, while not exactly shocking\, is intended to be provoking.&nbsp
+ \;<strong>&ndash\; KATHRYN PARKMAN</strong></p>\n\n\nPhone: 918-631-2000\n
+ 550 S Gary Place\nTulsa\, OK\n74104\n\n
+DTSTART;VALUE=DATE:20170323
+DTEND;VALUE=DATE:20170326
+LOCATION:Lorton Performance Center
+PRIORITY:
+SUMMARY:Lysistrata
+URL:http://https://lpc.utulsa.edu/
+END:VEVENT
+END:VCALENDAR

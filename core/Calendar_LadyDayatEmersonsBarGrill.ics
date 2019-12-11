@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21369_20@www.thetulsavoice.com
+DTSTAMP:20191211T201247Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Theatre Pops has teamed up with Tallgrass Prairie Table for 
+ four evenings of wining\, dining\, and Billie Holiday.&nbsp\;</p>\n\n<p>Th
+ e event features a four-course dinner from Chef Michelle Donaldson and a f
+ ull bar selection\, including wine pairings. During dessert\, the show beg
+ ins: a 90-minute one-woman musical play based on the life and music of Bil
+ lie Holiday\, set just a few months before her death in 1959 and performed
+  by jazz singer and Chicago native Kelli McLoud-Schingen. Songs like &ldqu
+ o\;God Bless the Child\,&rdquo\; &ldquo\;What a Little Moonlight Can Do\,&
+ rdquo\; and &ldquo\;Strange Fruit&rdquo\; interweave with Billie&rsquo\;s 
+ thoughts about her sometimes dark\, always scintillating life.</p>\n\n<p>D
+ inner and show packages include admission to the show\, dinner\, and reser
+ ved table seating up front. General admission performance-only tickets are
+  also available.</p>\n\n\n230 E 1st St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20160211
+DTEND;VALUE=DATE:20160214
+LOCATION:IDL Ballroom
+PRIORITY:
+SUMMARY:Lady Day at Emerson's Bar & Grill
+URL:http://www.theatrepops.org/
+END:VEVENT
+END:VCALENDAR

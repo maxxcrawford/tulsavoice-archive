@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42181_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Spotlight Children's Theatre brings Charles Dickens'sstory to l
+ ife on stage.\n\n1924 Riverside Dr\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190301
+DTEND;VALUE=DATE:20190303
+LOCATION:Spotlight Theatre
+PRIORITY:
+SUMMARY:Oliver Twist
+URL:http://spotlighttheatre.org
+END:VEVENT
+END:VCALENDAR

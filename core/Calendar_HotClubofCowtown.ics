@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47487_20@www.thetulsavoice.com
+DTSTAMP:20191211T191210Z
+CATEGORIES:NIGHTLIFE & ENTERTAINMENT
+CONTACT:Ken Tracy
+DESCRIPTION:<h3>Since its beginnings in the late 1990s\, the Hot Club of Co
+ wtown’s star has continued to rise as its reputation for jaw-dropping virt
+ uosity and unforgettable live shows has become the band’s global brand. La
+ uded for its “down-home melodies and exuberant improvisation” (<em>The Tim
+ es</em>\, London)\, the Hot Club has always woven a combination of seeming
+ ly disparate styles together to its own magical effect\, setting up camp “
+ at that crossroads where country meets jazz and chases the blues away” (<e
+ m>The Independent</em>). The Hot Club of Cowtown has toured extensively wo
+ rldwide for over twenty years\, both on its own and with artists including
+  Bob Dylan\, Willie Nelson\, Gatemouth Brown\, the Avett Brothers\, Dan Hi
+ cks\, Bryan Ferry\, Roxy Music\, the Squirrel Nut Zippers\, the Mavericks\
+ , the Dustbowl Revival\, and others. (Over 21 only)</h3>\n\n\nPhone: 918-2
+ 95-5965\n\n230 E 1st St\nTulsa\, OK\n74103\n\n
+DTSTART:20200508T200000
+DTEND:20200508T220000
+LOCATION:IDL Ballroom
+PRIORITY:
+SUMMARY:Hot Club of Cowtown
+URL:http://www.choregus.org
+END:VEVENT
+END:VCALENDAR

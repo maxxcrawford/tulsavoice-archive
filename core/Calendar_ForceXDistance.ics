@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:36846_20@www.thetulsavoice.com
+DTSTAMP:20191211T201233Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Force X Distance is an immersive interactive performance piece 
+ by Luis-Eduardo. Audience members will make use of their phone-flashlights
+  and will likely be lured into a dance party.\n\n110 E 2nd St\nTulsa\, OK
+DTSTART;VALUE=DATE:20180629
+DTEND;VALUE=DATE:20180630
+LOCATION:Tulsa PAC - Charles E. Norman Theatre
+PRIORITY:
+SUMMARY:Force X Distance
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

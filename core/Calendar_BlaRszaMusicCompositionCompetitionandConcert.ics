@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33498_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Hear performances of pieces by student composers in college 
+ and high school.</p>\n\n\n550 S Gary Pl\nTulsa\, OK\n
+DTSTART:20180213T190000
+DTEND:20180213T000000
+LOCATION:Meinig Recital Hall @ Lorton Performance Center
+PRIORITY:
+SUMMARY:Béla Rósza Music Composition Competition and Concert
+URL:http://calendar.utulsa.edu/lorton_performance_center
+END:VEVENT
+END:VCALENDAR

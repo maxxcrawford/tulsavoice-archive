@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:32715_20@www.thetulsavoice.com
+DTSTAMP:20191211T201212Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A music and comedy show featuring the music of the '50s and '60
+ s.\n\n308 S Lansing Ave\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20171231
+DTEND;VALUE=DATE:20171231
+LOCATION:Studio 308
+PRIORITY:
+SUMMARY:Eddie & the Exxlesiastics New Year's Eve Extravaganza
+URL:http://studio308tulsa.com
+END:VEVENT
+END:VCALENDAR

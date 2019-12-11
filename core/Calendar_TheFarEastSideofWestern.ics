@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:12330_20@www.thetulsavoice.com
+DTSTAMP:20191211T201222Z
+CATEGORIES:MUSIC,PERFORMING ARTS,SPECIAL EVENTS
+DESCRIPTION:<p>After a successful campaign on Kickstarter\, makers of the n
+ ow fully funded upcoming documentary <em>Far Western</em> are bringing som
+ e of the artists featured in the film to Tulsa. <em>Far Western </em>is ab
+ out the history and passion for American Country and Western music in Japa
+ n and Japanese musicians devoted to the sound of old time American music. 
+ &ldquo\;We were blown away by the stories\, the incredible skill\, and the
+  feeling these Japanese musicians had for the music\,&rdquo\; said <em>Far
+  Western</em> director James Payne in the film&rsquo\;s Kickstarter video.
+ </p>\n\n<p>&nbsp\;</p>\n\n<p>Among the musicians featured in the film are 
+ Masuo Sasabe and The Blue Side of Lonesome\, a Tokyo and Yokohama-based bl
+ uegrass band named after Jim Reeves&rsquo\;s chart-topping posthumous 1966
+  hit about forsaken love. The band will be in Tulsa pickin&rsquo\; and fid
+ dlin&rsquo\; at a free show at The Colony on Saturday\, October 4\, and wi
+ ll also perform at Oklahoma&rsquo\;s International Bluegrass Festival in G
+ uthrie on the 3<sup>rd</sup> and 4<sup>th</sup>.</p>\n\n<p>&nbsp\;</p>\n\n
+ <p>Check out the <em>Far Western </em>excerpt below for an introduction to
+  Masuo Sasabe and a taste of his country chops as he plays Porter Wagoner&
+ rsquo\;s &ldquo\;I Wonder Where You Are Tonight.&rdquo\;</p>\n\n<p>&nbsp\;
+ </p>\n\n<p>&nbsp\;</p>\n\n\n2809 S Harvard Ave\nTulsa\, OK\n
+DTSTART:20141004T210000
+DTEND:20141004T000000
+LOCATION:The Colony
+PRIORITY:
+SUMMARY:The Far East Side of Western
+URL:http://www.farwesternmovie.com/
+END:VEVENT
+END:VCALENDAR

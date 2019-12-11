@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16959_20@www.thetulsavoice.com
+DTSTAMP:20191211T201212Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A one-woman show for theatre-goers who love Cajun Creole histor
+ y. Beyond the Tomb describes the story of Old New Orleans as told by May C
+ onstance\, an affluent\, eccentric character of the 1890s.  May is portray
+ ed by Ann Therese Hargrave Knight\, a gifted local actress and storyteller
+ .\n\n1381 Riverside Dr\nTulsa\, OK\n
+DTSTART:20150612T180000
+DTEND:20150612T000000
+LOCATION:Spotlight Theatre
+PRIORITY:
+SUMMARY:Beyond the Tomb: May's Story
+URL:http://www.spotlighttheater.org/
+END:VEVENT
+END:VCALENDAR

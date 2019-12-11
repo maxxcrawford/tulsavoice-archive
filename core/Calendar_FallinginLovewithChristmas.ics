@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40287_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A 30-piece orchestra will join saxophonist Grady Nichols and vo
+ calists Andy Chrisman and Kelly Ford for this holiday concert.\n\n110 E 2n
+ d St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181127
+DTEND;VALUE=DATE:20181127
+LOCATION:Tulsa PAC - Chapman Music Hall
+PRIORITY:
+SUMMARY:Falling in Love with Christmas
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44116_20@www.thetulsavoice.com
+DTSTAMP:20191211T201216Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:The Oklahoma premiere of Adrienne Dawes's feminist farce lies s
+ omewhere between The Handmaid's Tale and Idiocracy.\n\n308 S Lansing\nTuls
+ a\, OK\n
+DTSTART;VALUE=DATE:20190412
+DTEND;VALUE=DATE:20190420
+LOCATION:Studio 308
+PRIORITY:
+SUMMARY:Denim Doves
+URL:http://americantheatrecompany.org
+END:VEVENT
+END:VCALENDAR

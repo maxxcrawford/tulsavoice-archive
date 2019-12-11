@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:31709_20@www.thetulsavoice.com
+DTSTAMP:20191211T201204Z
+CATEGORIES:COMEDY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+DESCRIPTION:<p>Tulsa's best improvisers wash your brain with improvised com
+ edy inside the friendly confines of Mainline Art & Cocktails. Must be 21+.
+  Admission is free!</p>\n\n\n111 N Main Street\nTulsa\, OK\n
+DTSTART:20171024T200300
+DTEND:20171024T000000
+LOCATION:Mainline Art & Cocktails
+PRIORITY:
+RRULE:FREQ=MONTHLY;UNTIL=20180314;INTERVAL=1;BYDAY=2WE;BYMONTH=1,2,3,11,12
+SUMMARY:New Cult Meeting Improv Show
+URL:http://https://www.facebook.com/NewCultMeeting/
+END:VEVENT
+END:VCALENDAR

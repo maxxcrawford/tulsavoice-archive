@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14705_20@www.thetulsavoice.com
+DTSTAMP:20191211T201231Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:When Bud Turpin dies\, mayhem breaks out among his family of So
+ uthern eccentrics\, among them his wife\, who wants Mean and Surly engrave
+ d on Bud's tombstone. Chaos and hilarity ensue.\n\n325 E Cincinnati Ave\nM
+ uskogee\, OK\n
+DTSTART;VALUE=DATE:20150206
+DTEND;VALUE=DATE:20150214
+LOCATION:Muskogee Little Theatre
+PRIORITY:
+SUMMARY:Dearly Departed
+URL:http://muskogeelittletheatre.com/
+END:VEVENT
+END:VCALENDAR

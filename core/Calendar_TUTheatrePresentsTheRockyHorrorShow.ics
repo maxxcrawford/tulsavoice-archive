@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30920_20@www.thetulsavoice.com
+DTSTAMP:20191211T201259Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Dr. Frank-N-Furter and his crew are back once again to do th
+ e Time Warp at The University of Tulsa. The TU Department of Theatre will 
+ present the cult classic musical\, The Rocky Horror Show\, October 19-21. 
+ Performances begin Thursday and Friday at 8 p.m.\, Saturday at 7 p.m. and 
+ again at midnight for a special &ldquo\;Creature of the Night&rdquo\; supe
+ r-fan experience. All performances will be held in Kendall Hall&rsquo\;s C
+ hapman Theatre on the TU campus.</p>\n\n<p>With book\, music and lyrics by
+  Richard O&rsquo\;Brien\, The Rocky Horror Show is a rollicking homage to 
+ the early science fiction horror movies. Two young lovers find themselves 
+ stranded in the home of a cross-dressing mad scientist and his eccentric f
+ riends.</p>\n\n<p>This Tony-nominated audience interactive production invi
+ tes you to join the fun. Let&rsquo\;s do the Time Warp again! After all\, 
+ it&rsquo\;s just a jump to the left. Come party with your Rocky Horror fav
+ orites: Riff Raff\, Magenta\, Eddie and that sweet transvestite from Trans
+ sexual\, Transylvania\, Dr. Frank-N-Furter. Dust off your fishnets and hee
+ ls. Sing along\, shout at the actors and dance in the aisles. Saturday&rsq
+ uo\;s midnight performance will also feature an audience costume contest.<
+ /p>\n\n<p>Admission is $20 for adults\, $10 for senior citizens and area s
+ tudents\, and $6 for TU students\, faculty and staff. Local high school st
+ udents receive one free ticket with I.D. Tickets may be purchased online a
+ t myticketoffice.com\, by phone at 918-631-2567 or at the Kendall Hall box
+  office on the TU campus.</p>\n\n<p>Warning: A word of caution\, this show
+  is rated R for Rocky! But seriously\, no one under 17 allowed in without 
+ a parent.</p>\n\n<p>For more information\, please contact Jessica Vokoun a
+ t jessica-vokoun@utulsa.edu or Sandra Plaster at 918-631-2566.</p>\n\n\nTu
+ lsa\, OK\n
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171021
+LOCATION:Kendall Hall's Chapman Theatre
+PRIORITY:
+SUMMARY:TU Theatre Presents The Rocky Horror Show
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=30920
+END:VEVENT
+END:VCALENDAR

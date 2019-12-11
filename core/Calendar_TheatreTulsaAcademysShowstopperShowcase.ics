@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:40500_20@www.thetulsavoice.com
+DTSTAMP:20191211T201256Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Students perform Broadway classics.\n\n110 E 2nd St\nTulsa\, OK
+DTSTART;VALUE=DATE:20181213
+DTEND;VALUE=DATE:20181213
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Theatre Tulsa Academy's Showstopper Showcase
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

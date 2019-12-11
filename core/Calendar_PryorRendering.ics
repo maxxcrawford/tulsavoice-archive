@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:25102_20@www.thetulsavoice.com
+DTSTAMP:20191211T201241Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>It&rsquo\;s been a while since someone created a new musical
+  set in our state&mdash\;73 years\, in fact. &ldquo\;Pryor Rendering&rdquo
+ \; is a very different animal than Rodgers and Hammerstein&rsquo\;s &ldquo
+ \;Oklahoma!&rdquo\;\, though they both originate in a story written by a n
+ ative son.&nbsp\;</p>\n\n<p>Tulsan Gary Reed&rsquo\;s acclaimed novel by t
+ he same name follows Charlie Hope\, a gay teenager coming of age in 1960s 
+ Pryor in the &ldquo\;care&rdquo\; of a hard-drinking\, woman-chasing grand
+ father and a Pentecostal mother&mdash\;not the strongest supports for a yo
+ ung man who&rsquo\;s struggling to come out as well as grow up.&nbsp\;</p>
+ \n<p>Adapted for the stage by Shawn Churchman of the University of Oklahom
+ a\, with an elegaic country/bluegrass musical score by Frank Schiro\, and 
+ directed by Stephen Nachamie (whose show &ldquo\;She Loves Me&rdquo\; was 
+ recently on Broadway)\, &ldquo\;Pryor Rendering&rdquo\; is a co-production
+  of American Theatre Company and the Oklahoma City Repertory Theatre (City
+ Rep).&nbsp\;</p>\n\n<p>If musicals about Oklahoma are rare\, such a collab
+ oration is maybe even rarer. According to ATC&rsquo\;s Richard Ellis\, &ld
+ quo\;as far as we know\, there&rsquo\;s never been anything like two major
+  theater companies in two cities combining to produce a world-premiere mus
+ ical.&rdquo\;&nbsp\;</p>\n\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa
+ \, OK\n74103\n\n
+DTSTART;VALUE=DATE:20161013
+DTEND;VALUE=DATE:20161016
+LOCATION:Tulsa Performing Arts Center - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Pryor Rendering
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:24651_20@www.thetulsavoice.com
+DTSTAMP:20191211T201227Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Inspired by the Newsboys Strike of 1899 and based on the 1992 m
+ ovie\, Newsies tells the story of a group of underdogs who stand up to the
+  most powerful men in New York City. The musical won two Tony Awards in 20
+ 12.\n\nPhone: 918.596.7122\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160913
+DTEND;VALUE=DATE:20160918
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:Disney's Newsies
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:14150_20@www.thetulsavoice.com
+DTSTAMP:20191211T201227Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Share original poetry\, stories\, or music at this Poetry Slam 
+ at Centennial Lounge\n\n1109 E 6th St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150107
+DTEND;VALUE=DATE:20150107
+LOCATION:Centennial Lounge
+PRIORITY:
+SUMMARY:All Is Fair In Love and Poetry
+URL:https://www.facebook.com/events/400252866791761/
+END:VEVENT
+END:VCALENDAR

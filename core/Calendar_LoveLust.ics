@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21177_20@www.thetulsavoice.com
+DTSTAMP:20191211T201257Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This annual celebration of all that is love and lust is Livi
+ ng Arts&#39\; Valentine&#39\;s gift to us all. Artists come together for s
+ ensuous performances in spoken word and various styles and genres of music
+  and dance.</p>\n\n\n307 E M.B. Brady St\nTulsa\, OK\n
+DTSTART:20160213T200000
+DTEND:20160213T000000
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:Love & Lust
+URL:http://livingarts.org/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49168_20@www.thetulsavoice.com
+DTSTAMP:20191211T191214Z
+CATEGORIES:VISUAL ARTS
+DESCRIPTION:Create tiny holiday figurines with Tiny Things by Bowen.\n\nOK
+DTSTART:20191212T163000
+DTEND:20191212T000000
+LOCATION:Whitty Books
+PRIORITY:
+SUMMARY:Holiday Clay Class
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49168
+END:VEVENT
+END:VCALENDAR

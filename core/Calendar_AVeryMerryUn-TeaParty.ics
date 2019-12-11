@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44545_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:CHARITABLE EVENTS,PERFORMING ARTS
+CONTACT:Linda Davis
+DESCRIPTION:<p>Join Portico Dance Theatre for an Alice in Wonderland style 
+ Un-Tea party where your cups are filled with wine instead of tea. The even
+ ing includes performances from the upcoming “Project Alice” dance producti
+ on\, a character scavenger hunt\, appetizers and silent auction. Join in t
+ he fun by wearing your most creative hat and festive cocktail attire. The 
+ Un-Tea Party is June 13 at 6:30 pm in the lush garden setting of Southwood
+  Landscape and Garden Center. Sponsors from $100-2000 may join us at the V
+ IP pre-party event. For more information about tickets and sponsorships\, 
+ visit porticodance.org.</p>\n\n\nPhone: 918-633-1015\n\n9025 S. Lewis Ave
+ Tulsa\, OK\n74137\n\n
+DTSTART:20190613T183000
+DTEND:20190613T183000
+LOCATION:Southwood Landscape & Garden Center
+PRIORITY:
+SUMMARY:A Very Merry Un-Tea Party
+URL:http://www.porticodance.org
+END:VEVENT
+END:VCALENDAR

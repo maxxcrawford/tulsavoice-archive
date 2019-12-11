@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:36581_20@www.thetulsavoice.com
+DTSTAMP:20191211T201236Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>This collaboration between Portico Dance Theatre\, Holy Moth
+ er Collective\, Living Water Dance Collective\, and others explores severa
+ l issues women face through dance\, spoken word\, performance art\, and a 
+ visual art installation.</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180608
+DTEND;VALUE=DATE:20180609
+LOCATION:Tulsa PAC - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:WO
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

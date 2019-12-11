@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:17235_20@www.thetulsavoice.com
+DTSTAMP:20191211T201217Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:In a concert by violist Jeff Cowen and harpist Jill Wiebe\, you
+ 're just as likely to hear their take on music by Claude Debussy as Guns N
+ ' Roses. Their range of selections veers from classical to classic rock.\n
+ 110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150628
+DTEND;VALUE=DATE:20150628
+LOCATION:Charles E. Norman Theatre\, Tulsa PAC
+PRIORITY:
+SUMMARY:Appassionata Duo
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

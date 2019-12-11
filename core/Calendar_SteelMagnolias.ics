@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:21894_20@www.thetulsavoice.com
+DTSTAMP:20191211T201203Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Step into Truvy&#39\;s Beauty Salon\, circa 1987\, as The Pl
+ ayhouse Tulsa presents Robert Harling&#39\;s play about friendship and lov
+ e in the face of tragedy.</p>\n\n\n110 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20160401
+DTEND;VALUE=DATE:20160410
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Steel Magnolias
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

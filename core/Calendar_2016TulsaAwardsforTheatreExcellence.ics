@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23616_20@www.thetulsavoice.com
+DTSTAMP:20191211T201223Z
+CATEGORIES:PERFORMING ARTS,SPECIAL EVENTS
+DESCRIPTION:<p class='p1'><span class='s1'>The Tulsa Awards for Theatre Exc
+ ellence\, or T.A.T.E.&rsquo\;s recognize outstanding local productions of 
+ the past year. Also\, this year the T.A.T.E.&rsquo\;s will honor Tulsa nat
+ ive Gary Busey with the Distinguished Artist Award. From his early days on
+  &ldquo\;Mazeppa\,&rdquo\; his Oscar-nominated performance in &ldquo\;The 
+ Buddy Holly Story\,&rdquo\; and appearances in over 150 films to the wonde
+ rfully weird 2003 show &ldquo\;I&rsquo\;m With Busey\,&rdquo\; his stints 
+ on &ldquo\;The Apprentice&rdquo\; and &ldquo\;Dancing with the Stars\,&rdq
+ uo\; and his fantastic Twitter feed (a recent post: &ldquo\;When lightning
+  strikes\, wear it.&rdquo\;)\, Busey has entertained generations of fans. 
+ &quot\;Distinguished Artist&quot\; is putting it mildly.</span></p>\n\n\n4
+ 23 N. Main St.\nTulsa\, OK\n
+DTSTART:20160626T190000
+DTEND:20160626T000000
+LOCATION:Cain's Ballroom
+PRIORITY:
+SUMMARY:2016 Tulsa Awards for Theatre Excellence
+URL:http://www.facebook.com/events/1698756413724589/
+END:VEVENT
+END:VCALENDAR

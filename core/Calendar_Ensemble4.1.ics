@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33234_20@www.thetulsavoice.com
+DTSTAMP:20191211T201213Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:This German ensemble makes use of its unusual quitet combinatio
+ nÑpiano\, oboe\, clarinet\, bassoon\, and hornÑplaying rarely-performed ma
+ sterworks by Mozart\, Beethoven\, and other composers.\n\n110 E 2nd St\nTu
+ lsa\, OK\n
+DTSTART;VALUE=DATE:20180128
+DTEND;VALUE=DATE:20180128
+LOCATION:Tulsa Performing Arts Center
+PRIORITY:
+SUMMARY:Ensemble 4.1
+URL:http://chambermusictulsa.org
+END:VEVENT
+END:VCALENDAR

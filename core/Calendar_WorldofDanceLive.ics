@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:39443_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Dancers from the NBC show perform.\n\n105 W M.B. Brady St\nTuls
+ a\, OK\n
+DTSTART;VALUE=DATE:20181024
+DTEND;VALUE=DATE:20181024
+LOCATION:Brady Theater
+PRIORITY:
+SUMMARY:World of Dance Live
+URL:http://bradytheater.com
+END:VEVENT
+END:VCALENDAR

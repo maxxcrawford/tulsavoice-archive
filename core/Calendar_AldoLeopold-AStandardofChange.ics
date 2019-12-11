@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16162_20@www.thetulsavoice.com
+DTSTAMP:20191211T201254Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Aldo Leopold is considered by many to be the father of wildl
+ ife conservation and one of the early leaders of the American wilderness m
+ ovement. Leopold&#39\;s writings articulated an innovative idea known as t
+ he land ethic\, a new way of thinking about and acting toward the land. In
+  this one-act play written by and starring storyteller Jim Pfitzer\, Leopo
+ ld returns 67 years after his death to his Wisconsin Shack\, where he expl
+ ores the effects of human progress on the wilderness and his own transform
+ ation on how we should manage wild places. Presented by Oxley Nature Cente
+ r.</p>\n\n\n8316 E 93rd St\nTulsa\, OK\n
+DTSTART:20150425T180000
+DTEND:20150425T000000
+LOCATION:Frossard Auditorium\, Hardesty Regional Library
+PRIORITY:
+SUMMARY:Aldo Leopold - A Standard of Change
+URL:http://www.oxleynaturecenter.org/
+END:VEVENT
+END:VCALENDAR

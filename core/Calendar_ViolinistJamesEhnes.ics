@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:33499_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:One of the foremost violinists of his generation\, Ehnes made h
+ is orchestral debut with the Orchestre Symphonique de Montral at age 13 a
+ nd is now a fellow of the Royal Society of Canada and a member of the Orde
+ r of Canada.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20180215
+DTEND;VALUE=DATE:20180215
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Violinist James Ehnes
+URL:http://tulsapac.com/
+END:VEVENT
+END:VCALENDAR

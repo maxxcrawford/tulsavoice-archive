@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47814_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+CONTACT:Tara Moses
+DESCRIPTION:Don Juan\n\nOriginal text by José Zorrilla\n\nAdapted and Direc
+ ted by Tara Moses\n\n \n\nIn many countries around the world during Día de
+  Muertos\, the Spanish romantic-phantasmagoric-religious drama Don Juan Te
+ norio by Jose Zorrilla is performed. Don Juan tells the story of the arrog
+ ant and frivolous Don Juan\, whose only interest in life is seducing women
+  - with or without their consent. In this new play\, we view the classic 1
+ 6th-century story with our modern eyes as we change the narrative to refle
+ ct agency\, accountability\, and the dangers of machismo culture. This riv
+ eting new adaptation has sword fighting\, bolero dancing\, and restitution
+  for Doña Inés and Doña Ana. The show contains simulated violence\, strong
+  language\, gun shots\, sexual innuendos and may not be suitable for audie
+ nces under the age of 13.\n\n \n\nPerformances by telatúlsa\n\nThis Tulsa 
+ gem was founded in 2014 and is Tulsa's first and only theater dedicated to
+  creating evocative\, Latino and Native American-based performance for div
+ erse audiences.\n\n\n\n \n\nPerformance Dates & Times:\n\nThursday\, Novem
+ ber 7th at 8:00 PM\n\nFriday\, November 8th at 8:00 PM\n\nSaturday\, Novem
+ ber 9th at 8:00 PM\n\nThursday\, November 14th at 8:00 PM\n\nFriday\, Nove
+ mber 15th at 8:00 PM\n\nSaturday\, November 16th at 2:00 PM\n\n\nTicket Pr
+ ices:\n\nChildren (12 and under) - $5\n\nStudents - $10\n\nSeniors - $10\n
+ General Admission - $15\n\n\nPhone: 9187983493\n\n307 East Mathew B. Brady
+  Street\nTulsa\, OK\n74120\n\n
+DTSTART:20191107T200000
+DTEND:20191107T200000
+LOCATION:Living Arts of Tulsa
+PRIORITY:
+RRULE:FREQ=WEEKLY;UNTIL=20191116;INTERVAL=2;BYDAY=TH,FR,SA;WKST=SU
+SUMMARY:Don Juan
+URL:http://www.telatulsa.org
+END:VEVENT
+END:VCALENDAR

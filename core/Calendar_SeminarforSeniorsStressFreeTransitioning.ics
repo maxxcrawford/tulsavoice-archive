@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48897_20@www.thetulsavoice.com
+DTSTAMP:20191211T191256Z
+CATEGORIES:EVENTS
+CONTACT:Pam Myers
+DESCRIPTION:<p style='line-height:1.38\;margin-top:0pt\;margin-bottom:0pt\;
+ '>Join us to learn tips about moving and local resources that can make you
+ r future transition seamless and stress free. This seminar will provide an
+  informative\, interactive\, educational seminar\, addressing the key conc
+ erns for older adults who are anticipating an upcoming move. You will leav
+ e the seminar equipped with how to plan your move and an invaluable wealth
+  of resources. Sponsored by the folks at Change Of Address Services.</p>\n
+ <p> </p>\n\n<p style='line-height:1.38\;margin-top:0pt\;margin-bottom:0pt\
+ ;'>Your attendance is welcomed\, but you must register via email to pamela
+ myers4999@gmail.com as space is limited.  Cost is $50 per person.</p>\n\n<
+ p style='line-height:1.68\;margin-top:0pt\;margin-bottom:8pt\;'> </p>\n\n 
+ \n\n\nPhone: 651-964-0212\n\n6808 S. 107th E\, Avenue\nTulsa\, OK\n74133\n
+DTSTART:20191216T190000
+DTEND:20191216T190000
+LOCATION:Renaissance Tulsa
+PRIORITY:
+SUMMARY:Seminar for Seniors: Stress Free Transitioning
+URL:https://www.us-mailing-change-of-address.com/post-office-locations/okla
+ homa/
+END:VEVENT
+END:VCALENDAR

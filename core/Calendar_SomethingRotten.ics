@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:44789_20@www.thetulsavoice.com
+DTSTAMP:20191211T201255Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Two unsuccessful Elizabethan-era playwrights set out to change 
+ the game by producing the world's first musical in this farce.\n\n701 S Ma
+ in St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20190504
+DTEND;VALUE=DATE:20190504
+LOCATION:Broken Arrow Performing Arts Center
+PRIORITY:
+SUMMARY:Something Rotten!
+URL:http://brokenarrowpac.com
+END:VEVENT
+END:VCALENDAR

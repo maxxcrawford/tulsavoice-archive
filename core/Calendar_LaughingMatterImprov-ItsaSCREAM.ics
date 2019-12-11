@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:38306_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:COMEDY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Jerry Henderson
+DESCRIPTION:<p style='text-align:center\;'>Are you thirsting for some fun i
+ n October?</p>\n\n<p style='text-align:center\;'>If you're feeling drained
+ \, bring your boyfriend/ghoulfriend and join the other children of the nig
+ ht for a show that's so funny\, it's spooky.</p>\n\n<p style='text-align:c
+ enter\;'>8:00 p.m.\, Saturday\, October 20th at the PH Community House\, l
+ ocated a half-mile west of the Cox Center on 3rd Street.</p>\n\n<p style='
+ text-align:center\;'>Admission is $8.00 ($4.00 for children under 12)<br /
+ >\nWe accept cash or debit/credit card (VISA or MasterCard only)</p>\n\n<p
+ >For more information\, follow us on Facebook (http://www.facebook.com/Lau
+ ghingMatterImprov)</p>\n\n<p> </p>\n\n\n306 South Phoenix Avenue\nTulsa\, 
+ OK\n74127\n\n
+DTSTART:20181020T200000
+DTEND:20181020T213000
+LOCATION:PH Community House
+PRIORITY:
+SUMMARY:Laughing Matter Improv - It's a SCREAM!
+URL:http://www.facebook.com/LaughingMatterImprov
+END:VEVENT
+END:VCALENDAR

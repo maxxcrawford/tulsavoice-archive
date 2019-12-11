@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:47834_20@www.thetulsavoice.com
+DTSTAMP:20191211T201210Z
+CATEGORIES:MUSIC,PERFORMING ARTS
+DESCRIPTION:<p style='margin-bottom:0px\;padding:0px\;color:rgb(111\,114\,1
+ 35)\;'>Based on the classic novel\, which inspired the 1955 movie starring
+  Fred Astaire\, Daddy Long Legs is a beloved tale in the spirit of Jane Au
+ sten\, The Brontë Sisters and “Downton Abbey.” Daddy Long Legs features mu
+ sic and lyrics by Tony Award-nominated composer/lyricist\, Paul Gordon (Ja
+ ne Eyre)\, and Tony-winning librettist/director\, John Caird (Les Misérabl
+ es)\, and is a “rags-to-riches” tale of newfound love.<br /><br />\nJerush
+ a Abbott (Margaret Stall) is the “Oldest Orphan in the John Grier Home” un
+ til a mysterious benefactor decides to send her to college to be educated 
+ as a writer. Required to write him a letter once a month\, she is never to
+  know the benefactor’s identity – so she invents one for him: Daddy Long L
+ egs. Although she knows that he will never respond to her letters\, she gr
+ ows more and more fond of this elusive and kindly “old” gentleman. But ano
+ ther relationship soon begins to develop in Jerusha’s life. Jervis Pendlet
+ on (Samuel Briggs) is the well-do-do\, “youngish” uncle of one of Jerusha’
+ s roommates\, who introduces her to a world of literature\, travel and adv
+ enture. Through her correspondence with Daddy Long Legs and her growing in
+ timacy with Jervis\, Jerusha’s letters chronicle her emergence as a deligh
+ tfully independent “New American Woman.” Yet\, there is one startling fact
+  that Jerusha has yet to uncover – a fact that will change her life foreve
+ r.</p>\n\n<p style='margin-bottom:0px\;padding:10px 0px 0px\;color:rgb(111
+ \,114\,135)\;'>Join us for the Oklahoma premier of this beautiful\, deligh
+ tful musical!</p>\n\n<p style='margin-bottom:0px\;padding:10px 0px 0px\;co
+ lor:rgb(111\,114\,135)\;'> </p>\n\n\n621 East 4th Street\nLynn Riggs Black
+  Box Theatre\nTulsa\, OK\n74120\n\n
+DTSTART:20191115T200000
+DTEND:20191115T223000
+LOCATION:Lynn Riggs Black Box Theater at OKEQ
+PRIORITY:
+RRULE:FREQ=WEEKLY;UNTIL=20191116;INTERVAL=1;BYDAY=FR,SA;WKST=SU
+SUMMARY:Daddy Long Legs - Tulsa
+URL:https://daddylonglegstulsa.eventbrite.com
+END:VEVENT
+END:VCALENDAR

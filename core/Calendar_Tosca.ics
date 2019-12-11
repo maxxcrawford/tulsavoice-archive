@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:28870_20@www.thetulsavoice.com
+DTSTAMP:20191211T201220Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>&ldquo\;Tosca&rdquo\;: the pinnacle of passion\, the epitome
+  of emotion\, the drama deluxe. Giacomo Puccini&rsquo\;s grand tragic oper
+ a about two mortal enemies both in pursuit of Floria Tosca has challenged 
+ a century&rsquo\;s worth of singers to reach the highest levels of vocal t
+ echnique and expression (without chewing up the scenery). Last season\, wh
+ en Tulsa Opera\, newly under the direction of acclaimed composer Tobias Pi
+ cker\, polled its audience for its most-wanted list\, &ldquo\;Tosca&rdquo\
+ ;&nbsp\;took the top spot. For this production\, designed by the late Fren
+ ch director Jean-Pierre Ponnelle\, both the conductor and the tenor make t
+ heir American debuts\; add a Finnish baritone and a Russian soprano and yo
+ u have the makings of an operatic feast.</p>\n\n\nPhone: 918.596.7122\n\n1
+ 10 E. 2nd St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20170505
+DTEND;VALUE=DATE:20170507
+LOCATION:Tulsa Performing Arts Center - Chapman Music Hall
+PRIORITY:
+SUMMARY:Tosca
+URL:http://tulsaopera.com
+END:VEVENT
+END:VCALENDAR

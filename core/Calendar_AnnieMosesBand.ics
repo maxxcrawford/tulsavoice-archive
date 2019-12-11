@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:48527_20@www.thetulsavoice.com
+DTSTAMP:20191211T201209Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:This blend of Classical and Folk is sure to please the whole fa
+ mily.\n\nOK\n
+DTSTART:20191110T200000
+DTEND:20191110T000000
+LOCATION:Broken Arrow Performing Arts Center
+PRIORITY:
+SUMMARY:Annie Moses Band
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=48527
+END:VEVENT
+END:VCALENDAR

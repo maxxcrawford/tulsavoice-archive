@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:18726_20@www.thetulsavoice.com
+DTSTAMP:20191211T201221Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Founded in 1985\, Parsons Dance Company maintains a repertoire 
+ of more than 80 original works by coreographer David Parsons\, many of whi
+ ch were created through collaborations with such disparate artists as Anni
+ e Leibovitz\, Julie Taymor and Dave Matthews. Presented by Choregus Produc
+ tions.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150912
+DTEND;VALUE=DATE:20150912
+LOCATION:Chapman Music Hall\, PAC
+PRIORITY:
+SUMMARY:Parsons Dance
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR

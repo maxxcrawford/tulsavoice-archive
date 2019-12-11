@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:30872_20@www.thetulsavoice.com
+DTSTAMP:20191211T201246Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Eight original short plays by local writers explore the them
+ e of &ldquo\;bad excuses&rdquo\; in time-travel comedy\, familial drama\, 
+ psychological thriller\, and more.&nbsp\;</p>\n\n\n1416 E. 4th St.\nTulsa\
+ , OK\n
+DTSTART;VALUE=DATE:20170908
+DTEND;VALUE=DATE:20170910
+LOCATION:Nightingale Theater
+PRIORITY:
+SUMMARY:Heller Shorts 2017: The Dog 8 My Shorts
+URL:http://hellertheatreco.com
+END:VEVENT
+END:VCALENDAR

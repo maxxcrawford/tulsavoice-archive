@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:23159_20@www.thetulsavoice.com
+DTSTAMP:20191211T201207Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>A family reunion turns into a showdown as contrasting perspe
+ ctives and memories collide in this original play by local playwright and 
+ novelist Emile Adams. The sharply written play\, a healthy dose of reality
+ \, is the final production of Heller Theatre Company&#39\;s 2015-16 season
+ .</p>\n\n\n4825 S. Quaker Ave.\nTulsa\, OK\n74105\n\n
+DTSTART;VALUE=DATE:20160519
+DTEND;VALUE=DATE:20160519
+LOCATION:Henthorne PAC
+PRIORITY:
+SUMMARY:I Wish You Actually Liked Me...
+URL:http://hellertheatreco.com/
+END:VEVENT
+END:VCALENDAR

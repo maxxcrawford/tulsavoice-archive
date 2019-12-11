@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:49136_20@www.thetulsavoice.com
+DTSTAMP:20191211T191221Z
+CATEGORIES:EVENTS
+DESCRIPTION:'Ticket price includes seven 4oz tasters\, transportation betwe
+ en breweries\, a koozie or glass\, seven beverages\, glow sticks and more.
+  Participating breweries: Pearl Beach\, Cabin Boys\, American Solera\, Not
+ hing's Left.'\n\nOK\n
+DTSTART:20191213T190000
+DTEND:20191213T000000
+LOCATION:The Pearl District
+PRIORITY:
+SUMMARY:Santa's Brew-Hop in The Pearl
+URL:http://www.thetulsavoice.com/Tulsa-Events/?view=view_event&itm=49136
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:20736_20@www.thetulsavoice.com
+DTSTAMP:20191211T201244Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Spinning Plates Productions presents the second in its serie
+ s of Little Big Musicals\, Dreamgirls In Concert. As with all entries in t
+ he series\, the entire script and score of Dreamgirls will be performed in
+  a concert setting. Based on the story of Motown and its performers\, the 
+ original Broadway production won six Tony Awards and the 2006 movie adapta
+ tion won two Oscars. This Little Big Musicals production is directed by Ma
+ chele Miller Dill and the cast features Dionne White\, LaToya Tillis\, Bri
+ ana Wright\, Roderick Hudson and Nash Wayne McQuarters.</p>\n\n\n110 E. 2n
+ d St.\nTulsa\, OK\n74103\n\n
+DTSTART;VALUE=DATE:20151217
+DTEND;VALUE=DATE:20151223
+LOCATION:Tulsa Performing Arts Center - Liddy Doenges Theatre
+PRIORITY:
+SUMMARY:Dreamgirls In Concert
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

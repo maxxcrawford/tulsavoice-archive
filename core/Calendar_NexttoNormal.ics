@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:17224_20@www.thetulsavoice.com
+DTSTAMP:20191211T201215Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Presented for the first time in Tulsa\, Next to Normal is a 
+ Pulitzer Prize winning hybrid of hard-rock musical and hard-hitting drama 
+ about a mother who struggles with worsening bipolar disorder and the effec
+ t her illness and her attempts to alleviate it have on her family. Directe
+ d by Vern Stefanic and starring Cathy Rose\, Mike Pryor\, Cody McCoy\, Han
+ nah Finnegan\, David Moreland and Thomas Williams. Presented by Theatre Tu
+ lsa.</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150619
+DTEND;VALUE=DATE:20150621
+LOCATION:John H. Williams Theatre\, Tulsa PAC
+PRIORITY:
+SUMMARY:Next to Normal
+URL:http://tulsapac.com/index.asp
+END:VEVENT
+END:VCALENDAR

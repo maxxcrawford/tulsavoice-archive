@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:25700_20@www.thetulsavoice.com
+DTSTAMP:20191211T201241Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:A night of powerful and entertaining poetry from National Poetr
+ y Slam competitors\, Neo-Soul Poetry Slam from Austin\, TX.\n\nPhone: (918
+ ) 585-1234\n\n307 East M.B. Brady Street\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20161021
+DTEND;VALUE=DATE:20161021
+LOCATION:Living Arts
+PRIORITY:
+SUMMARY:Neo-Soul Poetry Slam
+URL:http://www.livingarts.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:42492_20@www.thetulsavoice.com
+DTSTAMP:20191211T201229Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Signature Symphony will perform Tchaikovsky's Concerto for Viol
+ in in D major\, op. 35\, and Amy Beach's Symphony in E minor (Gaelic) feat
+ uring 22-year-old award-winning violinist Rubn Rengel.\n\n10300 E 81st St
+ Tulsa\, OK\n
+DTSTART;VALUE=DATE:20190316
+DTEND;VALUE=DATE:20190316
+LOCATION:Van Trease PACE
+PRIORITY:
+SUMMARY:Power of Diversity
+URL:http://signaturesymphony.org
+END:VEVENT
+END:VCALENDAR

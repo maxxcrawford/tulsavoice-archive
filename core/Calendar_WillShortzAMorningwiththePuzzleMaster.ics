@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:16155_20@www.thetulsavoice.com
+DTSTAMP:20191211T201253Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:Will Shortz is the Crossword Editor of the New York Times\, Puz
+ zle Master for NPR's Weekend Edition Sunday\, the author and editor of mor
+ e than 500 puzzle books and the subject of the award-winning documentary W
+ ordplay. He will share how crosswords are created\, their curious history 
+ and how his lifelong passion for puzzles began.\n\n110 E 2nd St\nTulsa\, O
+ K\n
+DTSTART:20150417T180000
+DTEND:20150417T000000
+LOCATION:Chapman Music Hall\, Tulsa PAC
+PRIORITY:
+SUMMARY:Will Shortz: A Morning with the Puzzle Master
+URL:http://tulsapac.com/events.asp?id=92&eventid=2855&task=display
+END:VEVENT
+END:VCALENDAR

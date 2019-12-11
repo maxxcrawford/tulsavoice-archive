@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:41447_20@www.thetulsavoice.com
+DTSTAMP:20191211T201230Z
+CATEGORIES:COMEDY,FAMILY,NIGHTLIFE & ENTERTAINMENT,PERFORMING ARTS
+CONTACT:Jerry Henderson
+DESCRIPTION:<p>If you can&#39\;t visit the Emerald Isle\, then the next\, b
+ est thing is to spend the evening with Laughing Matter Improv.</p>\n\n<p>W
+ e&#39\;ve no pot o&#39\; gold for you\, but you&#39\;ll be wealthy with la
+ ughter.&nbsp\; it&#39\;s more fun than you can shake a shillelagh at!</p>
+ \n<p>Join us on Saturday\, March 16th\, 8:00 p.m.\, at the PH Community Ho
+ use\, located a half-mile west of the Cox Center on 3rd Street.</p>\n\n<p>
+ Laughing Matter is a live comedy show using suggestions from the audience 
+ to create a fun evening for everyone.</p>\n\n<p>Our shows are PG-rated\, i
+ n a &ldquo\;Whose Line is It Anyway?&rdquo\; style.</p>\n\n<p>&nbsp\;</p>
+ \n<p>We accept cash or debit/credit card (VISA or MasterCard only)</p>\n\n
+ 306 South Phoenix Avenue\nTulsa\, OK\n74127\n\n
+DTSTART:20190316T200000
+DTEND:20190316T213000
+LOCATION:PH Community House
+PRIORITY:
+SUMMARY:Laughing Matter Improv - They're Magically Delicious!
+URL:http://www.facebook.com/LaughingMatterImprov
+END:VEVENT
+END:VCALENDAR

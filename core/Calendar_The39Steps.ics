@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:15526_20@www.thetulsavoice.com
+DTSTAMP:20191211T201249Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:<p>Alfred Hitchcock&#39\;s 1935 spy thriller gets twisted in th
+ is spoof presented by Theatre Tulsa in which a chance encounter leads to a
+  man being hunted down by a mysterious organization. Chris Williams plays 
+ Richard Hannay\, the dashing hero\, Laura Skoch plays all three of Hannay&
+ #39\;s romantic interests\, and Robert Yound and Andy Axewell play every o
+ ther character in the script&mdash\;around 100 of them in total. This will
+  ensure some absurdity\, with actors performing quick changes and even por
+ traying multiple characters at once.</p>\n\n<p>Performances at the Tulsa P
+ erforming Arts Center&#39\;s Liddy&nbsp\;Doenges Theatre are March 26-28 a
+ t 8 p.m.</p>\n\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20150320
+DTEND;VALUE=DATE:20150329
+LOCATION:Liddy Doenges Theatre\, PAC
+PRIORITY:
+SUMMARY:The 39 Steps
+URL:http://tulsapac.com/events.asp?id=92&eventid=2926&task=display
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:Godengo, Inc
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar
+X-WR-CALDESC:This is a calendar exported from the Rivista calendaring syste
+ m
+X-WR-TIMEZONE:US/Pacific
+BEGIN:VEVENT
+UID:39448_20@www.thetulsavoice.com
+DTSTAMP:20191211T201254Z
+CATEGORIES:PERFORMING ARTS
+DESCRIPTION:See the true-life story of The Greatest Showman on Earth\, P.T.
+  Barnum.\n\n110 E 2nd St\nTulsa\, OK\n
+DTSTART;VALUE=DATE:20181102
+DTEND;VALUE=DATE:20181110
+LOCATION:Tulsa PAC - John H. Williams Theatre
+PRIORITY:
+SUMMARY:Barnum: The Musical
+URL:http://tulsapac.com
+END:VEVENT
+END:VCALENDAR
