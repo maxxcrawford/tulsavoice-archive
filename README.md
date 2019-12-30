@@ -1,5 +1,7 @@
 # The Tulsa Voice Website Archive
+
 Archive of the Tulsa Voice website – TheTulsaVoice.com
+
 Created on December 18, 2019
 
 ## List of Issues
