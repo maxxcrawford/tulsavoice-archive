@@ -6,7 +6,12 @@ Created on December 18, 2019
 
 ## List of Issues
 
+### 2013
+
 - [December B 2013](https://tulsa-voice.github.io/archive/December-2013/)
+
+### 2014
+
 - [January A 2014](https://tulsa-voice.github.io/archive/January-2014/)
 - [January B 2014](https://tulsa-voice.github.io/archive/January-B-2014/)
 - [February A 2014](https://tulsa-voice.github.io/archive/February-2014/)
@@ -31,6 +36,9 @@ Created on December 18, 2019
 - [November B 2014](https://tulsa-voice.github.io/archive/November-B-2014/)
 - [December A 2014](https://tulsa-voice.github.io/archive/December-A-2014/)
 - [December B 2014](https://tulsa-voice.github.io/archive/December-B-2014/)
+
+### 2015
+
 - [January A 2015](https://tulsa-voice.github.io/archive/January-A-2015/)
 - [January B 2015](https://tulsa-voice.github.io/archive/January-B-2015/)
 - [February A 2015](https://tulsa-voice.github.io/archive/February-A-2015/)
@@ -55,6 +63,9 @@ Created on December 18, 2019
 - [November B 2015](https://tulsa-voice.github.io/archive/November-B-2015/)
 - [December A 2015](https://tulsa-voice.github.io/archive/December-A-2015/)
 - [December B 2015](https://tulsa-voice.github.io/archive/December-B-2015/)
+
+### 2016
+
 - [January A 2016](https://tulsa-voice.github.io/archive/January-A-2016/)
 - [January B 2016](https://tulsa-voice.github.io/archive/January-B-2016/)
 - [February A 2016](https://tulsa-voice.github.io/archive/February-A-2016/)
@@ -79,6 +90,9 @@ Created on December 18, 2019
 - [November B 2016](https://tulsa-voice.github.io/archive/November-B-2016/)
 - [December A 2016](https://tulsa-voice.github.io/archive/December-A-2016/)
 - [December B 2016](https://tulsa-voice.github.io/archive/December-B-2016/)
+
+### 2017
+
 - [January A 2017](https://tulsa-voice.github.io/archive/January-A-2017/)
 - [January B 2017](https://tulsa-voice.github.io/archive/January-B-2017/)
 - [February A 2017](https://tulsa-voice.github.io/archive/February-A-2017/)
@@ -103,6 +117,9 @@ Created on December 18, 2019
 - [November B 2017](https://tulsa-voice.github.io/archive/November-B-2017/)
 - [December A 2017](https://tulsa-voice.github.io/archive/December-A-2017/)
 - [December B 2017](https://tulsa-voice.github.io/archive/December-B-2017/)
+
+### 2018
+
 - [January A 2018](https://tulsa-voice.github.io/archive/January-A-2018/)
 - [January B 2018](https://tulsa-voice.github.io/archive/January-B-2018/)
 - [February A 2018](https://tulsa-voice.github.io/archive/February-A-2018/)
@@ -126,6 +143,9 @@ Created on December 18, 2019
 - [November B 2018](https://tulsa-voice.github.io/archive/November-B-2018/)
 - [December A 2018](https://tulsa-voice.github.io/archive/December-A-2018/)
 - [December B 2018](https://tulsa-voice.github.io/archive/December-B-2018/)
+
+### 2019
+
 - [January A 2019](https://tulsa-voice.github.io/archive/January-A-2019/)
 - [January B 2019](https://tulsa-voice.github.io/archive/January-B-2019/)
 - [February A 2019](https://tulsa-voice.github.io/archive/February-A-2019/)
