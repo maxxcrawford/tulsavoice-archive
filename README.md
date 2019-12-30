@@ -1,2 +1,1 @@
-# tulsavoice-archive
-Arcive of Tulsa Voice website – TheTulsaVoice.com
+Please see the `master` branch of this project for more information.
